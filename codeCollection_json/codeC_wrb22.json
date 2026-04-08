@@ -1,0 +1,943 @@
+[
+
+    { 
+        "localid": "position",
+        "Language": "en",
+        "collection": "position",
+        "label": "Position",
+        "description": "Table 8.1: Position of the profile_ Schoeneberger et al.(2012)_ 1-7_ modified_ p. 164. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a181",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.1"
+    },
+    {
+        "localid": "position",
+        "Language": "en",
+        "collection": "position",
+        "label": "Position",
+        "description": "Table 8.1: Position of the profile_ Schoeneberger et al.(2012)_ 1-7_ modified_ p. 164. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a181",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.1"
+    },
+    {
+        "localid": "climate",
+        "Language": "en",
+        "collection": "climate",
+        "label": "Climate according to Köppen(1936)",
+        "description": "Table 8.2: Climate according to Köppen(1936)_ p. 164. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a182",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.2"
+    },
+    {
+        "localid": "ecozones",
+        "Language": "en",
+        "collection": "ecozones",
+        "label": "Ecozones according to Schultz(2005_ adapted)",
+        "description": "Table 8.3: Ecozones according to Schultz(2005_ adapted)_ p. 165. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a183",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.3"
+    },
+    {
+        "localid": "season",
+        "Language": "en",
+        "collection": "season",
+        "label": "Season of description",
+        "description": "Table 8.4: Season of description_ p. 165. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a184",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.4"
+    },
+    {
+        "localid": "current",
+        "Language": "en",
+        "collection": "current",
+        "label": "Current weather conditions_ Schoeneberger et al.(2012)_ 1-1",
+        "description": "Table 8.5: Current weather conditions_ Schoeneberger et al.(2012)_ 1-1_ p. 166. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a185",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.5"
+    },
+    {
+        "localid": "past",
+        "Language": "en",
+        "collection": "past",
+        "label": "Past weather conditions FAO(2006)_ Table 2",
+        "description": "Table 8.6: Past weather conditions FAO(2006)_ Table 2_ p. 166. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a186",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.6"
+    },
+    {
+        "localid": "vegetation",
+        "Language": "en",
+        "collection": "vegetation",
+        "label": "Vegetation strata_ National Committee on Soil and Terrain(2009)_ 79_ modified",
+        "description": "Table 8.7: Vegetation strata_ National Committee on Soil and Terrain(2009)_ 79_ modified_ p. 166. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a187",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.7"
+    },
+    {
+        "localid": "vegetation",
+        "Language": "en",
+        "collection": "vegetation",
+        "label": "Vegetation strata_ National Committee on Soil and Terrain(2009)_ 79_ modified",
+        "description": "Table 8.8: Vegetation strata_ National Committee on Soil and Terrain(2009)_ 79_ modified_ p. 166. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a188",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.8"
+    },
+    {
+        "localid": "cultivation",
+        "Language": "en",
+        "collection": "cultivation",
+        "label": "Cultivation type",
+        "description": "Table 8.9: Cultivation type_ p. 166. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a189",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.9"
+    },
+    {
+        "localid": "special",
+        "Language": "en",
+        "collection": "special",
+        "label": "Special techniques to enhance site productivity",
+        "description": "Table 8.10: Special techniques to enhance site productivity_ p. 168. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1810",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.10"
+    },
+    {
+        "localid": "size",
+        "Language": "en",
+        "collection": "size",
+        "label": "Size of coarse surface fragments_ FAO(2006)_ Table 15",
+        "description": "Table 8.11: Size of coarse surface fragments_ FAO(2006)_ Table 15_ p. 169. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1811",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.11"
+    },
+    {
+        "localid": "patterned",
+        "Language": "en",
+        "collection": "patterned",
+        "label": "Patterned ground",
+        "description": "Table 8.12: Patterned ground_ p. 169. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1812",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.12"
+    },
+    {
+        "localid": "width",
+        "Language": "en",
+        "collection": "width",
+        "label": "Width of surface cracks_ FAO(2006)_ Table 21",
+        "description": "Table 8.13: Width of surface cracks_ FAO(2006)_ Table 21_ p. 170. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1813",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.13"
+    },
+    {
+        "localid": "distance",
+        "Language": "en",
+        "collection": "distance",
+        "label": "Distance between surface cracks_ FAO(2006)_ Table 21_ modified",
+        "description": "Table 8.14: Distance between surface cracks_ FAO(2006)_ Table 21_ modified_ p. 170. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1814",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.14"
+    },
+    {
+        "localid": "spatial",
+        "Language": "en",
+        "collection": "spatial",
+        "label": "Spatial arrangement of surface cracks",
+        "description": "Table 8.15: Spatial arrangement of surface cracks_ p. 170. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1815",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.15"
+    },
+    {
+        "localid": "persistence",
+        "Language": "en",
+        "collection": "persistence",
+        "label": "Persistence of surface cracks",
+        "description": "Table 8.16: Persistence of surface cracks_ p. 170. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1816",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.16"
+    },
+    {
+        "localid": "water",
+        "Language": "en",
+        "collection": "water",
+        "label": "Water above the soil surface",
+        "description": "Table 8.17: Water above the soil surface_ p. 171. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1817",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.17"
+    },
+    {
+        "localid": "water",
+        "Language": "en",
+        "collection": "water",
+        "label": "Water repellence",
+        "description": "Table 8.18: Water repellence_ p. 171. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1818",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.18"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of natural surface unevenness",
+        "description": "Table 8.19: Types of natural surface unevenness_ p. 171. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1819",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.19"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of human-made surface unevenness",
+        "description": "Table 8.20: Types of human-made surface unevenness_ p. 172. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1820",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.20"
+    },
+    {
+        "localid": "categories",
+        "Language": "en",
+        "collection": "categories",
+        "label": "Categories of erosion_ FAO(2006)_ Table 16",
+        "description": "Table 8.21: Categories of erosion_ FAO(2006)_ Table 16_ p. 172. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1821",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.21"
+    },
+    {
+        "localid": "degree",
+        "Language": "en",
+        "collection": "degree",
+        "label": "Degree of erosion_ FAO(2006)_ Table 18",
+        "description": "Table 8.22: Degree of erosion_ FAO(2006)_ Table 18_ p. 173. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1822",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.22"
+    },
+    {
+        "localid": "activity",
+        "Language": "en",
+        "collection": "activity",
+        "label": "Activity of erosion_ FAO(2006)_ Table 19",
+        "description": "Table 8.23: Activity of erosion_ FAO(2006)_ Table 19_ p. 173. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1823",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.23"
+    },
+    {
+        "localid": "position",
+        "Language": "en",
+        "collection": "position",
+        "label": "Position of the soil profile_ if the soil surface is uneven",
+        "description": "Table 8.24: Position of the soil profile_ if the soil surface is uneven_ p. 173. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1824",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.24"
+    },
+    {
+        "localid": "technical",
+        "Language": "en",
+        "collection": "technical",
+        "label": "Technical surface alterations",
+        "description": "Table 8.25: Technical surface alterations_ p. 173. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1825",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.25"
+    },
+    {
+        "localid": "presence",
+        "Language": "en",
+        "collection": "presence",
+        "label": "Presence of strata within a layer",
+        "description": "Table 8.26: Presence of strata within a layer_ p. 175. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1826",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.26"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of water saturation",
+        "description": "Table 8.27: Types of water saturation_ p. 175. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1827",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.27"
+    },
+    {
+        "localid": "soil",
+        "Language": "en",
+        "collection": "soil",
+        "label": "Soil water status_ FAO(2006)_ Table 57_ modified",
+        "description": "Table 8.28: Soil water status_ FAO(2006)_ Table 57_ modified_ p. 176. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1828",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.28"
+    },
+    {
+        "localid": "organic",
+        "Language": "en",
+        "collection": "organic",
+        "label": "Organic (hydromorphic and terrestrial)_ organotechnic and mineral layers",
+        "description": "Table 8.29: Organic (hydromorphic and terrestrial)_ organotechnic and mineral layers_ p. 176. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1829",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.29"
+    },
+    {
+        "localid": "distinctness",
+        "Language": "en",
+        "collection": "distinctness",
+        "label": "Distinctness of layer boundaries_ Schoeneberger et al.(2012)_ 2-6_ modified",
+        "description": "Table 8.30: Distinctness of layer boundaries_ Schoeneberger et al.(2012)_ 2-6_ modified_ p. 176. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1830",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.30"
+    },
+    {
+        "localid": "shape",
+        "Language": "en",
+        "collection": "shape",
+        "label": "Shape of layer boundaries_ Schoeneberger et al.(2012)_ 2-7",
+        "description": "Table 8.31: Shape of layer boundaries_ Schoeneberger et al.(2012)_ 2-7_ p. 177. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1831",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.31"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of wind deposition",
+        "description": "Table 8.32: Types of wind deposition_ p. 177. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1832",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.32"
+    },
+    {
+        "localid": "size",
+        "Language": "en",
+        "collection": "size",
+        "label": "Size and shape classes of coarse fragments and of remnants of broken-up cemented layers_ FAO(2006)_ Tables 27 and 28",
+        "description": "Table 8.33: Size and shape classes of coarse fragments and of remnants of broken-up cemented layers_ FAO(2006)_ Tables 27 and 28_ p. 178. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1833",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.33"
+    },
+    {
+        "localid": "weathering",
+        "Language": "en",
+        "collection": "weathering",
+        "label": "Weathering stage of coarse fragments_ FAO(2006)_ Table 29",
+        "description": "Table 8.34: Weathering stage of coarse fragments_ FAO(2006)_ Table 29_ p. 178. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1834",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.34"
+    },
+    {
+        "localid": "remnants",
+        "Language": "en",
+        "collection": "remnants",
+        "label": "Remnants of broken-up cemented layers: cementing agent",
+        "description": "Table 8.35: Remnants of broken-up cemented layers: cementing agent_ p. 178. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1835",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.35"
+    },
+    {
+        "localid": "examples",
+        "Language": "en",
+        "collection": "examples",
+        "label": "Examples of artefacts_ Schoeneberger et al.(2012)_ 2-50_ modified",
+        "description": "Table 8.36: Examples of artefacts_ Schoeneberger et al.(2012)_ 2-50_ modified_ p. 180. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1836",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.36"
+    },
+    {
+        "localid": "size",
+        "Language": "en",
+        "collection": "size",
+        "label": "Size of artefacts_ FAO(2006)_ Table 27",
+        "description": "Table 8.37: Size of artefacts_ FAO(2006)_ Table 27_ p. 181. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1837",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.37"
+    },
+    {
+        "localid": "particle-size",
+        "Language": "en",
+        "collection": "particle-size",
+        "label": "Particle-size classes_ ISO 11277:2009(International Organization for Standardization 2015)",
+        "description": "Table 8.38: Particle-size classes_ ISO 11277:2009(International Organization for Standardization 2015)_ p. 181. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1838",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.38"
+    },
+    {
+        "localid": "texture",
+        "Language": "en",
+        "collection": "texture",
+        "label": "Texture classes_ Soil Science Division Staff(2017)",
+        "description": "Table 8.39: Texture classes_ Soil Science Division Staff(2017)_ p. 182. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1839",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.39"
+    },
+    {
+        "localid": "subclasses",
+        "Language": "en",
+        "collection": "subclasses",
+        "label": "Subclasses of the texture classes sand and loamy sand_ Soil Science Division Staff(2017)_ modified; the percentages of the sand fractions are related to the entire fine earth (not related to sand).",
+        "description": "Table 8.40: Subclasses of the texture classes sand and loamy sand_ Soil Science Division Staff(2017)_ modified; the percentages of the sand fractions are related to the entire fine earth (not related to sand)._ p. 184. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1840",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.40"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of structure_ descriptions_ Schoeneberger et al_(2012)_ 2-53_ FAO(2006)_ Table 49_ National Committee on Soil and Terrain(2009)_ 171-181_ modified",
+        "description": "Table 8.41: Types of structure_ descriptions_ Schoeneberger et al_(2012)_ 2-53_ FAO(2006)_ Table 49_ National Committee on Soil and Terrain(2009)_ 171-181_ modified_ p. 186. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1841",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.41"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of structure_ formation and codes",
+        "description": "Table 8.42: Types of structure_ formation and codes_ p. 188. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1842",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.42"
+    },
+    {
+        "localid": "grade",
+        "Language": "en",
+        "collection": "grade",
+        "label": "Grade of structural units_ Soil Science Division Staff(2017)_ 159f_ modified",
+        "description": "Table 8.43: Grade of structural units_ Soil Science Division Staff(2017)_ 159f_ modified_ p. 189. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1843",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.43"
+    },
+    {
+        "localid": "aggregate",
+        "Language": "en",
+        "collection": "aggregate",
+        "label": "Aggregate penetrability for roots",
+        "description": "Table 8.44: Aggregate penetrability for roots_ p. 189. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1844",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.44"
+    },
+    {
+        "localid": "aggregate",
+        "Language": "en",
+        "collection": "aggregate",
+        "label": "Aggregate size_ Schoeneberger et al.(2012)_ 2-55_ FAO(2006)_ Table 50_ modified",
+        "description": "Table 8.45: Aggregate size_ Schoeneberger et al.(2012)_ 2-55_ FAO(2006)_ Table 50_ modified_ p. 189. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1845",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.45"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of non-matrix pores_ Schoeneberger et al.(2012)_ 2-73_ modified",
+        "description": "Table 8.46: Types of non-matrix pores_ Schoeneberger et al.(2012)_ 2-73_ modified_ p. 190. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1846",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.46"
+    },
+    {
+        "localid": "pore",
+        "Language": "en",
+        "collection": "pore",
+        "label": "Pore size_ Schoeneberger et al.(2012)_ 2-70",
+        "description": "Table 8.47: Pore size_ Schoeneberger et al.(2012)_ 2-70_ p. 190. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1847",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.47"
+    },
+    {
+        "localid": "abundance",
+        "Language": "en",
+        "collection": "abundance",
+        "label": "Abundance of pores_ Schoeneberger et al.(2012)_ 2-70_ modified",
+        "description": "Table 8.48: Abundance of pores_ Schoeneberger et al.(2012)_ 2-70_ modified_ p. 190. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1848",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.48"
+    },
+    {
+        "localid": "persistence",
+        "Language": "en",
+        "collection": "persistence",
+        "label": "Persistence of cracks_ Schoeneberger et al.(2012)_ 2-76",
+        "description": "Table 8.49: Persistence of cracks_ Schoeneberger et al.(2012)_ 2-76_ p. 191. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1849",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.49"
+    },
+    {
+        "localid": "continuity",
+        "Language": "en",
+        "collection": "continuity",
+        "label": "Continuity of cracks",
+        "description": "Table 8.50: Continuity of cracks_ p. 191. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1850",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.50"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of concentrations (overview)_ Soil Science Division Staff.(2017)_ page 174f",
+        "description": "Table 8.51: Types of concentrations (overview)_ Soil Science Division Staff.(2017)_ page 174f_ p. 192. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1851",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.51"
+    },
+    {
+        "localid": "size",
+        "Language": "en",
+        "collection": "size",
+        "label": "Size of lithogenic variegates_ FAO(2006)_ Table 33",
+        "description": "Table 8.52: Size of lithogenic variegates_ FAO(2006)_ Table 33_ p. 194. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1852",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.52"
+    },
+    {
+        "localid": "substance",
+        "Language": "en",
+        "collection": "substance",
+        "label": "Substance of oximorphic features",
+        "description": "Table 8.53: Substance of oximorphic features_ p. 195. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1853",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.53"
+    },
+    {
+        "localid": "substance",
+        "Language": "en",
+        "collection": "substance",
+        "label": "Substance of reductimorphic features",
+        "description": "Table 8.54: Substance of reductimorphic features_ p. 195. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1854",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.54"
+    },
+    {
+        "localid": "location",
+        "Language": "en",
+        "collection": "location",
+        "label": "Location of some reductimorphic features",
+        "description": "Table 8.55: Location of some reductimorphic features_ p. 195. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1855",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.55"
+    },
+    {
+        "localid": "location",
+        "Language": "en",
+        "collection": "location",
+        "label": "Location of reductimorphic features",
+        "description": "Table 8.56: Location of reductimorphic features_ p. 196. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1856",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.56"
+    },
+    {
+        "localid": "size",
+        "Language": "en",
+        "collection": "size",
+        "label": "Size of oximorphic features_ FAO(2006)_ Table 33",
+        "description": "Table 8.57: Size of oximorphic features_ FAO(2006)_ Table 33_ p. 196. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1857",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.57"
+    },
+    {
+        "localid": "consistence",
+        "Language": "en",
+        "collection": "consistence",
+        "label": "Consistence of oximorphic features_ Schoeneberger et al.(2012)_ 2-63",
+        "description": "Table 8.58: Consistence of oximorphic features_ Schoeneberger et al.(2012)_ 2-63_ p. 197. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1858",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.58"
+    },
+    {
+        "localid": "ranges",
+        "Language": "en",
+        "collection": "ranges",
+        "label": "Ranges of rH values and related soil processes as derived from redoximorphic features and from field tests of reducing conditions_ Blume et al.(2010)_ page 24_ FAO(2006)_ Table 36_ modified",
+        "description": "Table 8.59: Ranges of rH values and related soil processes as derived from redoximorphic features and from field tests of reducing conditions_ Blume et al.(2010)_ page 24_ FAO(2006)_ Table 36_ modified_ p. 198. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1859",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.59"
+    },
+    {
+        "localid": "organic",
+        "Language": "en",
+        "collection": "organic",
+        "label": "Organic matter coatings and oxide coatings on sand and/or coarse silt grains",
+        "description": "Table 8.60: Organic matter coatings and oxide coatings on sand and/or coarse silt grains_ p. 199. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1860",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.60"
+    },
+    {
+        "localid": "substances",
+        "Language": "en",
+        "collection": "substances",
+        "label": "Substances of ribbon-like accumulations",
+        "description": "Table 8.61: Substances of ribbon-like accumulations_ p. 200. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1861",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.61"
+    },
+    {
+        "localid": "carbonate",
+        "Language": "en",
+        "collection": "carbonate",
+        "label": "Carbonate contents_ FAO(2006)_ Table 38",
+        "description": "Table 8.62: Carbonate contents_ FAO(2006)_ Table 38_ p. 200. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1862",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.62"
+    },
+    {
+        "localid": "retarded",
+        "Language": "en",
+        "collection": "retarded",
+        "label": "Retarded reaction with HCl",
+        "description": "Table 8.63: Retarded reaction with HCl_ p. 200. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1863",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.63"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of secondary carbonates",
+        "description": "Table 8.64: Types of secondary carbonates_ p. 201. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1864",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.64"
+    },
+    {
+        "localid": "reference",
+        "Language": "en",
+        "collection": "reference",
+        "label": "Reference for estimating the percentage of secondary carbonates",
+        "description": "Table 8.65: Reference for estimating the percentage of secondary carbonates_ p. 201. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1865",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.65"
+    },
+    {
+        "localid": "gypsum",
+        "Language": "en",
+        "collection": "gypsum",
+        "label": "Gypsum contents in layers with little readily soluble salts_ FAO(2006)_ Table 40",
+        "description": "Table 8.66: Gypsum contents in layers with little readily soluble salts_ FAO(2006)_ Table 40_ p. 201. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1866",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.66"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of secondary silica",
+        "description": "Table 8.67: Types of secondary silica_ p. 202. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1867",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.67"
+    },
+    {
+        "localid": "size",
+        "Language": "en",
+        "collection": "size",
+        "label": "Size of durinodes and remnants of a layer that has been cemented by secondary silica",
+        "description": "Table 8.68: Size of durinodes and remnants of a layer that has been cemented by secondary silica_ p. 202. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1868",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.68"
+    },
+    {
+        "localid": "estimation",
+        "Language": "en",
+        "collection": "estimation",
+        "label": "Estimation of the water content of the saturation extract of mineral layers_ DVWK(1995)_ FAO(2006)_ Table 43",
+        "description": "Table 8.69: Estimation of the water content of the saturation extract of mineral layers_ DVWK(1995)_ FAO(2006)_ Table 43_ p. 203. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1869",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.69"
+    },
+    {
+        "localid": "estimation",
+        "Language": "en",
+        "collection": "estimation",
+        "label": "Estimation of the water content of the saturation extract of organic layers_ DVWK(1995)_ FAO(2006)_ Table 43",
+        "description": "Table 8.70: Estimation of the water content of the saturation extract of organic layers_ DVWK(1995)_ FAO(2006)_ Table 43_ p. 203. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1870",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.70"
+    },
+    {
+        "localid": "potentiometric",
+        "Language": "en",
+        "collection": "potentiometric",
+        "label": "Potentiometric pH measurement",
+        "description": "Table 8.71: Potentiometric pH measurement_ p. 204. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1871",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.71"
+    },
+    {
+        "localid": "cementing",
+        "Language": "en",
+        "collection": "cementing",
+        "label": "Cementing agents_ Schoeneberger et al.(2012)_ 2-64",
+        "description": "Table 8.72: Cementing agents_ Schoeneberger et al.(2012)_ 2-64_ p. 204. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1872",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.72"
+    },
+    {
+        "localid": "cementation,",
+        "Language": "en",
+        "collection": "cementation,",
+        "label": "Cementation_ Schoeneberger et al.(2012)_ 2-63",
+        "description": "Table 8.73: Cementation_ Schoeneberger et al.(2012)_ 2-63_ p. 205. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1873",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.73"
+    },
+    {
+        "localid": "rupture",
+        "Language": "en",
+        "collection": "rupture",
+        "label": "Rupture resistance_ non-cemented soil_ Schoeneberger et al.(2012)_ 2-63",
+        "description": "Table 8.74: Rupture resistance_ non-cemented soil_ Schoeneberger et al.(2012)_ 2-63_ p. 205. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1874",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.74"
+    },
+    {
+        "localid": "susceptibility",
+        "Language": "en",
+        "collection": "susceptibility",
+        "label": "Susceptibility for cementation",
+        "description": "Table 8.75: Susceptibility for cementation_ p. 205. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1875",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.75"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of manner of failure (brittleness)_ Schoeneberger et al.(2012)_ 2-65",
+        "description": "Table 8.76: Types of manner of failure (brittleness)_ Schoeneberger et al.(2012)_ 2-65_ p. 206. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1876",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.76"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of plasticity_ Schoeneberger et al.(2012)_ 2-66",
+        "description": "Table 8.77: Types of plasticity_ Schoeneberger et al.(2012)_ 2-66_ p. 206. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1877",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.77"
+    },
+    {
+        "localid": "sealing",
+        "Language": "en",
+        "collection": "sealing",
+        "label": "Sealing agent of surface crusts",
+        "description": "Table 8.78: Sealing agent of surface crusts_ p. 206. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1878",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.78"
+    },
+    {
+        "localid": "abundance",
+        "Language": "en",
+        "collection": "abundance",
+        "label": "Abundance of particles in the sand and coarse silt fraction that consist of volcanic glasses",
+        "description": "Table 8.79: Abundance of particles in the sand and coarse silt fraction that consist of volcanic glasses_ p. 207. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1879",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.79"
+    },
+    {
+        "localid": "thixotropy",
+        "Language": "en",
+        "collection": "thixotropy",
+        "label": "Thixotropy and NaF field test",
+        "description": "Table 8.80: Thixotropy and NaF field test_ p. 208. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1880",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.80"
+    },
+    {
+        "localid": "cryogenic",
+        "Language": "en",
+        "collection": "cryogenic",
+        "label": "Cryogenic alteration",
+        "description": "Table 8.81: Cryogenic alteration_ p. 208. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1881",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.81"
+    },
+    {
+        "localid": "layers",
+        "Language": "en",
+        "collection": "layers",
+        "label": "Layers with permafrost",
+        "description": "Table 8.82: Layers with permafrost_ p. 208. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1882",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.82"
+    },
+    {
+        "localid": "packing",
+        "Language": "en",
+        "collection": "packing",
+        "label": "Packing density",
+        "description": "Table 8.83: Packing density_ p. 208. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1883",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.83"
+    },
+    {
+        "localid": "estimation",
+        "Language": "en",
+        "collection": "estimation",
+        "label": "Estimation of organic carbon contents in a moist sample_ Blume et al.(2010)_ modified",
+        "description": "Table 8.84: Estimation of organic carbon contents in a moist sample_ Blume et al.(2010)_ modified_ p. 209. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1884",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.84"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of accumulation of organic matter",
+        "description": "Table 8.85: Types of accumulation of organic matter_ p. 210. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1885",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.85"
+    },
+    {
+        "localid": "abundance",
+        "Language": "en",
+        "collection": "abundance",
+        "label": "Abundance of roots_ FAO(2006)_ Table 80",
+        "description": "Table 8.86: Abundance of roots_ FAO(2006)_ Table 80_ p. 210. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1886",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.86"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of animal activity_ FAO(2006)_ Table 82_ modified",
+        "description": "Table 8.87: Types of animal activity_ FAO(2006)_ Table 82_ modified_ p. 210. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1887",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.87"
+    },
+    {
+        "localid": "artificial",
+        "Language": "en",
+        "collection": "artificial",
+        "label": "Artificial additions of natural material",
+        "description": "Table 8.88: Artificial additions of natural material_ p. 211. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1888",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.88"
+    },
+    {
+        "localid": "in-situ",
+        "Language": "en",
+        "collection": "in-situ",
+        "label": "In-situ alterations",
+        "description": "Table 8.89: In-situ alterations_ p. 211. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1889",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.89"
+    },
+    {
+        "localid": "aggregate",
+        "Language": "en",
+        "collection": "aggregate",
+        "label": "Aggregate formation after additions or afterin-situalterations",
+        "description": "Table 8.90: Aggregate formation after additions or afterin-situalterations_ p. 211. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1890",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.90"
+    },
+    {
+        "localid": "types",
+        "Language": "en",
+        "collection": "types",
+        "label": "Types of parent material_ FAO(2006)_ Table 12_ modified",
+        "description": "Table 8.91: Types of parent material_ FAO(2006)_ Table 12_ modified_ p. 212. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1891",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.91"
+    },
+    {
+        "localid": "subdivisions",
+        "Language": "en",
+        "collection": "subdivisions",
+        "label": "Subdivisions of the Oa horizon",
+        "description": "Table 8.92: Subdivisions of the Oa horizon_ p. 214. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1892",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.92"
+    },
+    {
+        "localid": "dead",
+        "Language": "en",
+        "collection": "dead",
+        "label": "Dead residues of specific plants",
+        "description": "Table 8.93: Dead residues of specific plants_ p. 214. IUSS Working Group WRB. 2022. World Reference Base for Soil Resources. International soil classification system for naming soils and creating legends for soil maps 4th edition. International Union of Soil Sciences (IUSS)_ Vienna_ Austria.",
+        "definition": "https://obrl-soil.github.io/wrbsoil2022/annex-01-field-guide.html#tbl-a1893",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid",
+        "table": "8.93"
+    }
+]

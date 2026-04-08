@@ -1,0 +1,830 @@
+[
+    {
+        "localid": "cons_cementaz",
+        "Language": "en",
+        "collection": "cons_cementaz",
+        "label": "Cementation",
+        "description": "4.4.9 Break Resistance and Cementation Degree (Breakage Method) - Table 4.55_ p. 199. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.55",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "aspet_antrop",
+        "Language": "en",
+        "collection": "aspet_antrop",
+        "label": "antropic Surface Features",
+        "description": "4.3.4 Surface Features_ Surface Anthropogenic Aspects - Table 4.28_ p. 179. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.28",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "col_hue",
+        "Language": "en",
+        "collection": "col_hue",
+        "label": "Munsell Soil Color Hue",
+        "description": "4.4.4 Mass Color_ p. 188. https://doi.org/10.5281/zenodo.7589089; https://munsell.com/about-munsell-color/how-color-notation-works/munsell-hue/",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "asp_sup",
+        "Language": "en",
+        "collection": "asp_sup",
+        "label": "pedobiological Surface Features",
+        "description": "4.3.4 Surface Features_ Surface Pedological and Biological Aspects - Table 4.28_ p. 179. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.28",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "att_bio_tipo",
+        "Language": "en",
+        "collection": "att_bio_tipo",
+        "label": "Biological Activity_ Type",
+        "description": "4.4.17 Biological Activity_ Type - Table 4.78_ p. 215. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.78",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "conc_dim",
+        "Language": "en",
+        "collection": "conc_dim",
+        "label": "Concentrations_ Size",
+        "description": "4.4.12 Concentrations_ Size - Table 4.64_ p. 209. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.64",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "col_det",
+        "Language": "en",
+        "collection": "col_det",
+        "label": "Color_ Determination",
+        "description": "4.4.4 Mass Color_ Determination Method and Localization - Table 4.39_ p. 188. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.39",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "cons_adesivita",
+        "Language": "en",
+        "collection": "cons_adesivita",
+        "label": "Stickiness",
+        "description": "4.4.9 Stickiness - Table 4.53_ p. 199. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.53",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "cons_plast",
+        "Language": "en",
+        "collection": "cons_plast",
+        "label": "Plasticity",
+        "description": "4.4.9 Plasticity - Table 4.54_ p. 199. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.54",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "att_bio_quant",
+        "Language": "en",
+        "collection": "att_bio_quant",
+        "label": "Biological Activity_ Quantity",
+        "description": "4.4.17 Biological Activity_ Quantity - Table 4.79_ p. 217. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.79",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "conc_natcomp",
+        "Language": "en",
+        "collection": "conc_natcomp",
+        "label": "Cracks_ Abundance",
+        "description": "4.4.12 Concentrations_ Nature and Composition - Table 4.62_ p. 208. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.62",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "cons_modalita",
+        "Language": "en",
+        "collection": "cons_modalita",
+        "label": "Consistency",
+        "description": "4.4.9 Consistency_ p. 198. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "conc_quant",
+        "Language": "en",
+        "collection": "conc_quant",
+        "label": "Concentrations_ Abundance",
+        "description": "4.4.12 Concentrations_ Abundance - Table 4.63_ p. 209. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.63",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "schel_quanti",
+        "Language": "en",
+        "collection": "schel_quanti",
+        "label": "Coarse Fragments_ Abundance",
+        "description": "4.4.7 Coarse Fragments_ Abundance - Table 4.48_ p. 196. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.48",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "cons_cementaz",
+        "Language": "en",
+        "collection": "cons_cementaz",
+        "label": "Cementation",
+        "description": "4.4.9 Break Resistance and Cementation Degree (Breakage Method) - Table 4.55_ p. 199. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.55",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "screz_dim",
+        "Language": "en",
+        "collection": "screz_dim",
+        "label": "Mottles Size",
+        "description": "4.4.5 Redox Features and Lithochromies_ Size - Table 4.42_ p. 190. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.42",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "pori_quanti",
+        "Language": "en",
+        "collection": "pori_quanti",
+        "label": "Pores_ Abundance",
+        "description": "4.4.13 Voids_ Pores_ Abundance - Table 4.65_ p. 211. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.65",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "copert_veget",
+        "Language": "en",
+        "collection": "copert_veget",
+        "label": "Vegetation - tree density",
+        "description": "4.3.3 Land Use and Vegetation_ Vegetation Coverage Degree - Table 4.27_ p. 178. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.27",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "schel_forma",
+        "Language": "en",
+        "collection": "schel_forma",
+        "label": "Coarse Fragments_ Shape",
+        "description": "4.4.7 Coarse Fragments_ Shape - Table 4.51_ p. 196. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.51",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "substrato",
+        "Language": "en",
+        "collection": "substrato",
+        "label": "LithologyValue",
+        "description": "4.3.2 Geology_ Substrate - Table 4.14_ p. 163. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.14",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "radici_medie_quant",
+        "Language": "en",
+        "collection": "radici_medie_quant",
+        "label": "Average Roots_ Quantity",
+        "description": "4.4.16 Roots_ Quantity of Average to Very Coarse Roots - Table 4.76_ p. 214. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.76",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "umidita",
+        "Language": "en",
+        "collection": "umidita",
+        "label": "Moisture",
+        "description": "4.4.3 Moisture - Table 4.38_ p. 188. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.38",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "usda_cl_gran",
+        "Language": "en",
+        "collection": "usda_cl_gran",
+        "label": "Particle Size Class",
+        "description": "4.4.6 Texture_ Particle Size Class - Tables 4.46 and 4.47_ p. 195. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "stato_suolo",
+        "Language": "en",
+        "collection": "stato_suolo",
+        "label": "Surface Features",
+        "description": "4.3.4 Surface Features_ Surface Aspects_ Soil Condition - Table 4.28_ p. 179. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.28",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "falda_tipo",
+        "Language": "en",
+        "collection": "falda_tipo",
+        "label": "Groundwater type",
+        "description": "4.5.1 Groundwater_ Water Table Type - Table 4.84_ p. 221. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.84",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "pell_tipo",
+        "Language": "en",
+        "collection": "pell_tipo",
+        "label": "Coatings Nature",
+        "description": "4.4.14 Films_ Type - Table 4.69_ p. 212. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.69",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "effervescenza",
+        "Language": "en",
+        "collection": "effervescenza",
+        "label": "Effervescence_ Degree",
+        "description": "4.4.18 Effervescence with HCl_ Degree - Table 4.80_ p. 217. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.80",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "lim_tipo",
+        "Language": "en",
+        "collection": "lim_tipo",
+        "label": "Horizon boundary - distinctness",
+        "description": "4.4.1 Depth_ Thickness and Lower Limit_ Type - Table 4.35_ p. 186. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.35",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "fessur_q",
+        "Language": "en",
+        "collection": "fessur_q",
+        "label": "Cracks - density",
+        "description": "4.3.4 Surface Features_ Surface Cracks - Figure 4.9_ p. 181. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "pell_loc",
+        "Language": "en",
+        "collection": "pell_loc",
+        "label": "Coatings Location",
+        "description": "4.4.14 Films_ Localization - Table 4.72_ p. 212. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.72",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "roccia_prof",
+        "Language": "en",
+        "collection": "roccia_prof",
+        "label": "Bedrock Depth",
+        "description": "4.5.6 Bedrock Depth - Table 4.94_ p. 226. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.94",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "eros_area",
+        "Language": "en",
+        "collection": "eros_area",
+        "label": "Erosion_ Area",
+        "description": "4.3.1 Erosion and Deposition. Erosion Area Classes - Table 4.12_ p. 161. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.12",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "rocciosita",
+        "Language": "en",
+        "collection": "rocciosita",
+        "label": "Rockiness",
+        "description": "4.3.4 Surface Features_ Rockiness - Table 4.29_ p. 180. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.29",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "litolpm_orig",
+        "Language": "en",
+        "collection": "litolpm_orig",
+        "label": "Parent Material_ Origin",
+        "description": "4.3.2 Parent Material Description_ Origin - Table 4.15_ p. 165. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.15",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "radici_andamento",
+        "Language": "en",
+        "collection": "radici_andamento",
+        "label": "Roots_ Pattern",
+        "description": "4.4.16 Roots_ Pattern - Table 4.77_ p. 214. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.77",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "deposizione",
+        "Language": "en",
+        "collection": "deposizione",
+        "label": "Deposition",
+        "description": "4.3.1 Erosion and Deposition. Deposition Type Coding - Table 4.13_ p. 161. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.13",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "pell_spess",
+        "Language": "en",
+        "collection": "pell_spess",
+        "label": "Coatings Thickness",
+        "description": "4.4.14 Films_ Thickness - Table 4.71_ p. 212. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.71",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "fisiogr_forma",
+        "Language": "en",
+        "collection": "fisiogr_forma",
+        "label": "Morphometry_ Shape",
+        "description": "4.3.1 Morphometry and Physiography_ Shape - Table 4.9_ p. 155. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.9",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "aspet_antrop",
+        "Language": "en",
+        "collection": "aspet_antrop",
+        "label": "antropic Surface Features",
+        "description": "4.3.4 Surface Features_ Surface Anthropogenic Aspects - Table 4.28_ p. 179. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.28",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "screz_loc",
+        "Language": "en",
+        "collection": "screz_loc",
+        "label": "Mottles Localization",
+        "description": "4.4.5 Redox Features and Lithochromies_ Type and Localization - Table 4.41_ p. 190. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.41",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "morfo_st",
+        "Language": "en",
+        "collection": "morfo_st",
+        "label": "Physiography",
+        "description": "2.7 Geographic Codes. Physiography of Land Systems - Table 2.12_ p. 51. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-2.12",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "pori_dimens",
+        "Language": "en",
+        "collection": "pori_dimens",
+        "label": "Pores_ Size",
+        "description": "4.4.13 Voids_ Pores_ Size - Table 4.66_ p. 211. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.66",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "schel_dim_diam",
+        "Language": "en",
+        "collection": "schel_dim_diam",
+        "label": "Coarse Fragments_ Size",
+        "description": "4.4.7 Coarse Fragments_ Size - Tables 4.49 and 4.50_ p. 196. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "facce_tipo",
+        "Language": "en",
+        "collection": "facce_tipo",
+        "label": "Faces_ Type",
+        "description": "4.4.15 Pressure and Shear Faces_ Type - Table 4.73_ p. 213. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.73",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "screz_evid",
+        "Language": "en",
+        "collection": "screz_evid",
+        "label": "Mottles Distinctness",
+        "description": "4.4.5 Redox Features and Lithochromies_ Distinctness - Table 4.43_ p. 191. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.43",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "inond_freq",
+        "Language": "en",
+        "collection": "inond_freq",
+        "label": "Flooding frequency class",
+        "description": "4.5.2 Flood Risk_ Frequency - Table 4.88_ p. 223. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.88",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "vegetaz",
+        "Language": "en",
+        "collection": "vegetaz",
+        "label": "Land cover",
+        "description": "4.3.3 Land Use and Vegetation_ Type of Actual Vegetation - Table 4.26_ p. 177. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.26",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "gest_acque",
+        "Language": "en",
+        "collection": "gest_acque",
+        "label": "Water Management_ Type",
+        "description": "4.5.7 Water Management_ Type - Table 4.95_ p. 226. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.95",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "screz_quanti",
+        "Language": "en",
+        "collection": "screz_quanti",
+        "label": "Mottles Abundance",
+        "description": "4.4.5 Redox Features and Lithochromies_ Abundance - Table 4.40_ p. 190. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.40",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "col_hue",
+        "Language": "en",
+        "collection": "col_hue",
+        "label": "Munsell Soil Color Hue",
+        "description": "4.4.4 Mass Color_ p. 188. https://doi.org/10.5281/zenodo.7589089; https://munsell.com/about-munsell-color/how-color-notation-works/munsell-hue/",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "elem_morf",
+        "Language": "en",
+        "collection": "elem_morf",
+        "label": "Morphometry_ Element",
+        "description": "4.3.1 Morphometry and Physiography_ Morphological Element - Table 4.10_ p. 160. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.10",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "inondaz_durata",
+        "Language": "en",
+        "collection": "inondaz_durata",
+        "label": "Flooding_ Duration",
+        "description": "4.5.2 Flood Risk_ Duration - Table 4.89_ p. 224. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.89",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "strut_dim",
+        "Language": "en",
+        "collection": "strut_dim",
+        "label": "Structure_ Size",
+        "description": "4.4.10 Structure_ Size - Table 4.58_ p. 205. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.58",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "sub_strutt",
+        "Language": "en",
+        "collection": "sub_strutt",
+        "label": "Substrate Structure",
+        "description": "4.3.2 Geology_ Substrate Structure - Table 4.16_ p. 168. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.16",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "dren_int",
+        "Language": "en",
+        "collection": "dren_int",
+        "label": "Infiltration",
+        "description": "4.5.8 Internal Drainage - Table 4.97_ p. 228. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.97",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "uso_suolo",
+        "Language": "en",
+        "collection": "uso_suolo",
+        "label": "land Use",
+        "description": "4.3.3 Land Use and Vegetation_ Land Use - Table 4.25_ p. 173. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.25",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "radici_dim",
+        "Language": "en",
+        "collection": "radici_dim",
+        "label": "Roots_ Size",
+        "description": "4.4.16 Roots_ Root Size Classes - Table 4.75_ p. 214. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.75",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "rel_strutture",
+        "Language": "en",
+        "collection": "rel_strutture",
+        "label": "Structure_ Relations",
+        "description": "4.4.10 Structure_ Relation between Primary Structure and Structure - Table 4.60_ p. 206. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.60",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "permeab",
+        "Language": "en",
+        "collection": "permeab",
+        "label": "Hydraulic conductivity",
+        "description": "4.4.11 Permeability - Table 4.61_ p. 207. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.61",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "strut_forma",
+        "Language": "en",
+        "collection": "strut_forma",
+        "label": "Structure_ Shape",
+        "description": "4.4.10 Structure_ Shape - Table 4.57_ p. 203. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.57",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "relaz_par_sub",
+        "Language": "en",
+        "collection": "relaz_par_sub",
+        "label": "Parent Material_ Relations",
+        "description": "4.3.2 Parent Material Description_ Relations between Parent Material and Substrate - Table 4.24_ p. 172. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.24",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "asp_sup",
+        "Language": "en",
+        "collection": "asp_sup",
+        "label": "pedobiological Surface Features",
+        "description": "4.3.4 Surface Features_ Surface Pedological and Biological Aspects - Table 4.28_ p. 179. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.28",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "att_bio_tipo",
+        "Language": "en",
+        "collection": "att_bio_tipo",
+        "label": "Biological Activity_ Type",
+        "description": "4.4.17 Biological Activity_ Type - Table 4.78_ p. 215. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.78",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "usda_cl_tess",
+        "Language": "en",
+        "collection": "usda_cl_tess",
+        "label": "Texture Class",
+        "description": "4.4.6 Texture_ Textural Class - Figure 4.12_ p. 192. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "litol_alter",
+        "Language": "en",
+        "collection": "litol_alter",
+        "label": "Weathering State",
+        "description": "4.3.2 Geology_ Weathering State - Table 4.17_ p. 168. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.17",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "gest_acque_sc",
+        "Language": "en",
+        "collection": "gest_acque_sc",
+        "label": "Water Management_ Purpose",
+        "description": "4.5.7 Water Management_ Purpose - Table 4.96_ p. 227. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.96",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "litol_qual",
+        "Language": "en",
+        "collection": "litol_qual",
+        "label": "Material quality",
+        "description": "4.3.2 Quality of Mineral and Organic Materials - Tables 4.19 and 4.20_ p. 169. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "schel_alt",
+        "Language": "en",
+        "collection": "schel_alt",
+        "label": "Coarse Fragments_ Weathering State",
+        "description": "4.4.7 Coarse Fragments_ Weathering State - Table 4.52_ p. 197. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.52",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "conc_dim",
+        "Language": "en",
+        "collection": "conc_dim",
+        "label": "Concentrations_ Size",
+        "description": "4.4.12 Concentrations_ Size - Table 4.64_ p. 209. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.64",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "strut_grado",
+        "Language": "en",
+        "collection": "strut_grado",
+        "label": "Structure_ Degree",
+        "description": "4.4.10 Structure_ Degree of Aggregation - Table 4.59_ p. 206. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.59",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "dren_est",
+        "Language": "en",
+        "collection": "dren_est",
+        "label": "Runoff",
+        "description": "4.5.3 Surface Runoff - Table 4.90_ p. 224. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.90",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "col_det",
+        "Language": "en",
+        "collection": "col_det",
+        "label": "Color_ Determination",
+        "description": "4.4.4 Mass Color_ Determination Method and Localization - Table 4.39_ p. 188. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.39",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "cons_adesivita",
+        "Language": "en",
+        "collection": "cons_adesivita",
+        "label": "Stickiness",
+        "description": "4.4.9 Stickiness - Table 4.53_ p. 199. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.53",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "cons_plast",
+        "Language": "en",
+        "collection": "cons_plast",
+        "label": "Plasticity",
+        "description": "4.4.9 Plasticity - Table 4.54_ p. 199. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.54",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "falda_durat",
+        "Language": "en",
+        "collection": "falda_durat",
+        "label": "Groundwater_ Duration",
+        "description": "4.5.1 Groundwater_ Cumulative Annual Duration - Table 4.87_ p. 221. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.87",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "pellic_quanti",
+        "Language": "en",
+        "collection": "pellic_quanti",
+        "label": "Coatings Abundance",
+        "description": "4.4.14 Films_ Abundance - Table 4.70_ p. 212. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.70",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "litolpm_comp",
+        "Language": "en",
+        "collection": "litolpm_comp",
+        "label": "Parent Material_ Composition",
+        "description": "4.3.2 Parent Material Description_ Particle Size Composition - Table 4.23_ p. 171. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.23",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "prof_ut_lim",
+        "Language": "en",
+        "collection": "prof_ut_lim",
+        "label": "Root_ Limitation",
+        "description": "4.5.5 Limitations and Obstacles to Root Penetration - Table 4.93_ p. 225. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.93",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "fessur_dim",
+        "Language": "en",
+        "collection": "fessur_dim",
+        "label": "Cracks_ Size",
+        "description": "4.4.13 Voids_ Cracks_ Size - Table 4.68_ p. 211. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.68",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "falda_alim",
+        "Language": "en",
+        "collection": "falda_alim",
+        "label": "Groundwater_ Recharge",
+        "description": "4.5.1 Groundwater_ Recharge - Table 4.85_ p. 222. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.85",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "tipo_screz",
+        "Language": "en",
+        "collection": "tipo_screz",
+        "label": "Mottles Type",
+        "description": "4.4.5 Redox Features and Lithochromies_ Type and Localization_ p. 190. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "att_bio_quant",
+        "Language": "en",
+        "collection": "att_bio_quant",
+        "label": "Biological Activity_ Quantity",
+        "description": "4.4.17 Biological Activity_ Quantity - Table 4.79_ p. 217. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.79",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "profondita",
+        "Language": "en",
+        "collection": "profondita",
+        "label": "Root-Accessible Depth",
+        "description": "4.5.4 Root-Accessible Depth - Table 4.92_ p. 225. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.92",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "radici_fini_quant",
+        "Language": "en",
+        "collection": "radici_fini_quant",
+        "label": "Fine Roots Quantity",
+        "description": "4.4.16 Roots_ Quantity of Fine to Very Fine Roots - Table 4.76_ p. 214. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.76",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "conc_natcomp",
+        "Language": "en",
+        "collection": "conc_natcomp",
+        "label": "Cracks_ Abundance",
+        "description": "4.4.12 Concentrations_ Nature and Composition - Table 4.62_ p. 208. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.62",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "cons_modalita",
+        "Language": "en",
+        "collection": "cons_modalita",
+        "label": "Consistency",
+        "description": "4.4.9 Consistency_ p. 198. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "cur_sito",
+        "Language": "en",
+        "collection": "cur_sito",
+        "label": "Site Curvature",
+        "description": "4.3.1 Morphometry and Physiography_ Morphometry (Site Curvature) - Figure 4.5_ p. 154. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "lim_and",
+        "Language": "en",
+        "collection": "lim_and",
+        "label": "Boundary Topography",
+        "description": "4.4.1 Depth_ Thickness and Lower Limit_ Pattern - Table 4.36_ p. 186. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.36",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "eros_real",
+        "Language": "en",
+        "collection": "eros_real",
+        "label": "Erosion_ type",
+        "description": "4.3.1 Erosion and Deposition_ Actual Erosion: Type and Intensity - Table 4.11_ p. 161. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.11",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "facce_quant",
+        "Language": "en",
+        "collection": "facce_quant",
+        "label": "Faces_ Abundance",
+        "description": "4.4.15 Pressure and Shear Faces_ Abundance - Table 4.74_ p. 213. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.74",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "conc_quant",
+        "Language": "en",
+        "collection": "conc_quant",
+        "label": "Concentrations_ Abundance",
+        "description": "4.4.12 Concentrations_ Abundance - Table 4.63_ p. 209. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.63",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "local_efferv",
+        "Language": "en",
+        "collection": "local_efferv",
+        "label": "Effervescence_ Localization",
+        "description": "4.4.18 Effervescence with HCl_ Localization - Table 4.81_ p. 218. https://doi.org/10.5281/zenodo.7589089",
+        "definition": "https://zenodo.org/records/7589089#tbl-4.81",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    }
+]
