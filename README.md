@@ -3,8 +3,8 @@ infosuoli.crea.gov.it  - Database e cartografia digitale del suolo
 
 The CREA Soil database (https://zenodo.org/records/7589089), is getting compliancy with INSPIRE (https://knowledge-base.inspire.ec.europa.eu/publications/inspire-data-specification-soil-technical-guidelines_en) thanks to EJP-Soil & SoilWise Projects (https://ejpsoil.eu/; https://soilwise-he.eu/). This repository is aimed to publish the CREA soil database codelists, as csv files. Both the italian & english definitions are present.
 Codelists are listed as "Collection" & "Value".
-A collection aggregates valid entries for a single observable property. The collection is exposed by: localid Language label description definition.
-a value is the valid entry for a particular occurrence of a single observable property. The value is exposed by: localid Language label description definition.
+A collection aggregates valid entries for a single observable property. The collection is exposed by: localid, Language, collection, label, description, definition, status.
+a value is the valid entry for a particular occurrence of a single observable property. The value is exposed by: localid, Language, collection, label, description, definition, status, isEquivalentTo.
 
 localid Language label description definition. https://doi.org/10.5281/zenodo.7589089 isEquivalentTo Language label description definition 
 
