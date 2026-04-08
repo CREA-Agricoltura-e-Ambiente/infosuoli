@@ -1,0 +1,11 @@
+localid,Language,collection,label,description ,definition,status
+0004,it,pori_dimens,0004,molto fini (,molto fini (,https://inspire.ec.europa.eu/registry/status/valid
+0010,it,pori_dimens,0010,"fini (0,5-1 mm)","fini (0,5-1 mm)",https://inspire.ec.europa.eu/registry/status/valid
+0020,it,pori_dimens,0020,medi (1-2 mm),medi (1-2 mm),https://inspire.ec.europa.eu/registry/status/valid
+0050,it,pori_dimens,0050,grandi (2-5 mm),grandi (2-5 mm),https://inspire.ec.europa.eu/registry/status/valid
+9999,it,pori_dimens,9999,molto grandi (>5 mm),molto grandi (>5 mm),https://inspire.ec.europa.eu/registry/status/valid
+0004,en,pori_dimens,0004,very fine (,very fine (,https://inspire.ec.europa.eu/registry/status/valid
+0010,en,pori_dimens,0010,fine (0.5-1 mm),fine (0.5-1 mm),https://inspire.ec.europa.eu/registry/status/valid
+0020,en,pori_dimens,0020,medium (1-2 mm),medium (1-2 mm),https://inspire.ec.europa.eu/registry/status/valid
+0050,en,pori_dimens,0050,coarse (2-5 mm),coarse (2-5 mm),https://inspire.ec.europa.eu/registry/status/valid
+9999,en,pori_dimens,9999,very coarse (>5 mm),very coarse (>5 mm),https://inspire.ec.europa.eu/registry/status/valid

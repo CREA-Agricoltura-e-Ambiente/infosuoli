@@ -1,0 +1,11 @@
+localid,Language,collection,label,description ,definition,status
+31,it,cons_adesivita,31,non adesivo,non adesivo,https://inspire.ec.europa.eu/registry/status/valid
+32,it,cons_adesivita,32,debolmente adesivo,debolmente adesivo,https://inspire.ec.europa.eu/registry/status/valid
+33,it,cons_adesivita,33,adesivo,adesivo,https://inspire.ec.europa.eu/registry/status/valid
+34,it,cons_adesivita,34,molto adesivo,molto adesivo,https://inspire.ec.europa.eu/registry/status/valid
+31,en,cons_adesivita,31,not adhesive,not adhesive,https://inspire.ec.europa.eu/registry/status/valid
+32,en,cons_adesivita,32,weakly adhesive,weakly adhesive,https://inspire.ec.europa.eu/registry/status/valid
+33,en,cons_adesivita,33,adhesive,adhesive,https://inspire.ec.europa.eu/registry/status/valid
+34,en,cons_adesivita,34,very adhesive,very adhesive,https://inspire.ec.europa.eu/registry/status/valid
+,,,,,,
+,,,,,,

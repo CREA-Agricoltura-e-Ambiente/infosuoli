@@ -1,0 +1,37 @@
+localid,Language,collection,label,description ,definition,status
+0,it,gest_acque,0,assente,assente,https://inspire.ec.europa.eu/registry/status/valid
+1,it,gest_acque,1,con pompe,con pompe,https://inspire.ec.europa.eu/registry/status/valid
+10,it,gest_acque,10,irrigazione non permanente di soccorso,irrigazione non permanente di soccorso,https://inspire.ec.europa.eu/registry/status/valid
+11,it,gest_acque,11,baulatura e fossati,baulatura e fossati,https://inspire.ec.europa.eu/registry/status/valid
+12,it,gest_acque,12,fossetti in traverso e fossi di guardia (in versante),fossetti in traverso e fossi di guardia (in versante),https://inspire.ec.europa.eu/registry/status/valid
+13,it,gest_acque,13,sistemazioni idraulico-forestali di versante,sistemazioni idraulico-forestali di versante,https://inspire.ec.europa.eu/registry/status/valid
+14,it,gest_acque,14,sistemazioni idrauliche di fondo (su corso/i d’acqua),sistemazioni idrauliche di fondo (su corso/i d’acqua),https://inspire.ec.europa.eu/registry/status/valid
+15,it,gest_acque,15,sistemazioni con paravalanghe (sia attive che passive),sistemazioni con paravalanghe (sia attive che passive),https://inspire.ec.europa.eu/registry/status/valid
+16,it,gest_acque,16,sistemazioni idrauliche di ripristino ambientale,sistemazioni idrauliche di ripristino ambientale,https://inspire.ec.europa.eu/registry/status/valid
+2,it,gest_acque,2,con fossi,con fossi,https://inspire.ec.europa.eu/registry/status/valid
+3,it,gest_acque,3,con tubi drenanti interrati,con tubi drenanti interrati,https://inspire.ec.europa.eu/registry/status/valid
+4,it,gest_acque,4,drenaggi con aratro-talpa,drenaggi con aratro-talpa,https://inspire.ec.europa.eu/registry/status/valid
+5,it,gest_acque,5,rippatura o scasso profondo,rippatura o scasso profondo,https://inspire.ec.europa.eu/registry/status/valid
+6,it,gest_acque,6,baulatura dei campi,baulatura dei campi,https://inspire.ec.europa.eu/registry/status/valid
+7,it,gest_acque,7,irrigazione permanente per sommersione e/o scorrimento superficiale,irrigazione permanente per sommersione e/o scorrimento superficiale,https://inspire.ec.europa.eu/registry/status/valid
+8,it,gest_acque,8,irrigazione permanente a pioggia,irrigazione permanente a pioggia,https://inspire.ec.europa.eu/registry/status/valid
+9,it,gest_acque,9,irrigazione permanente a goccia,irrigazione permanente a goccia,https://inspire.ec.europa.eu/registry/status/valid
+999,it,gest_acque,999,non rilevabile,non rilevabile,https://inspire.ec.europa.eu/registry/status/valid
+0,en,gest_acque,0,absent,absent,https://inspire.ec.europa.eu/registry/status/valid
+1,en,gest_acque,1,pumping,pumping,https://inspire.ec.europa.eu/registry/status/valid
+10,en,gest_acque,10,not permanent succour irrigation,not permanent succour irrigation,https://inspire.ec.europa.eu/registry/status/valid
+11,en,gest_acque,11,hog-back arrangement and ditch,hog-back arrangement and ditch,https://inspire.ec.europa.eu/registry/status/valid
+12,en,gest_acque,12,transversal and security ditch (slope),transversal and security ditch (slope),https://inspire.ec.europa.eu/registry/status/valid
+13,en,gest_acque,13,forest-hydraulic slope arrangement,forest-hydraulic slope arrangement,https://inspire.ec.europa.eu/registry/status/valid
+14,en,gest_acque,14,bed hydraulic arrangement (rivers),bed hydraulic arrangement (rivers),https://inspire.ec.europa.eu/registry/status/valid
+15,en,gest_acque,15,arrangement with snowshed (active and passive),arrangement with snowshed (active and passive),https://inspire.ec.europa.eu/registry/status/valid
+16,en,gest_acque,16,hydraulic arrangement for environmental restoration,hydraulic arrangement for environmental restoration,https://inspire.ec.europa.eu/registry/status/valid
+2,en,gest_acque,2,ditches,ditches,https://inspire.ec.europa.eu/registry/status/valid
+3,en,gest_acque,3,pipe underdrainage,pipe underdrainage,https://inspire.ec.europa.eu/registry/status/valid
+4,en,gest_acque,4,mole drainage,mole drainage,https://inspire.ec.europa.eu/registry/status/valid
+5,en,gest_acque,5,deep loosening,deep loosening,https://inspire.ec.europa.eu/registry/status/valid
+6,en,gest_acque,6,"""bed"" system","""bed"" system",https://inspire.ec.europa.eu/registry/status/valid
+7,en,gest_acque,7,flooding and/or surface irrigation,flooding and/or surface irrigation,https://inspire.ec.europa.eu/registry/status/valid
+8,en,gest_acque,8,permanent overhead sprinkler,permanent overhead sprinkler,https://inspire.ec.europa.eu/registry/status/valid
+9,en,gest_acque,9,permanent trickle irrigation,permanent trickle irrigation,https://inspire.ec.europa.eu/registry/status/valid
+999,en,gest_acque,999,survey not possible,survey not possible,https://inspire.ec.europa.eu/registry/status/valid

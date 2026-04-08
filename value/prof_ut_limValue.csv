@@ -1,0 +1,31 @@
+localid,Language,collection,label,description ,definition,status
+AL,it,prof_ut_lim,AL,altre cause di limitazione o impedimento (aggiungere in nota),altre cause di limitazione o impedimento (aggiungere in nota),https://inspire.ec.europa.eu/registry/status/valid
+IC,it,prof_ut_lim,IC,compattazione elevata,compattazione elevata,https://inspire.ec.europa.eu/registry/status/valid
+IE,it,prof_ut_lim,IE,scarsa aerazione,scarsa aerazione,https://inspire.ec.europa.eu/registry/status/valid
+IF,it,prof_ut_lim,IF,fenomeni riduttivi (falda),fenomeni riduttivi (falda),https://inspire.ec.europa.eu/registry/status/valid
+IM,it,prof_ut_lim,IM,contatto litico continuo,contatto litico continuo,https://inspire.ec.europa.eu/registry/status/valid
+IN,it,prof_ut_lim,IN,"chimismo sfavorevole (ad es. nutrienti, eccesso di sodio, ecc.)","chimismo sfavorevole (ad es. nutrienti, eccesso di sodio, ecc.)",https://inspire.ec.europa.eu/registry/status/valid
+LA,it,prof_ut_lim,LA,bassa ritenuta idrica,bassa ritenuta idrica,https://inspire.ec.europa.eu/registry/status/valid
+LC,it,prof_ut_lim,LC,compattazione o contatto paralithic,compattazione o contatto paralithic,https://inspire.ec.europa.eu/registry/status/valid
+LE,it,prof_ut_lim,LE,movimenti di contrazione-espansione,movimenti di contrazione-espansione,https://inspire.ec.europa.eu/registry/status/valid
+LF,it,prof_ut_lim,LF,contatto litico fessurato,contatto litico fessurato,https://inspire.ec.europa.eu/registry/status/valid
+LM,it,prof_ut_lim,LM,orizzonte cementato discontinuo,orizzonte cementato discontinuo,https://inspire.ec.europa.eu/registry/status/valid
+LN,it,prof_ut_lim,LN,chimismo sfavorevole (ad es. nutrienti),chimismo sfavorevole (ad es. nutrienti),https://inspire.ec.europa.eu/registry/status/valid
+LS,it,prof_ut_lim,LS,frammenti grossolani,frammenti grossolani,https://inspire.ec.europa.eu/registry/status/valid
+LX,it,prof_ut_lim,LX,cause sconosciute,cause sconosciute,https://inspire.ec.europa.eu/registry/status/valid
+Z,it,prof_ut_lim,Z,nessuna limitazione o impedimento,nessuna limitazione o impedimento,https://inspire.ec.europa.eu/registry/status/valid
+AL,en,prof_ut_lim,AL,other causes (describe in a note),other causes (describe in a note),https://inspire.ec.europa.eu/registry/status/valid
+IC,en,prof_ut_lim,IC,high compaction,high compaction,https://inspire.ec.europa.eu/registry/status/valid
+IE,en,prof_ut_lim,IE,low airing,low airing,https://inspire.ec.europa.eu/registry/status/valid
+IF,en,prof_ut_lim,IF,impediments: oxigen scarcity and redox phenomenons (water table),impediments: oxigen scarcity and redox phenomenons (water table),https://inspire.ec.europa.eu/registry/status/valid
+IM,en,prof_ut_lim,IM,impediments: continuous lithic contact or continuous cemented horizon,impediments: continuous lithic contact or continuous cemented horizon,https://inspire.ec.europa.eu/registry/status/valid
+IN,en,prof_ut_lim,IN,"impediments: unfavorable chemism (i,e, nutriments, ,,,)","impediments: unfavorable chemism (i,e, nutriments, ,,,)",https://inspire.ec.europa.eu/registry/status/valid
+LA,en,prof_ut_lim,LA,low water retention,low water retention,https://inspire.ec.europa.eu/registry/status/valid
+LC,en,prof_ut_lim,LC,compaction or paralithic contact,compaction or paralithic contact,https://inspire.ec.europa.eu/registry/status/valid
+LE,en,prof_ut_lim,LE,shrinkage-expansion movements,shrinkage-expansion movements,https://inspire.ec.europa.eu/registry/status/valid
+LF,en,prof_ut_lim,LF,lithic contact with cracks,lithic contact with cracks,https://inspire.ec.europa.eu/registry/status/valid
+LM,en,prof_ut_lim,LM,discontinuous cemented horizon,discontinuous cemented horizon,https://inspire.ec.europa.eu/registry/status/valid
+LN,en,prof_ut_lim,LN,unfavorable chemism (i.e. nutriments. ...),unfavorable chemism (i.e. nutriments. ...),https://inspire.ec.europa.eu/registry/status/valid
+LS,en,prof_ut_lim,LS,critic quantity of coarse fragments and concentrations,critic quantity of coarse fragments and concentrations,https://inspire.ec.europa.eu/registry/status/valid
+LX,en,prof_ut_lim,LX,unknown causes,unknown causes,https://inspire.ec.europa.eu/registry/status/valid
+Z,en,prof_ut_lim,Z,no restrictions and no impediments,no restrictions and no impediments,https://inspire.ec.europa.eu/registry/status/valid

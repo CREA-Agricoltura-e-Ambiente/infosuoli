@@ -1,0 +1,13 @@
+localid,Language,collection,label,description ,definition,status
+0,it,lim_tipo,0,molto abrubto,molto abrubto,https://inspire.ec.europa.eu/registry/status/valid
+1,it,lim_tipo,1,abrupto,abrupto,https://inspire.ec.europa.eu/registry/status/valid
+2,it,lim_tipo,2,chiaro,chiaro,https://inspire.ec.europa.eu/registry/status/valid
+3,it,lim_tipo,3,graduale,graduale,https://inspire.ec.europa.eu/registry/status/valid
+4,it,lim_tipo,4,diffuso,diffuso,https://inspire.ec.europa.eu/registry/status/valid
+5,it,lim_tipo,5,sconosciuto,sconosciuto,https://inspire.ec.europa.eu/registry/status/valid
+0,en,lim_tipo,0,very abrupt,very abrupt,https://inspire.ec.europa.eu/registry/status/valid
+1,en,lim_tipo,1,abrupt,abrupt,https://inspire.ec.europa.eu/registry/status/valid
+2,en,lim_tipo,2,clear,clear,https://inspire.ec.europa.eu/registry/status/valid
+3,en,lim_tipo,3,gradual,gradual,https://inspire.ec.europa.eu/registry/status/valid
+4,en,lim_tipo,4,diffuse,diffuse,https://inspire.ec.europa.eu/registry/status/valid
+5,en,lim_tipo,5,unknown,unknown,https://inspire.ec.europa.eu/registry/status/valid

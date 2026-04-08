@@ -1,0 +1,9 @@
+localid,Language,collection,label,description ,definition,status
+1,it,local_efferv,1,generalizzata (matrice e frammenti),generalizzata (matrice e frammenti),https://inspire.ec.europa.eu/registry/status/valid
+2,it,local_efferv,2,localizzata nella terra fine,localizzata nella terra fine,https://inspire.ec.europa.eu/registry/status/valid
+3,it,local_efferv,3,localizzata nei frammenti grossolani,localizzata nei frammenti grossolani,https://inspire.ec.europa.eu/registry/status/valid
+4,it,local_efferv,4,localizzata nelle concentrazioni sec.,localizzata nelle concentrazioni sec.,https://inspire.ec.europa.eu/registry/status/valid
+1,en,local_efferv,1,generalized,generalized,https://inspire.ec.europa.eu/registry/status/valid
+2,en,local_efferv,2,localized in the fine soil,localized in the fine soil,https://inspire.ec.europa.eu/registry/status/valid
+3,en,local_efferv,3,localized in the coarse fragments,localized in the coarse fragments,https://inspire.ec.europa.eu/registry/status/valid
+4,en,local_efferv,4,localized in the secondary concentrations,localized in the secondary concentrations,https://inspire.ec.europa.eu/registry/status/valid

@@ -1,0 +1,13 @@
+localid,Language,collection,label,description ,definition,status
+MB,it,col_det,MB,faccia di rottura,faccia di rottura,https://inspire.ec.europa.eu/registry/status/valid
+MF,it,col_det,MF,frantumato,frantumato,https://inspire.ec.europa.eu/registry/status/valid
+ML,it,col_det,ML,frantumato e lisciato (solo umido),frantumato e lisciato (solo umido),https://inspire.ec.europa.eu/registry/status/valid
+MP,it,col_det,MP,"pressato, da umido a bagnato (con materiali organici)","pressato, da umido a bagnato (con materiali organici)",https://inspire.ec.europa.eu/registry/status/valid
+MR,it,col_det,MR,frantumato e lisciato (con materiali organici),frantumato e lisciato (con materiali organici),https://inspire.ec.europa.eu/registry/status/valid
+MS,it,col_det,MS,superfici di piccoli aggregati,superfici di piccoli aggregati,https://inspire.ec.europa.eu/registry/status/valid
+MB,en,col_det,MB,broken face,broken face,https://inspire.ec.europa.eu/registry/status/valid
+MF,en,col_det,MF,crushed,crushed,https://inspire.ec.europa.eu/registry/status/valid
+ML,en,col_det,ML,"crushed, rubbed and smoothed, moist","crushed, rubbed and smoothed, moist",https://inspire.ec.europa.eu/registry/status/valid
+MP,en,col_det,MP,"pressed, moist to wet","pressed, moist to wet",https://inspire.ec.europa.eu/registry/status/valid
+MR,en,col_det,MR,rubbed,rubbed,https://inspire.ec.europa.eu/registry/status/valid
+MS,en,col_det,MS,surface of small aggregate,surface of small aggregate,https://inspire.ec.europa.eu/registry/status/valid

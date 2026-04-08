@@ -1,0 +1,157 @@
+localid,Language,collection,label,description ,definition,status
+0,it,litolpm_orig,0,sconosciuto,sconosciuto,https://inspire.ec.europa.eu/registry/status/valid
+AC,it,litolpm_orig,AC,sedimenti marini litoranei,sedimenti marini litoranei,https://inspire.ec.europa.eu/registry/status/valid
+ACB,it,litolpm_orig,ACB,depositi cementati da carbonati,depositi cementati da carbonati,https://inspire.ec.europa.eu/registry/status/valid
+ACC,it,litolpm_orig,ACC,depositi di canale tidale,depositi di canale tidale,https://inspire.ec.europa.eu/registry/status/valid
+ACD,it,litolpm_orig,ACD,sabbie di cordone,sabbie di cordone,https://inspire.ec.europa.eu/registry/status/valid
+ACE,it,litolpm_orig,ACE,depositi di estuario,depositi di estuario,https://inspire.ec.europa.eu/registry/status/valid
+ACF,it,litolpm_orig,ACF,depositi di falesia o costa alta,depositi di falesia o costa alta,https://inspire.ec.europa.eu/registry/status/valid
+ACP,it,litolpm_orig,ACP,depositi di palude salmastra,depositi di palude salmastra,https://inspire.ec.europa.eu/registry/status/valid
+ACR,it,litolpm_orig,ACR,depositi cementati da sostanza organica e/o ossidi,depositi cementati da sostanza organica e/o ossidi,https://inspire.ec.europa.eu/registry/status/valid
+ACS,it,litolpm_orig,ACS,depositi di spiaggia,depositi di spiaggia,https://inspire.ec.europa.eu/registry/status/valid
+ACT,it,litolpm_orig,ACT,depositi di piana tidale,depositi di piana tidale,https://inspire.ec.europa.eu/registry/status/valid
+AF,it,litolpm_orig,AF,sedimenti fluviali,sedimenti fluviali,https://inspire.ec.europa.eu/registry/status/valid
+AFB,it,litolpm_orig,AFB,depositi di piena a bassa energia,depositi di piena a bassa energia,https://inspire.ec.europa.eu/registry/status/valid
+AFC,it,litolpm_orig,AFC,depositi di canale,depositi di canale,https://inspire.ec.europa.eu/registry/status/valid
+AFF,it,litolpm_orig,AFF,depositi di conoide,depositi di conoide,https://inspire.ec.europa.eu/registry/status/valid
+AFH,it,litolpm_orig,AFH,colmate,colmate,https://inspire.ec.europa.eu/registry/status/valid
+AFP,it,litolpm_orig,AFP,depositi di piena ad alta energia,depositi di piena ad alta energia,https://inspire.ec.europa.eu/registry/status/valid
+AL,it,litolpm_orig,AL,sedimenti lacustri o fluviolacustri,sedimenti lacustri o fluviolacustri,https://inspire.ec.europa.eu/registry/status/valid
+ALC,it,litolpm_orig,ALC,fanghi calcarei,fanghi calcarei,https://inspire.ec.europa.eu/registry/status/valid
+ALD,it,litolpm_orig,ALD,fanghi diatomitici,fanghi diatomitici,https://inspire.ec.europa.eu/registry/status/valid
+ALF,it,litolpm_orig,ALF,argille e limi fluviolacustri,argille e limi fluviolacustri,https://inspire.ec.europa.eu/registry/status/valid
+ALR,it,litolpm_orig,ALR,sedimenti lacustri grossolani,sedimenti lacustri grossolani,https://inspire.ec.europa.eu/registry/status/valid
+ALS,it,litolpm_orig,ALS,sabbie fluviolacustri,sabbie fluviolacustri,https://inspire.ec.europa.eu/registry/status/valid
+AM,it,litolpm_orig,AM,sedimenti marini,sedimenti marini,https://inspire.ec.europa.eu/registry/status/valid
+AMC,it,litolpm_orig,AMC,sedimenti marini con assetto caotico o indifferenziato,sedimenti marini con assetto caotico o indifferenziato,https://inspire.ec.europa.eu/registry/status/valid
+AMP,it,litolpm_orig,AMP,argille e limi marini,argille e limi marini,https://inspire.ec.europa.eu/registry/status/valid
+AMR,it,litolpm_orig,AMR,sedimenti marini grossolani,sedimenti marini grossolani,https://inspire.ec.europa.eu/registry/status/valid
+AMS,it,litolpm_orig,AMS,sabbie marine,sabbie marine,https://inspire.ec.europa.eu/registry/status/valid
+AP,it,litolpm_orig,AP,sedimenti palustri,sedimenti palustri,https://inspire.ec.europa.eu/registry/status/valid
+APM,it,litolpm_orig,APM,sedimenti palustri prevalentemente minerali,sedimenti palustri prevalentemente minerali,https://inspire.ec.europa.eu/registry/status/valid
+APO,it,litolpm_orig,APO,sedimenti palustri prevalentemente organici,sedimenti palustri prevalentemente organici,https://inspire.ec.europa.eu/registry/status/valid
+APV,it,litolpm_orig,APV,sedimenti palustri misti,sedimenti palustri misti,https://inspire.ec.europa.eu/registry/status/valid
+AV,it,litolpm_orig,AV,depositi di versante,depositi di versante,https://inspire.ec.europa.eu/registry/status/valid
+AVA,it,litolpm_orig,AVA,alluvioni di versante,alluvioni di versante,https://inspire.ec.europa.eu/registry/status/valid
+AVG,it,litolpm_orig,AVG,glacis d’accumulo,glacis d’accumulo,https://inspire.ec.europa.eu/registry/status/valid
+CF,it,litolpm_orig,CF,depositi di frana,depositi di frana,https://inspire.ec.europa.eu/registry/status/valid
+CL,it,litolpm_orig,CL,depositi di colata,depositi di colata,https://inspire.ec.europa.eu/registry/status/valid
+CLD,it,litolpm_orig,CLD,colata di detrito,colata di detrito,https://inspire.ec.europa.eu/registry/status/valid
+CLT,it,litolpm_orig,CLT,colata di fango,colata di fango,https://inspire.ec.europa.eu/registry/status/valid
+CO,it,litolpm_orig,CO,colluvio,colluvio,https://inspire.ec.europa.eu/registry/status/valid
+COA,it,litolpm_orig,COA,depositi da lavorazioni agricole,depositi da lavorazioni agricole,https://inspire.ec.europa.eu/registry/status/valid
+COV,it,litolpm_orig,COV,colluvio di versante,colluvio di versante,https://inspire.ec.europa.eu/registry/status/valid
+CR,it,litolpm_orig,CR,depositi di crollo,depositi di crollo,https://inspire.ec.europa.eu/registry/status/valid
+DA,it,litolpm_orig,DA,depositi antropici,depositi antropici,https://inspire.ec.europa.eu/registry/status/valid
+DAA,it,litolpm_orig,DAA,riporti di terra a fini agricoli,riporti di terra a fini agricoli,https://inspire.ec.europa.eu/registry/status/valid
+DAC,it,litolpm_orig,DAC,inerti di cava,inerti di cava,https://inspire.ec.europa.eu/registry/status/valid
+DAI,it,litolpm_orig,DAI,scarti di miniera o industriali,scarti di miniera o industriali,https://inspire.ec.europa.eu/registry/status/valid
+DAR,it,litolpm_orig,DAR,rifiuti,rifiuti,https://inspire.ec.europa.eu/registry/status/valid
+DAU,it,litolpm_orig,DAU,riporti di terra a fini non agricoli,riporti di terra a fini non agricoli,https://inspire.ec.europa.eu/registry/status/valid
+DF,it,litolpm_orig,DF,depositi freato-magmatici,depositi freato-magmatici,https://inspire.ec.europa.eu/registry/status/valid
+DP,it,litolpm_orig,DP,depositi del vulcanismo esplosivo (piroclastico),depositi del vulcanismo esplosivo (piroclastico),https://inspire.ec.europa.eu/registry/status/valid
+DPC,it,litolpm_orig,DPC,ceneri da caduta o da flusso piroclastico (surge),ceneri da caduta o da flusso piroclastico (surge),https://inspire.ec.europa.eu/registry/status/valid
+DPL,it,litolpm_orig,DPL,lahar,lahar,https://inspire.ec.europa.eu/registry/status/valid
+DPP,it,litolpm_orig,DPP,depositi piroclastici da caduta,depositi piroclastici da caduta,https://inspire.ec.europa.eu/registry/status/valid
+DPP1,it,litolpm_orig,DPP1,pomici,pomici,https://inspire.ec.europa.eu/registry/status/valid
+DPP2,it,litolpm_orig,DPP2,scorie,scorie,https://inspire.ec.europa.eu/registry/status/valid
+DPP3,it,litolpm_orig,DPP3,brecce,brecce,https://inspire.ec.europa.eu/registry/status/valid
+DR,it,litolpm_orig,DR,"depositi piroclastici rimaneggiati da processi fluviali, lacustri e marini","depositi piroclastici rimaneggiati da processi fluviali, lacustri e marini",https://inspire.ec.europa.eu/registry/status/valid
+DV,it,litolpm_orig,DV,depositi vulcanici (tephra),depositi vulcanici (tephra),https://inspire.ec.europa.eu/registry/status/valid
+EO,it,litolpm_orig,EO,deposito eolico,deposito eolico,https://inspire.ec.europa.eu/registry/status/valid
+EOF,it,litolpm_orig,EOF,deposito eolico fine,deposito eolico fine,https://inspire.ec.europa.eu/registry/status/valid
+EOL,it,litolpm_orig,EOL,loess,loess,https://inspire.ec.europa.eu/registry/status/valid
+EOS,it,litolpm_orig,EOS,sabbie eoliche,sabbie eoliche,https://inspire.ec.europa.eu/registry/status/valid
+GL,it,litolpm_orig,GL,depositi glaciali o fluvioglaciali,depositi glaciali o fluvioglaciali,https://inspire.ec.europa.eu/registry/status/valid
+GLA,it,litolpm_orig,GLA,deposito glaciale assiale,deposito glaciale assiale,https://inspire.ec.europa.eu/registry/status/valid
+GLF,it,litolpm_orig,GLF,deposito glaciofluviale,deposito glaciofluviale,https://inspire.ec.europa.eu/registry/status/valid
+GLL,it,litolpm_orig,GLL,deposito glaciolacustre,deposito glaciolacustre,https://inspire.ec.europa.eu/registry/status/valid
+GLM,it,litolpm_orig,GLM,deposito glaciale frontale,deposito glaciale frontale,https://inspire.ec.europa.eu/registry/status/valid
+GLP,it,litolpm_orig,GLP,deposito periglaciale,deposito periglaciale,https://inspire.ec.europa.eu/registry/status/valid
+GLS,it,litolpm_orig,GLS,deposito glaciale laterale,deposito glaciale laterale,https://inspire.ec.europa.eu/registry/status/valid
+OF,it,litolpm_orig,OF,fanghi organici,fanghi organici,https://inspire.ec.europa.eu/registry/status/valid
+OO,it,litolpm_orig,OO,depositi organici,depositi organici,https://inspire.ec.europa.eu/registry/status/valid
+OT,it,litolpm_orig,OT,torba,torba,https://inspire.ec.europa.eu/registry/status/valid
+RE,it,litolpm_orig,RE,residuo,residuo,https://inspire.ec.europa.eu/registry/status/valid
+REC,it,litolpm_orig,REC,residuo di roccia calcarea,residuo di roccia calcarea,https://inspire.ec.europa.eu/registry/status/valid
+RED,it,litolpm_orig,RED,detrito in posto,detrito in posto,https://inspire.ec.europa.eu/registry/status/valid
+RES,it,litolpm_orig,RES,saprolite,saprolite,https://inspire.ec.europa.eu/registry/status/valid
+Y,it,litolpm_orig,Y,"non rilevabile, frequenti differenziazioni","non rilevabile, frequenti differenziazioni",https://inspire.ec.europa.eu/registry/status/valid
+0,en,litolpm_orig,0,unknown,unknown,https://inspire.ec.europa.eu/registry/status/valid
+AC,en,litolpm_orig,AC,coastal marine sediments,coastal marine sediments,https://inspire.ec.europa.eu/registry/status/valid
+ACB,en,litolpm_orig,ACB,carbonate cemented deposit,carbonate cemented deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACC,en,litolpm_orig,ACC,tidal channel deposit,tidal channel deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACD,en,litolpm_orig,ACD,bar sand,bar sand,https://inspire.ec.europa.eu/registry/status/valid
+ACE,en,litolpm_orig,ACE,estuarine deposit,estuarine deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACF,en,litolpm_orig,ACF,cliff or high coast deposit,cliff or high coast deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACP,en,litolpm_orig,ACP,brackish swamp deposit,brackish swamp deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACR,en,litolpm_orig,ACR,oxides and/or organic matter cemented deposit,oxides and/or organic matter cemented deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACS,en,litolpm_orig,ACS,beach deposit,beach deposit,https://inspire.ec.europa.eu/registry/status/valid
+ACT,en,litolpm_orig,ACT,tidal plane deposit,tidal plane deposit,https://inspire.ec.europa.eu/registry/status/valid
+AF,en,litolpm_orig,AF,fluvial sediments,fluvial sediments,https://inspire.ec.europa.eu/registry/status/valid
+AFB,en,litolpm_orig,AFB,low energy flood deposit,low energy flood deposit,https://inspire.ec.europa.eu/registry/status/valid
+AFC,en,litolpm_orig,AFC,sullage,sullage,https://inspire.ec.europa.eu/registry/status/valid
+AFF,en,litolpm_orig,AFF,fan deposit,fan deposit,https://inspire.ec.europa.eu/registry/status/valid
+AFH,en,litolpm_orig,AFH,reclamation filling,reclamation filling,https://inspire.ec.europa.eu/registry/status/valid
+AFP,en,litolpm_orig,AFP,high energy flood deposit,high energy flood deposit,https://inspire.ec.europa.eu/registry/status/valid
+AL,en,litolpm_orig,AL,lacustrine and fluvial-lacustrine deposits,lacustrine and fluvial-lacustrine deposits,https://inspire.ec.europa.eu/registry/status/valid
+ALC,en,litolpm_orig,ALC,calcareous mud,calcareous mud,https://inspire.ec.europa.eu/registry/status/valid
+ALD,en,litolpm_orig,ALD,diatomitic mud,diatomitic mud,https://inspire.ec.europa.eu/registry/status/valid
+ALF,en,litolpm_orig,ALF,fluvial-lacustrine clay and silt,fluvial-lacustrine clay and silt,https://inspire.ec.europa.eu/registry/status/valid
+ALR,en,litolpm_orig,ALR,coarse lacustrine deposit,coarse lacustrine deposit,https://inspire.ec.europa.eu/registry/status/valid
+ALS,en,litolpm_orig,ALS,fluvial-lacustrine sand,fluvial-lacustrine sand,https://inspire.ec.europa.eu/registry/status/valid
+AM,en,litolpm_orig,AM,marine sediments,marine sediments,https://inspire.ec.europa.eu/registry/status/valid
+AMC,en,litolpm_orig,AMC,undifferentiated marine sediment,undifferentiated marine sediment,https://inspire.ec.europa.eu/registry/status/valid
+AMP,en,litolpm_orig,AMP,marine clay and silt,marine clay and silt,https://inspire.ec.europa.eu/registry/status/valid
+AMR,en,litolpm_orig,AMR,coarse marine sediment,coarse marine sediment,https://inspire.ec.europa.eu/registry/status/valid
+AMS,en,litolpm_orig,AMS,marine sand,marine sand,https://inspire.ec.europa.eu/registry/status/valid
+AP,en,litolpm_orig,AP,palustrine sediments,palustrine sediments,https://inspire.ec.europa.eu/registry/status/valid
+APM,en,litolpm_orig,APM,mainly mineral palustrine sediment,mainly mineral palustrine sediment,https://inspire.ec.europa.eu/registry/status/valid
+APO,en,litolpm_orig,APO,mainly organic palustrine sediment,mainly organic palustrine sediment,https://inspire.ec.europa.eu/registry/status/valid
+APV,en,litolpm_orig,APV,mixed palustrine sediment,mixed palustrine sediment,https://inspire.ec.europa.eu/registry/status/valid
+AV,en,litolpm_orig,AV,slope deposits,slope deposits,https://inspire.ec.europa.eu/registry/status/valid
+AVA,en,litolpm_orig,AVA,slope alluvia,slope alluvia,https://inspire.ec.europa.eu/registry/status/valid
+AVG,en,litolpm_orig,AVG,accumulation glacis,accumulation glacis,https://inspire.ec.europa.eu/registry/status/valid
+CF,en,litolpm_orig,CF,landslide deposit,landslide deposit,https://inspire.ec.europa.eu/registry/status/valid
+CL,en,litolpm_orig,CL,flow deposit,flow deposit,https://inspire.ec.europa.eu/registry/status/valid
+CLD,en,litolpm_orig,CLD,debris flow,debris flow,https://inspire.ec.europa.eu/registry/status/valid
+CLT,en,litolpm_orig,CLT,mud flow,mud flow,https://inspire.ec.europa.eu/registry/status/valid
+CO,en,litolpm_orig,CO,colluvium,colluvium,https://inspire.ec.europa.eu/registry/status/valid
+COA,en,litolpm_orig,COA,tillage deposit,tillage deposit,https://inspire.ec.europa.eu/registry/status/valid
+COV,en,litolpm_orig,COV,slope colluvium,slope colluvium,https://inspire.ec.europa.eu/registry/status/valid
+CR,en,litolpm_orig,CR,collapse deposit,collapse deposit,https://inspire.ec.europa.eu/registry/status/valid
+DA,en,litolpm_orig,DA,anthropic deposits,anthropic deposits,https://inspire.ec.europa.eu/registry/status/valid
+DAA,en,litolpm_orig,DAA,land fill for agriculture purpose,land fill for agriculture purpose,https://inspire.ec.europa.eu/registry/status/valid
+DAC,en,litolpm_orig,DAC,quarry deposit,quarry deposit,https://inspire.ec.europa.eu/registry/status/valid
+DAI,en,litolpm_orig,DAI,mine or industrial waste,mine or industrial waste,https://inspire.ec.europa.eu/registry/status/valid
+DAR,en,litolpm_orig,DAR,garbage,garbage,https://inspire.ec.europa.eu/registry/status/valid
+DAU,en,litolpm_orig,DAU,land fill,land fill,https://inspire.ec.europa.eu/registry/status/valid
+DF,en,litolpm_orig,DF,volcanic phreatic magmatic deposit,volcanic phreatic magmatic deposit,https://inspire.ec.europa.eu/registry/status/valid
+DP,en,litolpm_orig,DP,volcanoclastic deposit,volcanoclastic deposit,https://inspire.ec.europa.eu/registry/status/valid
+DPC,en,litolpm_orig,DPC,volcanic ash and ash flow,volcanic ash and ash flow,https://inspire.ec.europa.eu/registry/status/valid
+DPL,en,litolpm_orig,DPL,lahar,lahar,https://inspire.ec.europa.eu/registry/status/valid
+DPP,en,litolpm_orig,DPP,volcanic ash,volcanic ash,https://inspire.ec.europa.eu/registry/status/valid
+DPP1,en,litolpm_orig,DPP1,pumice,pumice,https://inspire.ec.europa.eu/registry/status/valid
+DPP2,en,litolpm_orig,DPP2,scoria,scoria,https://inspire.ec.europa.eu/registry/status/valid
+DPP3,en,litolpm_orig,DPP3,block,block,https://inspire.ec.europa.eu/registry/status/valid
+DR,en,litolpm_orig,DR,"fluvial, marine and lacustrine deposits of volcanic material","fluvial, marine and lacustrine deposits of volcanic material",https://inspire.ec.europa.eu/registry/status/valid
+DV,en,litolpm_orig,DV,volcanic deposits (tephra),volcanic deposits (tephra),https://inspire.ec.europa.eu/registry/status/valid
+EO,en,litolpm_orig,EO,eolian deposits,eolian deposits,https://inspire.ec.europa.eu/registry/status/valid
+EOF,en,litolpm_orig,EOF,fine eolian deposit,fine eolian deposit,https://inspire.ec.europa.eu/registry/status/valid
+EOL,en,litolpm_orig,EOL,loess,loess,https://inspire.ec.europa.eu/registry/status/valid
+EOS,en,litolpm_orig,EOS,eolian sand,eolian sand,https://inspire.ec.europa.eu/registry/status/valid
+GL,en,litolpm_orig,GL,glacial and fluvioglacial deposits,glacial and fluvioglacial deposits,https://inspire.ec.europa.eu/registry/status/valid
+GLA,en,litolpm_orig,GLA,axial glacial deposit,axial glacial deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLF,en,litolpm_orig,GLF,glacial fluvial deposit,glacial fluvial deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLL,en,litolpm_orig,GLL,glacial lacustrine deposit,glacial lacustrine deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLM,en,litolpm_orig,GLM,frontal glacial deposit,frontal glacial deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLP,en,litolpm_orig,GLP,periglaial deposit,periglaial deposit,https://inspire.ec.europa.eu/registry/status/valid
+GLS,en,litolpm_orig,GLS,lateral glacial deposit,lateral glacial deposit,https://inspire.ec.europa.eu/registry/status/valid
+OF,en,litolpm_orig,OF,organic mud,organic mud,https://inspire.ec.europa.eu/registry/status/valid
+OO,en,litolpm_orig,OO,organic deposit,organic deposit,https://inspire.ec.europa.eu/registry/status/valid
+OT,en,litolpm_orig,OT,peat,peat,https://inspire.ec.europa.eu/registry/status/valid
+RE,en,litolpm_orig,RE,residue,residue,https://inspire.ec.europa.eu/registry/status/valid
+REC,en,litolpm_orig,REC,calcareous rock residue,calcareous rock residue,https://inspire.ec.europa.eu/registry/status/valid
+RED,en,litolpm_orig,RED,on place detritus,on place detritus,https://inspire.ec.europa.eu/registry/status/valid
+RES,en,litolpm_orig,RES,saprolite,saprolite,https://inspire.ec.europa.eu/registry/status/valid
+Y,en,litolpm_orig,Y,non differentiable deposits ,non differentiable deposits ,https://inspire.ec.europa.eu/registry/status/valid

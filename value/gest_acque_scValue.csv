@@ -1,0 +1,17 @@
+localid,Language,collection,label,description ,definition,status
+1,it,gest_acque_sc,1,diminuire il ristagno (drenaggi),diminuire il ristagno (drenaggi),https://inspire.ec.europa.eu/registry/status/valid
+2,it,gest_acque_sc,2,diminuire gli stress da siccità (irrigazione),diminuire gli stress da siccità (irrigazione),https://inspire.ec.europa.eu/registry/status/valid
+3,it,gest_acque_sc,3,diminuire la salinità (interventi di drenaggio),diminuire la salinità (interventi di drenaggio),https://inspire.ec.europa.eu/registry/status/valid
+4,it,gest_acque_sc,4,diminuire sia il ristagno che gli stress da siccità,diminuire sia il ristagno che gli stress da siccità,https://inspire.ec.europa.eu/registry/status/valid
+5,it,gest_acque_sc,5,diminuire sia il ristagno che la salinità,diminuire sia il ristagno che la salinità,https://inspire.ec.europa.eu/registry/status/valid
+6,it,gest_acque_sc,6,limitare erosione idrica superficiale (in collina),limitare erosione idrica superficiale (in collina),https://inspire.ec.europa.eu/registry/status/valid
+7,it,gest_acque_sc,7,limitare movimenti di massa (in collina e montagna),limitare movimenti di massa (in collina e montagna),https://inspire.ec.europa.eu/registry/status/valid
+8,it,gest_acque_sc,8,limitare l’erosione di fondo e di sponda,limitare l’erosione di fondo e di sponda,https://inspire.ec.europa.eu/registry/status/valid
+1,en,gest_acque_sc,1,waterlogging mitigation (drainage),waterlogging mitigation (drainage),https://inspire.ec.europa.eu/registry/status/valid
+2,en,gest_acque_sc,2,drought stress mitigation (irrigation),drought stress mitigation (irrigation),https://inspire.ec.europa.eu/registry/status/valid
+3,en,gest_acque_sc,3,salinity mitigation (drainage),salinity mitigation (drainage),https://inspire.ec.europa.eu/registry/status/valid
+4,en,gest_acque_sc,4,waterlogging and drought stress mitigation,waterlogging and drought stress mitigation,https://inspire.ec.europa.eu/registry/status/valid
+5,en,gest_acque_sc,5,waterlogging and salinity mitigation,waterlogging and salinity mitigation,https://inspire.ec.europa.eu/registry/status/valid
+6,en,gest_acque_sc,6,superficial hydric erosion mitigation (hill),superficial hydric erosion mitigation (hill),https://inspire.ec.europa.eu/registry/status/valid
+7,en,gest_acque_sc,7,mass movement mitigation (hill and mountain),mass movement mitigation (hill and mountain),https://inspire.ec.europa.eu/registry/status/valid
+8,en,gest_acque_sc,8,bad and bank erosion mitigation,bad and bank erosion mitigation,https://inspire.ec.europa.eu/registry/status/valid

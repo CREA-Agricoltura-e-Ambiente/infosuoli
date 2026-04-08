@@ -1,0 +1,13 @@
+localid,Language,collection,label,description ,definition,status
+000,it,falda_durat,000,molto transitoria,molto transitoria,https://inspire.ec.europa.eu/registry/status/valid
+001,it,falda_durat,001,molto transitoria,molto transitoria,https://inspire.ec.europa.eu/registry/status/valid
+003,it,falda_durat,003,transitoria,transitoria,https://inspire.ec.europa.eu/registry/status/valid
+006,it,falda_durat,006,comune,comune,https://inspire.ec.europa.eu/registry/status/valid
+011,it,falda_durat,011,persistente,persistente,https://inspire.ec.europa.eu/registry/status/valid
+012,it,falda_durat,012,permanente,permanente,https://inspire.ec.europa.eu/registry/status/valid
+000,en,falda_durat,000,very temporary,very temporary,https://inspire.ec.europa.eu/registry/status/valid
+001,en,falda_durat,001,very temporary,very temporary,https://inspire.ec.europa.eu/registry/status/valid
+003,en,falda_durat,003,temporary,temporary,https://inspire.ec.europa.eu/registry/status/valid
+006,en,falda_durat,006,common,common,https://inspire.ec.europa.eu/registry/status/valid
+011,en,falda_durat,011,persistent,persistent,https://inspire.ec.europa.eu/registry/status/valid
+012,en,falda_durat,012,permanent,permanent,https://inspire.ec.europa.eu/registry/status/valid

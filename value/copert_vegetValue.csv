@@ -1,0 +1,13 @@
+localid,Language,collection,label,description ,definition,status
+0,it,copert_veget,0,suolo nudo,suolo nudo,https://inspire.ec.europa.eu/registry/status/valid
+1,it,copert_veget,1,,,https://inspire.ec.europa.eu/registry/status/valid
+2,it,copert_veget,2,10-25% molto basso,10-25% molto basso,https://inspire.ec.europa.eu/registry/status/valid
+3,it,copert_veget,3,25-50% basso,25-50% basso,https://inspire.ec.europa.eu/registry/status/valid
+4,it,copert_veget,4,50-75% alto,50-75% alto,https://inspire.ec.europa.eu/registry/status/valid
+5,it,copert_veget,5,>75% molto alto,>75% molto alto,https://inspire.ec.europa.eu/registry/status/valid
+0,en,copert_veget,0,bare soil,bare soil,https://inspire.ec.europa.eu/registry/status/valid
+1,en,copert_veget,1,,,https://inspire.ec.europa.eu/registry/status/valid
+2,en,copert_veget,2,10-25% very low,10-25% very low,https://inspire.ec.europa.eu/registry/status/valid
+3,en,copert_veget,3,25-50% low,25-50% low,https://inspire.ec.europa.eu/registry/status/valid
+4,en,copert_veget,4,50-75% high,50-75% high,https://inspire.ec.europa.eu/registry/status/valid
+5,en,copert_veget,5,>75% very high,>75% very high,https://inspire.ec.europa.eu/registry/status/valid

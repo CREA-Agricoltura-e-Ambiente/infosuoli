@@ -1,0 +1,13 @@
+localid,Language,collection,label,description ,definition,status
+1,it,dren_est,1,trascurabile,trascurabile,https://inspire.ec.europa.eu/registry/status/valid
+2,it,dren_est,2,molto basso,molto basso,https://inspire.ec.europa.eu/registry/status/valid
+3,it,dren_est,3,basso,basso,https://inspire.ec.europa.eu/registry/status/valid
+4,it,dren_est,4,medio,medio,https://inspire.ec.europa.eu/registry/status/valid
+5,it,dren_est,5,alto,alto,https://inspire.ec.europa.eu/registry/status/valid
+6,it,dren_est,6,molto alto,molto alto,https://inspire.ec.europa.eu/registry/status/valid
+1,en,dren_est,1,negligible,negligible,https://inspire.ec.europa.eu/registry/status/valid
+2,en,dren_est,2,very low,very low,https://inspire.ec.europa.eu/registry/status/valid
+3,en,dren_est,3,low,low,https://inspire.ec.europa.eu/registry/status/valid
+4,en,dren_est,4,medium,medium,https://inspire.ec.europa.eu/registry/status/valid
+5,en,dren_est,5,high,high,https://inspire.ec.europa.eu/registry/status/valid
+6,en,dren_est,6,very high,very high,https://inspire.ec.europa.eu/registry/status/valid
