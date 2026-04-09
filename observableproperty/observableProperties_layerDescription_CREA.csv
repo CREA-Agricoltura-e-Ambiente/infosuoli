@@ -1,4 +1,4 @@
-﻿fid,uom,code,qudt_unit,label,procedure,glosis,definition
+﻿fid,uom,code,qudt_unit,label,procedure,isEquivalentTo,definition
 279,codelist,,,"adesivita - Adesività",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.adesivita
 280,string,,,"annotazioni - Note",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.annotazioni
 281,codelist,,,"attivita_biologica_q - Quantità di attività biologica",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.attivita_biologica_q
