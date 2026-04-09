@@ -1,0 +1,7 @@
+localid,Language,collection,label,description ,definition,status
+1,it,rel_strutture,1,strutture compresenti,strutture compresenti,https://inspire.ec.europa.eu/registry/status/valid
+2,it,rel_strutture,2,primaria dentro secondaria,primaria dentro secondaria,https://inspire.ec.europa.eu/registry/status/valid
+3,it,rel_strutture,3,primaria tendente a secondaria,primaria tendente a secondaria,https://inspire.ec.europa.eu/registry/status/valid
+1,en,rel_strutture,1,co-presence of structures,co-presence of structures,https://inspire.ec.europa.eu/registry/status/valid
+2,en,rel_strutture,2,primary inside secondary,primary inside secondary,https://inspire.ec.europa.eu/registry/status/valid
+3,en,rel_strutture,3,primary tending to secondary,primary tending to secondary,https://inspire.ec.europa.eu/registry/status/valid

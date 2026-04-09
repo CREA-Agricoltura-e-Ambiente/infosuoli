@@ -1,0 +1,3143 @@
+[
+    {
+        "localid": "10B3/1",
+        "Language": "en",
+        "collection": "10B3/1",
+        "label": "Very Dark Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 10B3/1 interpreted as 'Very Dark Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10B4/1",
+        "Language": "en",
+        "collection": "10B4/1",
+        "label": "Dark Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 10B4/1 interpreted as 'Dark Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10B5/1",
+        "Language": "en",
+        "collection": "10B5/1",
+        "label": "Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 10B5/1 interpreted as 'Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10B6/1",
+        "Language": "en",
+        "collection": "10B6/1",
+        "label": "Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 10B6/1 interpreted as 'Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10B7/1",
+        "Language": "en",
+        "collection": "10B7/1",
+        "label": "Light Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 10B7/1 interpreted as 'Light Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10B8/1",
+        "Language": "en",
+        "collection": "10B8/1",
+        "label": "Light Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 10B8/1 interpreted as 'Light Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10BG3/1",
+        "Language": "en",
+        "collection": "10BG3/1",
+        "label": "Very Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10BG3/1 interpreted as 'Very Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10BG4/1",
+        "Language": "en",
+        "collection": "10BG4/1",
+        "label": "Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10BG4/1 interpreted as 'Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10BG5/1",
+        "Language": "en",
+        "collection": "10BG5/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10BG5/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10BG6/1",
+        "Language": "en",
+        "collection": "10BG6/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10BG6/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10BG7/1",
+        "Language": "en",
+        "collection": "10BG7/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10BG7/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10BG8/1",
+        "Language": "en",
+        "collection": "10BG8/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10BG8/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10G3/1",
+        "Language": "en",
+        "collection": "10G3/1",
+        "label": "Very Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10G3/1 interpreted as 'Very Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10G4/1",
+        "Language": "en",
+        "collection": "10G4/1",
+        "label": "Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10G4/1 interpreted as 'Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10G5/1",
+        "Language": "en",
+        "collection": "10G5/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10G5/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10G6/1",
+        "Language": "en",
+        "collection": "10G6/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10G6/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10G7/1",
+        "Language": "en",
+        "collection": "10G7/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10G7/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10G8/1",
+        "Language": "en",
+        "collection": "10G8/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10G8/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10GY3/1",
+        "Language": "en",
+        "collection": "10GY3/1",
+        "label": "Very Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10GY3/1 interpreted as 'Very Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10GY4/1",
+        "Language": "en",
+        "collection": "10GY4/1",
+        "label": "Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10GY4/1 interpreted as 'Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10GY5/1",
+        "Language": "en",
+        "collection": "10GY5/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10GY5/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10GY6/1",
+        "Language": "en",
+        "collection": "10GY6/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10GY6/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10GY7/1",
+        "Language": "en",
+        "collection": "10GY7/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10GY7/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10GY8/1",
+        "Language": "en",
+        "collection": "10GY8/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10GY8/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R5/6",
+        "Language": "en",
+        "collection": "10R5/6",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 10R5/6 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R7/1",
+        "Language": "en",
+        "collection": "10R7/1",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 10R7/1 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R7/2",
+        "Language": "en",
+        "collection": "10R7/2",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 10R7/2 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R7/3",
+        "Language": "en",
+        "collection": "10R7/3",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 10R7/3 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R7/4",
+        "Language": "en",
+        "collection": "10R7/4",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 10R7/4 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R7/6",
+        "Language": "en",
+        "collection": "10R7/6",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 10R7/6 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R7/8",
+        "Language": "en",
+        "collection": "10R7/8",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 10R7/8 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R8/1",
+        "Language": "en",
+        "collection": "10R8/1",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 10R8/1 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R8/2",
+        "Language": "en",
+        "collection": "10R8/2",
+        "label": "Pinkish White",
+        "description": "Soil color corresponding to Munsell notation 10R8/2 interpreted as 'Pinkish White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R8/3",
+        "Language": "en",
+        "collection": "10R8/3",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 10R8/3 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10R8/4",
+        "Language": "en",
+        "collection": "10R8/4",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 10R8/4 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10Y3/1",
+        "Language": "en",
+        "collection": "10Y3/1",
+        "label": "Very Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10Y3/1 interpreted as 'Very Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10Y4/1",
+        "Language": "en",
+        "collection": "10Y4/1",
+        "label": "Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10Y4/1 interpreted as 'Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10Y5/1",
+        "Language": "en",
+        "collection": "10Y5/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10Y5/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10Y6/1",
+        "Language": "en",
+        "collection": "10Y6/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10Y6/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10Y7/1",
+        "Language": "en",
+        "collection": "10Y7/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10Y7/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10Y8/1",
+        "Language": "en",
+        "collection": "10Y8/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 10Y8/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR2/0",
+        "Language": "en",
+        "collection": "10YR2/0",
+        "label": "Black",
+        "description": "Soil color corresponding to Munsell notation 10YR2/0 interpreted as 'Black'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR2/1",
+        "Language": "en",
+        "collection": "10YR2/1",
+        "label": "Black",
+        "description": "Soil color corresponding to Munsell notation 10YR2/1 interpreted as 'Black'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR2/2",
+        "Language": "en",
+        "collection": "10YR2/2",
+        "label": "Very Dark Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR2/2 interpreted as 'Very Dark Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR2/4",
+        "Language": "en",
+        "collection": "10YR2/4",
+        "label": "Dark Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR2/4 interpreted as 'Dark Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR3/1",
+        "Language": "en",
+        "collection": "10YR3/1",
+        "label": "Very Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 10YR3/1 interpreted as 'Very Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR3/2",
+        "Language": "en",
+        "collection": "10YR3/2",
+        "label": "Very Dark Grayish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR3/2 interpreted as 'Very Dark Grayish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR3/3",
+        "Language": "en",
+        "collection": "10YR3/3",
+        "label": "Dark Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR3/3 interpreted as 'Dark Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR3/4",
+        "Language": "en",
+        "collection": "10YR3/4",
+        "label": "Dark Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR3/4 interpreted as 'Dark Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR3/5",
+        "Language": "en",
+        "collection": "10YR3/5",
+        "label": "Dark Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR3/5 interpreted as 'Dark Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR3/6",
+        "Language": "en",
+        "collection": "10YR3/6",
+        "label": "Dark Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR3/6 interpreted as 'Dark Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR3/8",
+        "Language": "en",
+        "collection": "10YR3/8",
+        "label": "Dark Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR3/8 interpreted as 'Dark Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR4/2",
+        "Language": "en",
+        "collection": "10YR4/2",
+        "label": "Dark Grayish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR4/2 interpreted as 'Dark Grayish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR4/3",
+        "Language": "en",
+        "collection": "10YR4/3",
+        "label": "Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR4/3 interpreted as 'Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR4/4",
+        "Language": "en",
+        "collection": "10YR4/4",
+        "label": "Dark Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR4/4 interpreted as 'Dark Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR4/6",
+        "Language": "en",
+        "collection": "10YR4/6",
+        "label": "Dark Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR4/6 interpreted as 'Dark Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR5/1",
+        "Language": "en",
+        "collection": "10YR5/1",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 10YR5/1 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR5/2",
+        "Language": "en",
+        "collection": "10YR5/2",
+        "label": "Grayish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR5/2 interpreted as 'Grayish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR5/3",
+        "Language": "en",
+        "collection": "10YR5/3",
+        "label": "Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR5/3 interpreted as 'Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR5/4",
+        "Language": "en",
+        "collection": "10YR5/4",
+        "label": "Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR5/4 interpreted as 'Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR5/6",
+        "Language": "en",
+        "collection": "10YR5/6",
+        "label": "Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR5/6 interpreted as 'Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR5/8",
+        "Language": "en",
+        "collection": "10YR5/8",
+        "label": "Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR5/8 interpreted as 'Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR6/1",
+        "Language": "en",
+        "collection": "10YR6/1",
+        "label": "Gray and pale gray",
+        "description": "Soil color corresponding to Munsell notation 10YR6/1 interpreted as 'Gray and pale gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR6/2",
+        "Language": "en",
+        "collection": "10YR6/2",
+        "label": "Light Brownish Gray",
+        "description": "Soil color corresponding to Munsell notation 10YR6/2 interpreted as 'Light Brownish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR6/3",
+        "Language": "en",
+        "collection": "10YR6/3",
+        "label": "Pale Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR6/3 interpreted as 'Pale Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR6/4",
+        "Language": "en",
+        "collection": "10YR6/4",
+        "label": "Light Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR6/4 interpreted as 'Light Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR6/6",
+        "Language": "en",
+        "collection": "10YR6/6",
+        "label": "Brownish Yellow",
+        "description": "Soil color corresponding to Munsell notation 10YR6/6 interpreted as 'Brownish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR6/8",
+        "Language": "en",
+        "collection": "10YR6/8",
+        "label": "Brownish Yellow",
+        "description": "Soil color corresponding to Munsell notation 10YR6/8 interpreted as 'Brownish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR7/1",
+        "Language": "en",
+        "collection": "10YR7/1",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 10YR7/1 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR7/2",
+        "Language": "en",
+        "collection": "10YR7/2",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 10YR7/2 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR7/3",
+        "Language": "en",
+        "collection": "10YR7/3",
+        "label": "Very Pale Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR7/3 interpreted as 'Very Pale Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR7/4",
+        "Language": "en",
+        "collection": "10YR7/4",
+        "label": "Very Pale Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR7/4 interpreted as 'Very Pale Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR7/6",
+        "Language": "en",
+        "collection": "10YR7/6",
+        "label": "Yellow",
+        "description": "Soil color corresponding to Munsell notation 10YR7/6 interpreted as 'Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR7/8",
+        "Language": "en",
+        "collection": "10YR7/8",
+        "label": "Yellow",
+        "description": "Soil color corresponding to Munsell notation 10YR7/8 interpreted as 'Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR8/1",
+        "Language": "en",
+        "collection": "10YR8/1",
+        "label": "Very Pale Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR8/1 interpreted as 'Very Pale Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "10YR8/2",
+        "Language": "en",
+        "collection": "10YR8/2",
+        "label": "Very Pale Brown",
+        "description": "Soil color corresponding to Munsell notation 10YR8/2 interpreted as 'Very Pale Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y2/0",
+        "Language": "en",
+        "collection": "2,5Y2/0",
+        "label": "Black",
+        "description": "Soil color corresponding to Munsell notation 2,5Y2/0 interpreted as 'Black'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y3/0",
+        "Language": "en",
+        "collection": "2,5Y3/0",
+        "label": "Very Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y3/0 interpreted as 'Very Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y3/1",
+        "Language": "en",
+        "collection": "2,5Y3/1",
+        "label": "Very Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y3/1 interpreted as 'Very Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y3/2",
+        "Language": "en",
+        "collection": "2,5Y3/2",
+        "label": "Very Dark Grayish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y3/2 interpreted as 'Very Dark Grayish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y3/3",
+        "Language": "en",
+        "collection": "2,5Y3/3",
+        "label": "Dark Olive Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y3/3 interpreted as 'Dark Olive Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y4/0",
+        "Language": "en",
+        "collection": "2,5Y4/0",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y4/0 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y4/1",
+        "Language": "en",
+        "collection": "2,5Y4/1",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y4/1 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y4/2",
+        "Language": "en",
+        "collection": "2,5Y4/2",
+        "label": "Dark Grayish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y4/2 interpreted as 'Dark Grayish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y4/3",
+        "Language": "en",
+        "collection": "2,5Y4/3",
+        "label": "Olive Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y4/3 interpreted as 'Olive Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y4/4",
+        "Language": "en",
+        "collection": "2,5Y4/4",
+        "label": "Olive Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y4/4 interpreted as 'Olive Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y5/0",
+        "Language": "en",
+        "collection": "2,5Y5/0",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y5/0 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y5/1",
+        "Language": "en",
+        "collection": "2,5Y5/1",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y5/1 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y5/2",
+        "Language": "en",
+        "collection": "2,5Y5/2",
+        "label": "Grayish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y5/2 interpreted as 'Grayish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y5/3",
+        "Language": "en",
+        "collection": "2,5Y5/3",
+        "label": "Light Olive Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y5/3 interpreted as 'Light Olive Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y5/4",
+        "Language": "en",
+        "collection": "2,5Y5/4",
+        "label": "Light Olive Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y5/4 interpreted as 'Light Olive Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y5/6",
+        "Language": "en",
+        "collection": "2,5Y5/6",
+        "label": "Light Olive Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y5/6 interpreted as 'Light Olive Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y6/0",
+        "Language": "en",
+        "collection": "2,5Y6/0",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y6/0 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y6/1",
+        "Language": "en",
+        "collection": "2,5Y6/1",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y6/1 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y6/2",
+        "Language": "en",
+        "collection": "2,5Y6/2",
+        "label": "Light Brownish Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y6/2 interpreted as 'Light Brownish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y6/3",
+        "Language": "en",
+        "collection": "2,5Y6/3",
+        "label": "Light Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y6/3 interpreted as 'Light Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y6/4",
+        "Language": "en",
+        "collection": "2,5Y6/4",
+        "label": "Light Yellowish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5Y6/4 interpreted as 'Light Yellowish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y6/6",
+        "Language": "en",
+        "collection": "2,5Y6/6",
+        "label": "Olive Yellow",
+        "description": "Soil color corresponding to Munsell notation 2,5Y6/6 interpreted as 'Olive Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y6/8",
+        "Language": "en",
+        "collection": "2,5Y6/8",
+        "label": "Olive Yellow",
+        "description": "Soil color corresponding to Munsell notation 2,5Y6/8 interpreted as 'Olive Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y7/0",
+        "Language": "en",
+        "collection": "2,5Y7/0",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y7/0 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y7/1",
+        "Language": "en",
+        "collection": "2,5Y7/1",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y7/1 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y7/2",
+        "Language": "en",
+        "collection": "2,5Y7/2",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5Y7/2 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y7/3",
+        "Language": "en",
+        "collection": "2,5Y7/3",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 2,5Y7/3 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y7/4",
+        "Language": "en",
+        "collection": "2,5Y7/4",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 2,5Y7/4 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y7/6",
+        "Language": "en",
+        "collection": "2,5Y7/6",
+        "label": "Yellow",
+        "description": "Soil color corresponding to Munsell notation 2,5Y7/6 interpreted as 'Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y7/8",
+        "Language": "en",
+        "collection": "2,5Y7/8",
+        "label": "Yellow",
+        "description": "Soil color corresponding to Munsell notation 2,5Y7/8 interpreted as 'Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y8/0",
+        "Language": "en",
+        "collection": "2,5Y8/0",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 2,5Y8/0 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y8/1",
+        "Language": "en",
+        "collection": "2,5Y8/1",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 2,5Y8/1 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y8/2",
+        "Language": "en",
+        "collection": "2,5Y8/2",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 2,5Y8/2 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5Y8/4",
+        "Language": "en",
+        "collection": "2,5Y8/4",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 2,5Y8/4 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR3/0",
+        "Language": "en",
+        "collection": "2,5YR3/0",
+        "label": "very dark grey",
+        "description": "Soil color corresponding to Munsell notation 2,5YR3/0 interpreted as 'very dark grey'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR3/2",
+        "Language": "en",
+        "collection": "2,5YR3/2",
+        "label": "Dusky Red",
+        "description": "Soil color corresponding to Munsell notation 2,5YR3/2 interpreted as 'Dusky Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR3/3",
+        "Language": "en",
+        "collection": "2,5YR3/3",
+        "label": "Dark Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5YR3/3 interpreted as 'Dark Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR3/4",
+        "Language": "en",
+        "collection": "2,5YR3/4",
+        "label": "Dark Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5YR3/4 interpreted as 'Dark Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR3/6",
+        "Language": "en",
+        "collection": "2,5YR3/6",
+        "label": "Dark Red",
+        "description": "Soil color corresponding to Munsell notation 2,5YR3/6 interpreted as 'Dark Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR4/0",
+        "Language": "en",
+        "collection": "2,5YR4/0",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5YR4/0 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR4/3",
+        "Language": "en",
+        "collection": "2,5YR4/3",
+        "label": "Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5YR4/3 interpreted as 'Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR4/4",
+        "Language": "en",
+        "collection": "2,5YR4/4",
+        "label": "Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5YR4/4 interpreted as 'Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR4/6",
+        "Language": "en",
+        "collection": "2,5YR4/6",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 2,5YR4/6 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR4/8",
+        "Language": "en",
+        "collection": "2,5YR4/8",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 2,5YR4/8 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR5/0",
+        "Language": "en",
+        "collection": "2,5YR5/0",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5YR5/0 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR5/3",
+        "Language": "en",
+        "collection": "2,5YR5/3",
+        "label": "Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5YR5/3 interpreted as 'Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR5/4",
+        "Language": "en",
+        "collection": "2,5YR5/4",
+        "label": "Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 2,5YR5/4 interpreted as 'Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR5/6",
+        "Language": "en",
+        "collection": "2,5YR5/6",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 2,5YR5/6 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR5/8",
+        "Language": "en",
+        "collection": "2,5YR5/8",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 2,5YR5/8 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR6/0",
+        "Language": "en",
+        "collection": "2,5YR6/0",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5YR6/0 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR6/1",
+        "Language": "en",
+        "collection": "2,5YR6/1",
+        "label": "Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5YR6/1 interpreted as 'Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR6/3",
+        "Language": "en",
+        "collection": "2,5YR6/3",
+        "label": "Light Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5YR6/3 interpreted as 'Light Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR6/4",
+        "Language": "en",
+        "collection": "2,5YR6/4",
+        "label": "Light Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5YR6/4 interpreted as 'Light Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR6/6",
+        "Language": "en",
+        "collection": "2,5YR6/6",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 2,5YR6/6 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR6/8",
+        "Language": "en",
+        "collection": "2,5YR6/8",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 2,5YR6/8 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "2,5YR7/3",
+        "Language": "en",
+        "collection": "2,5YR7/3",
+        "label": "Light Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 2,5YR7/3 interpreted as 'Light Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5B3/1",
+        "Language": "en",
+        "collection": "5B3/1",
+        "label": "Very Dark Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5B3/1 interpreted as 'Very Dark Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5B5/1",
+        "Language": "en",
+        "collection": "5B5/1",
+        "label": "Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5B5/1 interpreted as 'Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5B6/1",
+        "Language": "en",
+        "collection": "5B6/1",
+        "label": "Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5B6/1 interpreted as 'Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5B7/1",
+        "Language": "en",
+        "collection": "5B7/1",
+        "label": "Light Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5B7/1 interpreted as 'Light Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5B8/1",
+        "Language": "en",
+        "collection": "5B8/1",
+        "label": "Light Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5B8/1 interpreted as 'Light Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5BG3/1",
+        "Language": "en",
+        "collection": "5BG3/1",
+        "label": "Very Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5BG3/1 interpreted as 'Very Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5BG4/1",
+        "Language": "en",
+        "collection": "5BG4/1",
+        "label": "Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5BG4/1 interpreted as 'Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5BG5/1",
+        "Language": "en",
+        "collection": "5BG5/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5BG5/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5BG6/1",
+        "Language": "en",
+        "collection": "5BG6/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5BG6/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5BG7/1",
+        "Language": "en",
+        "collection": "5BG7/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5BG7/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5BG8/1",
+        "Language": "en",
+        "collection": "5BG8/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5BG8/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G3/1",
+        "Language": "en",
+        "collection": "5G3/1",
+        "label": "Very Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5G3/1 interpreted as 'Very Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G3/2",
+        "Language": "en",
+        "collection": "5G3/2",
+        "label": "Very Dark Grayish Green",
+        "description": "Soil color corresponding to Munsell notation 5G3/2 interpreted as 'Very Dark Grayish Green'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G4/1",
+        "Language": "en",
+        "collection": "5G4/1",
+        "label": "Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5G4/1 interpreted as 'Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G4/2",
+        "Language": "en",
+        "collection": "5G4/2",
+        "label": "Grayish Green",
+        "description": "Soil color corresponding to Munsell notation 5G4/2 interpreted as 'Grayish Green'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G5/1",
+        "Language": "en",
+        "collection": "5G5/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5G5/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G5/2",
+        "Language": "en",
+        "collection": "5G5/2",
+        "label": "Grayish Green",
+        "description": "Soil color corresponding to Munsell notation 5G5/2 interpreted as 'Grayish Green'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G6/1",
+        "Language": "en",
+        "collection": "5G6/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5G6/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G6/2",
+        "Language": "en",
+        "collection": "5G6/2",
+        "label": "Pale Green",
+        "description": "Soil color corresponding to Munsell notation 5G6/2 interpreted as 'Pale Green'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G7/1",
+        "Language": "en",
+        "collection": "5G7/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5G7/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G7/2",
+        "Language": "en",
+        "collection": "5G7/2",
+        "label": "Pale Green",
+        "description": "Soil color corresponding to Munsell notation 5G7/2 interpreted as 'Pale Green'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G8/1",
+        "Language": "en",
+        "collection": "5G8/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5G8/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5G8/2",
+        "Language": "en",
+        "collection": "5G8/2",
+        "label": "Pale Green",
+        "description": "Soil color corresponding to Munsell notation 5G8/2 interpreted as 'Pale Green'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5GY3/1",
+        "Language": "en",
+        "collection": "5GY3/1",
+        "label": "Very Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5GY3/1 interpreted as 'Very Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5GY4/1",
+        "Language": "en",
+        "collection": "5GY4/1",
+        "label": "Dark Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5GY4/1 interpreted as 'Dark Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5GY5/1",
+        "Language": "en",
+        "collection": "5GY5/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5GY5/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5GY6/1",
+        "Language": "en",
+        "collection": "5GY6/1",
+        "label": "Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5GY6/1 interpreted as 'Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5GY7/1",
+        "Language": "en",
+        "collection": "5GY7/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5GY7/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5GY8/1",
+        "Language": "en",
+        "collection": "5GY8/1",
+        "label": "Light Greenish Gray",
+        "description": "Soil color corresponding to Munsell notation 5GY8/1 interpreted as 'Light Greenish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5PB3/1",
+        "Language": "en",
+        "collection": "5PB3/1",
+        "label": "Very Dark Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5PB3/1 interpreted as 'Very Dark Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5PB4/1",
+        "Language": "en",
+        "collection": "5PB4/1",
+        "label": "Dark Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5PB4/1 interpreted as 'Dark Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5PB5/1",
+        "Language": "en",
+        "collection": "5PB5/1",
+        "label": "Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5PB5/1 interpreted as 'Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5PB6/1",
+        "Language": "en",
+        "collection": "5PB6/1",
+        "label": "Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5PB6/1 interpreted as 'Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5PB7/1",
+        "Language": "en",
+        "collection": "5PB7/1",
+        "label": "Light Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5PB7/1 interpreted as 'Light Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5PB8/1",
+        "Language": "en",
+        "collection": "5PB8/1",
+        "label": "Light Bluish Gray",
+        "description": "Soil color corresponding to Munsell notation 5PB8/1 interpreted as 'Light Bluish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R3/1",
+        "Language": "en",
+        "collection": "5R3/1",
+        "label": "Dark Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 5R3/1 interpreted as 'Dark Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R3/2",
+        "Language": "en",
+        "collection": "5R3/2",
+        "label": "Dusky Red",
+        "description": "Soil color corresponding to Munsell notation 5R3/2 interpreted as 'Dusky Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R3/3",
+        "Language": "en",
+        "collection": "5R3/3",
+        "label": "Dusky Red",
+        "description": "Soil color corresponding to Munsell notation 5R3/3 interpreted as 'Dusky Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R3/4",
+        "Language": "en",
+        "collection": "5R3/4",
+        "label": "Dusky Red",
+        "description": "Soil color corresponding to Munsell notation 5R3/4 interpreted as 'Dusky Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R3/6",
+        "Language": "en",
+        "collection": "5R3/6",
+        "label": "Dark Red",
+        "description": "Soil color corresponding to Munsell notation 5R3/6 interpreted as 'Dark Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R3/8",
+        "Language": "en",
+        "collection": "5R3/8",
+        "label": "Dark Red",
+        "description": "Soil color corresponding to Munsell notation 5R3/8 interpreted as 'Dark Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R4/1",
+        "Language": "en",
+        "collection": "5R4/1",
+        "label": "Dark Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 5R4/1 interpreted as 'Dark Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R4/2",
+        "Language": "en",
+        "collection": "5R4/2",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 5R4/2 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R4/3",
+        "Language": "en",
+        "collection": "5R4/3",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 5R4/3 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R4/4",
+        "Language": "en",
+        "collection": "5R4/4",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 5R4/4 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R4/6",
+        "Language": "en",
+        "collection": "5R4/6",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 5R4/6 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R4/8",
+        "Language": "en",
+        "collection": "5R4/8",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 5R4/8 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R5/1",
+        "Language": "en",
+        "collection": "5R5/1",
+        "label": "Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 5R5/1 interpreted as 'Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R5/2",
+        "Language": "en",
+        "collection": "5R5/2",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 5R5/2 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R5/3",
+        "Language": "en",
+        "collection": "5R5/3",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 5R5/3 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R5/4",
+        "Language": "en",
+        "collection": "5R5/4",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 5R5/4 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R5/6",
+        "Language": "en",
+        "collection": "5R5/6",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 5R5/6 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R5/8",
+        "Language": "en",
+        "collection": "5R5/8",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 5R5/8 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R6/1",
+        "Language": "en",
+        "collection": "5R6/1",
+        "label": "Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 5R6/1 interpreted as 'Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R6/2",
+        "Language": "en",
+        "collection": "5R6/2",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 5R6/2 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R6/3",
+        "Language": "en",
+        "collection": "5R6/3",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 5R6/3 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R6/4",
+        "Language": "en",
+        "collection": "5R6/4",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 5R6/4 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R6/6",
+        "Language": "en",
+        "collection": "5R6/6",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 5R6/6 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R6/8",
+        "Language": "en",
+        "collection": "5R6/8",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 5R6/8 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R7/1",
+        "Language": "en",
+        "collection": "5R7/1",
+        "label": "Pinkish Gray",
+        "description": "Soil color corresponding to Munsell notation 5R7/1 interpreted as 'Pinkish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R7/2",
+        "Language": "en",
+        "collection": "5R7/2",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 5R7/2 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R7/3",
+        "Language": "en",
+        "collection": "5R7/3",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 5R7/3 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R7/4",
+        "Language": "en",
+        "collection": "5R7/4",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 5R7/4 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R7/6",
+        "Language": "en",
+        "collection": "5R7/6",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 5R7/6 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R7/8",
+        "Language": "en",
+        "collection": "5R7/8",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 5R7/8 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R8/1",
+        "Language": "en",
+        "collection": "5R8/1",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 5R8/1 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R8/2",
+        "Language": "en",
+        "collection": "5R8/2",
+        "label": "Light Pink",
+        "description": "Soil color corresponding to Munsell notation 5R8/2 interpreted as 'Light Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5R8/3",
+        "Language": "en",
+        "collection": "5R8/3",
+        "label": "Light Pink",
+        "description": "Soil color corresponding to Munsell notation 5R8/3 interpreted as 'Light Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y3/1",
+        "Language": "en",
+        "collection": "5Y3/1",
+        "label": "Very Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y3/1 interpreted as 'Very Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y3/2",
+        "Language": "en",
+        "collection": "5Y3/2",
+        "label": "Dark Olive Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y3/2 interpreted as 'Dark Olive Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y4/0",
+        "Language": "en",
+        "collection": "5Y4/0",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y4/0 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y4/1",
+        "Language": "en",
+        "collection": "5Y4/1",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y4/1 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y4/2",
+        "Language": "en",
+        "collection": "5Y4/2",
+        "label": "Olive Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y4/2 interpreted as 'Olive Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y4/3",
+        "Language": "en",
+        "collection": "5Y4/3",
+        "label": "Olive",
+        "description": "Soil color corresponding to Munsell notation 5Y4/3 interpreted as 'Olive'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y4/4",
+        "Language": "en",
+        "collection": "5Y4/4",
+        "label": "Olive",
+        "description": "Soil color corresponding to Munsell notation 5Y4/4 interpreted as 'Olive'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y5/1",
+        "Language": "en",
+        "collection": "5Y5/1",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y5/1 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y5/2",
+        "Language": "en",
+        "collection": "5Y5/2",
+        "label": "Olive Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y5/2 interpreted as 'Olive Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y5/3",
+        "Language": "en",
+        "collection": "5Y5/3",
+        "label": "Olive",
+        "description": "Soil color corresponding to Munsell notation 5Y5/3 interpreted as 'Olive'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y5/4",
+        "Language": "en",
+        "collection": "5Y5/4",
+        "label": "Olive",
+        "description": "Soil color corresponding to Munsell notation 5Y5/4 interpreted as 'Olive'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y5/6",
+        "Language": "en",
+        "collection": "5Y5/6",
+        "label": "Olive",
+        "description": "Soil color corresponding to Munsell notation 5Y5/6 interpreted as 'Olive'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y6/1",
+        "Language": "en",
+        "collection": "5Y6/1",
+        "label": "Gray and pale gray",
+        "description": "Soil color corresponding to Munsell notation 5Y6/1 interpreted as 'Gray and pale gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y6/2",
+        "Language": "en",
+        "collection": "5Y6/2",
+        "label": "Light Olive Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y6/2 interpreted as 'Light Olive Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y6/3",
+        "Language": "en",
+        "collection": "5Y6/3",
+        "label": "Pale Olive",
+        "description": "Soil color corresponding to Munsell notation 5Y6/3 interpreted as 'Pale Olive'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y6/4",
+        "Language": "en",
+        "collection": "5Y6/4",
+        "label": "Pale Olive",
+        "description": "Soil color corresponding to Munsell notation 5Y6/4 interpreted as 'Pale Olive'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y6/6",
+        "Language": "en",
+        "collection": "5Y6/6",
+        "label": "Olive Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y6/6 interpreted as 'Olive Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y6/8",
+        "Language": "en",
+        "collection": "5Y6/8",
+        "label": "Olive Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y6/8 interpreted as 'Olive Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y7/1",
+        "Language": "en",
+        "collection": "5Y7/1",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y7/1 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y7/2",
+        "Language": "en",
+        "collection": "5Y7/2",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 5Y7/2 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y7/3",
+        "Language": "en",
+        "collection": "5Y7/3",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y7/3 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y7/4",
+        "Language": "en",
+        "collection": "5Y7/4",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y7/4 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y7/6",
+        "Language": "en",
+        "collection": "5Y7/6",
+        "label": "Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y7/6 interpreted as 'Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y7/8",
+        "Language": "en",
+        "collection": "5Y7/8",
+        "label": "Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y7/8 interpreted as 'Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y8/1",
+        "Language": "en",
+        "collection": "5Y8/1",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 5Y8/1 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y8/2",
+        "Language": "en",
+        "collection": "5Y8/2",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y8/2 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y8/3",
+        "Language": "en",
+        "collection": "5Y8/3",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y8/3 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y8/4",
+        "Language": "en",
+        "collection": "5Y8/4",
+        "label": "Pale Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y8/4 interpreted as 'Pale Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y8/6",
+        "Language": "en",
+        "collection": "5Y8/6",
+        "label": "Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y8/6 interpreted as 'Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5Y8/8",
+        "Language": "en",
+        "collection": "5Y8/8",
+        "label": "Yellow",
+        "description": "Soil color corresponding to Munsell notation 5Y8/8 interpreted as 'Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR2/4",
+        "Language": "en",
+        "collection": "5YR2/4",
+        "label": "Dark Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR2/4 interpreted as 'Dark Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR3/1",
+        "Language": "en",
+        "collection": "5YR3/1",
+        "label": "Very Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 5YR3/1 interpreted as 'Very Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR3/2",
+        "Language": "en",
+        "collection": "5YR3/2",
+        "label": "Dark Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR3/2 interpreted as 'Dark Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR3/3",
+        "Language": "en",
+        "collection": "5YR3/3",
+        "label": "Dark Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR3/3 interpreted as 'Dark Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR3/4",
+        "Language": "en",
+        "collection": "5YR3/4",
+        "label": "Dark Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR3/4 interpreted as 'Dark Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR3/5",
+        "Language": "en",
+        "collection": "5YR3/5",
+        "label": "Yellowish Red",
+        "description": "Soil color corresponding to Munsell notation 5YR3/5 interpreted as 'Yellowish Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR3/6",
+        "Language": "en",
+        "collection": "5YR3/6",
+        "label": "Yellowish Red",
+        "description": "Soil color corresponding to Munsell notation 5YR3/6 interpreted as 'Yellowish Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR3/8",
+        "Language": "en",
+        "collection": "5YR3/8",
+        "label": "Yellowish Red",
+        "description": "Soil color corresponding to Munsell notation 5YR3/8 interpreted as 'Yellowish Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR4/1",
+        "Language": "en",
+        "collection": "5YR4/1",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 5YR4/1 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR4/2",
+        "Language": "en",
+        "collection": "5YR4/2",
+        "label": "Dark Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 5YR4/2 interpreted as 'Dark Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR4/3",
+        "Language": "en",
+        "collection": "5YR4/3",
+        "label": "Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR4/3 interpreted as 'Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR4/4",
+        "Language": "en",
+        "collection": "5YR4/4",
+        "label": "Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR4/4 interpreted as 'Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR4/6",
+        "Language": "en",
+        "collection": "5YR4/6",
+        "label": "Yellowish Red",
+        "description": "Soil color corresponding to Munsell notation 5YR4/6 interpreted as 'Yellowish Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR5/1",
+        "Language": "en",
+        "collection": "5YR5/1",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 5YR5/1 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR5/2",
+        "Language": "en",
+        "collection": "5YR5/2",
+        "label": "Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 5YR5/2 interpreted as 'Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR5/3",
+        "Language": "en",
+        "collection": "5YR5/3",
+        "label": "Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR5/3 interpreted as 'Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR5/4",
+        "Language": "en",
+        "collection": "5YR5/4",
+        "label": "Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR5/4 interpreted as 'Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR5/6",
+        "Language": "en",
+        "collection": "5YR5/6",
+        "label": "Yellowish Red",
+        "description": "Soil color corresponding to Munsell notation 5YR5/6 interpreted as 'Yellowish Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR5/8",
+        "Language": "en",
+        "collection": "5YR5/8",
+        "label": "Yellowish Red",
+        "description": "Soil color corresponding to Munsell notation 5YR5/8 interpreted as 'Yellowish Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR6/1",
+        "Language": "en",
+        "collection": "5YR6/1",
+        "label": "Gray and pale gray",
+        "description": "Soil color corresponding to Munsell notation 5YR6/1 interpreted as 'Gray and pale gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR6/2",
+        "Language": "en",
+        "collection": "5YR6/2",
+        "label": "Pinkish Gray",
+        "description": "Soil color corresponding to Munsell notation 5YR6/2 interpreted as 'Pinkish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR6/3",
+        "Language": "en",
+        "collection": "5YR6/3",
+        "label": "Light Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR6/3 interpreted as 'Light Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR6/4",
+        "Language": "en",
+        "collection": "5YR6/4",
+        "label": "Light Reddish Brown",
+        "description": "Soil color corresponding to Munsell notation 5YR6/4 interpreted as 'Light Reddish Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR6/6",
+        "Language": "en",
+        "collection": "5YR6/6",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 5YR6/6 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR6/8",
+        "Language": "en",
+        "collection": "5YR6/8",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 5YR6/8 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR7/1",
+        "Language": "en",
+        "collection": "5YR7/1",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 5YR7/1 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR7/2",
+        "Language": "en",
+        "collection": "5YR7/2",
+        "label": "Pinkish Gray",
+        "description": "Soil color corresponding to Munsell notation 5YR7/2 interpreted as 'Pinkish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR7/3",
+        "Language": "en",
+        "collection": "5YR7/3",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 5YR7/3 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR7/4",
+        "Language": "en",
+        "collection": "5YR7/4",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 5YR7/4 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR7/6",
+        "Language": "en",
+        "collection": "5YR7/6",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 5YR7/6 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR7/8",
+        "Language": "en",
+        "collection": "5YR7/8",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 5YR7/8 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR8/1",
+        "Language": "en",
+        "collection": "5YR8/1",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 5YR8/1 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR8/2",
+        "Language": "en",
+        "collection": "5YR8/2",
+        "label": "Pinkish White",
+        "description": "Soil color corresponding to Munsell notation 5YR8/2 interpreted as 'Pinkish White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR8/3",
+        "Language": "en",
+        "collection": "5YR8/3",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 5YR8/3 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "5YR8/4",
+        "Language": "en",
+        "collection": "5YR8/4",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 5YR8/4 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R3/0",
+        "Language": "en",
+        "collection": "7,5R3/0",
+        "label": "very dark grey",
+        "description": "Soil color corresponding to Munsell notation 7,5R3/0 interpreted as 'very dark grey'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R3/1",
+        "Language": "en",
+        "collection": "7,5R3/1",
+        "label": "Dark Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5R3/1 interpreted as 'Dark Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R3/2",
+        "Language": "en",
+        "collection": "7,5R3/2",
+        "label": "Dusky Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R3/2 interpreted as 'Dusky Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R3/3",
+        "Language": "en",
+        "collection": "7,5R3/3",
+        "label": "Dusky Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R3/3 interpreted as 'Dusky Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R3/4",
+        "Language": "en",
+        "collection": "7,5R3/4",
+        "label": "Dusky Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R3/4 interpreted as 'Dusky Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R3/6",
+        "Language": "en",
+        "collection": "7,5R3/6",
+        "label": "Dark Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R3/6 interpreted as 'Dark Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R3/8",
+        "Language": "en",
+        "collection": "7,5R3/8",
+        "label": "Dark Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R3/8 interpreted as 'Dark Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R4/0",
+        "Language": "en",
+        "collection": "7,5R4/0",
+        "label": "dark grey",
+        "description": "Soil color corresponding to Munsell notation 7,5R4/0 interpreted as 'dark grey'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R4/1",
+        "Language": "en",
+        "collection": "7,5R4/1",
+        "label": "Dark Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5R4/1 interpreted as 'Dark Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R4/2",
+        "Language": "en",
+        "collection": "7,5R4/2",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R4/2 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R4/3",
+        "Language": "en",
+        "collection": "7,5R4/3",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R4/3 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R4/4",
+        "Language": "en",
+        "collection": "7,5R4/4",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R4/4 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R4/6",
+        "Language": "en",
+        "collection": "7,5R4/6",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R4/6 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R4/8",
+        "Language": "en",
+        "collection": "7,5R4/8",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R4/8 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R5/0",
+        "Language": "en",
+        "collection": "7,5R5/0",
+        "label": "Reddish Black",
+        "description": "Soil color corresponding to Munsell notation 7,5R5/0 interpreted as 'Reddish Black'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R5/1",
+        "Language": "en",
+        "collection": "7,5R5/1",
+        "label": "Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5R5/1 interpreted as 'Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R5/2",
+        "Language": "en",
+        "collection": "7,5R5/2",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R5/2 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R5/3",
+        "Language": "en",
+        "collection": "7,5R5/3",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R5/3 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R5/4",
+        "Language": "en",
+        "collection": "7,5R5/4",
+        "label": "Weak Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R5/4 interpreted as 'Weak Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R5/6",
+        "Language": "en",
+        "collection": "7,5R5/6",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R5/6 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R5/8",
+        "Language": "en",
+        "collection": "7,5R5/8",
+        "label": "Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R5/8 interpreted as 'Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R6/0",
+        "Language": "en",
+        "collection": "7,5R6/0",
+        "label": "grey",
+        "description": "Soil color corresponding to Munsell notation 7,5R6/0 interpreted as 'grey'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R6/1",
+        "Language": "en",
+        "collection": "7,5R6/1",
+        "label": "Reddish Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5R6/1 interpreted as 'Reddish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R6/2",
+        "Language": "en",
+        "collection": "7,5R6/2",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R6/2 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R6/3",
+        "Language": "en",
+        "collection": "7,5R6/3",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R6/3 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R6/4",
+        "Language": "en",
+        "collection": "7,5R6/4",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R6/4 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R6/6",
+        "Language": "en",
+        "collection": "7,5R6/6",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R6/6 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R6/8",
+        "Language": "en",
+        "collection": "7,5R6/8",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R6/8 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R7/0",
+        "Language": "en",
+        "collection": "7,5R7/0",
+        "label": "Pinkish Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5R7/0 interpreted as 'Pinkish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R7/1",
+        "Language": "en",
+        "collection": "7,5R7/1",
+        "label": "Pinkish Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5R7/1 interpreted as 'Pinkish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R7/2",
+        "Language": "en",
+        "collection": "7,5R7/2",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R7/2 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R7/3",
+        "Language": "en",
+        "collection": "7,5R7/3",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R7/3 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R7/4",
+        "Language": "en",
+        "collection": "7,5R7/4",
+        "label": "Pale Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R7/4 interpreted as 'Pale Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R7/6",
+        "Language": "en",
+        "collection": "7,5R7/6",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R7/6 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R7/8",
+        "Language": "en",
+        "collection": "7,5R7/8",
+        "label": "Light Red",
+        "description": "Soil color corresponding to Munsell notation 7,5R7/8 interpreted as 'Light Red'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R8/1",
+        "Language": "en",
+        "collection": "7,5R8/1",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 7,5R8/1 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R8/2",
+        "Language": "en",
+        "collection": "7,5R8/2",
+        "label": "Light Pink",
+        "description": "Soil color corresponding to Munsell notation 7,5R8/2 interpreted as 'Light Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R8/3",
+        "Language": "en",
+        "collection": "7,5R8/3",
+        "label": "Light Pink",
+        "description": "Soil color corresponding to Munsell notation 7,5R8/3 interpreted as 'Light Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5R8/4",
+        "Language": "en",
+        "collection": "7,5R8/4",
+        "label": "Light Pink",
+        "description": "Soil color corresponding to Munsell notation 7,5R8/4 interpreted as 'Light Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR2/0",
+        "Language": "en",
+        "collection": "7,5YR2/0",
+        "label": "Black",
+        "description": "Soil color corresponding to Munsell notation 7,5YR2/0 interpreted as 'Black'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR3/0",
+        "Language": "en",
+        "collection": "7,5YR3/0",
+        "label": "Very Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR3/0 interpreted as 'Very Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR3/1",
+        "Language": "en",
+        "collection": "7,5YR3/1",
+        "label": "Very Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR3/1 interpreted as 'Very Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR3/2",
+        "Language": "en",
+        "collection": "7,5YR3/2",
+        "label": "Dark Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR3/2 interpreted as 'Dark Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR3/3",
+        "Language": "en",
+        "collection": "7,5YR3/3",
+        "label": "Dark Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR3/3 interpreted as 'Dark Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR3/4",
+        "Language": "en",
+        "collection": "7,5YR3/4",
+        "label": "Dark Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR3/4 interpreted as 'Dark Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR4/0",
+        "Language": "en",
+        "collection": "7,5YR4/0",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR4/0 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR4/1",
+        "Language": "en",
+        "collection": "7,5YR4/1",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR4/1 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR4/2",
+        "Language": "en",
+        "collection": "7,5YR4/2",
+        "label": "Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR4/2 interpreted as 'Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR4/3",
+        "Language": "en",
+        "collection": "7,5YR4/3",
+        "label": "Dark brown and brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR4/3 interpreted as 'Dark brown and brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR4/4",
+        "Language": "en",
+        "collection": "7,5YR4/4",
+        "label": "Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR4/4 interpreted as 'Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR4/6",
+        "Language": "en",
+        "collection": "7,5YR4/6",
+        "label": "Strong Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR4/6 interpreted as 'Strong Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR5/0",
+        "Language": "en",
+        "collection": "7,5YR5/0",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR5/0 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR5/1",
+        "Language": "en",
+        "collection": "7,5YR5/1",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR5/1 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR5/2",
+        "Language": "en",
+        "collection": "7,5YR5/2",
+        "label": "Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR5/2 interpreted as 'Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR5/3",
+        "Language": "en",
+        "collection": "7,5YR5/3",
+        "label": "Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR5/3 interpreted as 'Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR5/4",
+        "Language": "en",
+        "collection": "7,5YR5/4",
+        "label": "Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR5/4 interpreted as 'Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR5/6",
+        "Language": "en",
+        "collection": "7,5YR5/6",
+        "label": "Strong Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR5/6 interpreted as 'Strong Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR5/8",
+        "Language": "en",
+        "collection": "7,5YR5/8",
+        "label": "Strong Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR5/8 interpreted as 'Strong Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR6/0",
+        "Language": "en",
+        "collection": "7,5YR6/0",
+        "label": "Gray and pale gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR6/0 interpreted as 'Gray and pale gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR6/1",
+        "Language": "en",
+        "collection": "7,5YR6/1",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR6/1 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR6/2",
+        "Language": "en",
+        "collection": "7,5YR6/2",
+        "label": "Pinkish Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR6/2 interpreted as 'Pinkish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR6/3",
+        "Language": "en",
+        "collection": "7,5YR6/3",
+        "label": "Light Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR6/3 interpreted as 'Light Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR6/4",
+        "Language": "en",
+        "collection": "7,5YR6/4",
+        "label": "Light Brown",
+        "description": "Soil color corresponding to Munsell notation 7,5YR6/4 interpreted as 'Light Brown'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR6/6",
+        "Language": "en",
+        "collection": "7,5YR6/6",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 7,5YR6/6 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR6/8",
+        "Language": "en",
+        "collection": "7,5YR6/8",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 7,5YR6/8 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR7/0",
+        "Language": "en",
+        "collection": "7,5YR7/0",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR7/0 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR7/1",
+        "Language": "en",
+        "collection": "7,5YR7/1",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR7/1 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR7/2",
+        "Language": "en",
+        "collection": "7,5YR7/2",
+        "label": "Pinkish Gray",
+        "description": "Soil color corresponding to Munsell notation 7,5YR7/2 interpreted as 'Pinkish Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR7/3",
+        "Language": "en",
+        "collection": "7,5YR7/3",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 7,5YR7/3 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR7/4",
+        "Language": "en",
+        "collection": "7,5YR7/4",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 7,5YR7/4 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR7/6",
+        "Language": "en",
+        "collection": "7,5YR7/6",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 7,5YR7/6 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR7/8",
+        "Language": "en",
+        "collection": "7,5YR7/8",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 7,5YR7/8 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR8/0",
+        "Language": "en",
+        "collection": "7,5YR8/0",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 7,5YR8/0 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR8/1",
+        "Language": "en",
+        "collection": "7,5YR8/1",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation 7,5YR8/1 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR8/2",
+        "Language": "en",
+        "collection": "7,5YR8/2",
+        "label": "Pinkish White",
+        "description": "Soil color corresponding to Munsell notation 7,5YR8/2 interpreted as 'Pinkish White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR8/3",
+        "Language": "en",
+        "collection": "7,5YR8/3",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 7,5YR8/3 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR8/4",
+        "Language": "en",
+        "collection": "7,5YR8/4",
+        "label": "Pink",
+        "description": "Soil color corresponding to Munsell notation 7,5YR8/4 interpreted as 'Pink'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "7,5YR8/6",
+        "Language": "en",
+        "collection": "7,5YR8/6",
+        "label": "Reddish Yellow",
+        "description": "Soil color corresponding to Munsell notation 7,5YR8/6 interpreted as 'Reddish Yellow'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "N3/0",
+        "Language": "en",
+        "collection": "N3/0",
+        "label": "Very Dark Gray",
+        "description": "Soil color corresponding to Munsell notation N3/0 interpreted as 'Very Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "N4/0",
+        "Language": "en",
+        "collection": "N4/0",
+        "label": "Dark Gray",
+        "description": "Soil color corresponding to Munsell notation N4/0 interpreted as 'Dark Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "N5/0",
+        "Language": "en",
+        "collection": "N5/0",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation N5/0 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "N6/0",
+        "Language": "en",
+        "collection": "N6/0",
+        "label": "Gray",
+        "description": "Soil color corresponding to Munsell notation N6/0 interpreted as 'Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "N7/0",
+        "Language": "en",
+        "collection": "N7/0",
+        "label": "Light Gray",
+        "description": "Soil color corresponding to Munsell notation N7/0 interpreted as 'Light Gray'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    },
+    {
+        "localid": "N8/0",
+        "Language": "en",
+        "collection": "N8/0",
+        "label": "White",
+        "description": "Soil color corresponding to Munsell notation N8/0 interpreted as 'White'.",
+        "definition": "https://zenodo.org/records/7589089#sec-4.4.4-colore-massa",
+        "status": "https://inspire.ec.europa.eu/registry/status/valid"
+    }
+]

@@ -1,0 +1,7 @@
+localid,Language,collection,label,description ,definition,status
+20,it,radici_medie_quant,20,poche (1-2),poche (1-2),https://inspire.ec.europa.eu/registry/status/valid
+50,it,radici_medie_quant,50,comuni (2-5),comuni (2-5),https://inspire.ec.europa.eu/registry/status/valid
+1000,it,radici_medie_quant,1000,molte (>5),molte (>5),https://inspire.ec.europa.eu/registry/status/valid
+20,en,radici_medie_quant,20,few (1-2),few (1-2),https://inspire.ec.europa.eu/registry/status/valid
+50,en,radici_medie_quant,50,common (2-5),common (2-5),https://inspire.ec.europa.eu/registry/status/valid
+1000,en,radici_medie_quant,1000,many (>5),many (>5),https://inspire.ec.europa.eu/registry/status/valid

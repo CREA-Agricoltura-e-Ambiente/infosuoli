@@ -1,0 +1,11 @@
+localid,Language,collection,label,description ,definition,status
+0250,it,profondita,0250,molto scarsa (,molto scarsa (,https://inspire.ec.europa.eu/registry/status/valid
+0500,it,profondita,0500,scarsa (25-50 cm),scarsa (25-50 cm),https://inspire.ec.europa.eu/registry/status/valid
+1000,it,profondita,1000,mod. elevata (50-100 cm),mod. elevata (50-100 cm),https://inspire.ec.europa.eu/registry/status/valid
+1500,it,profondita,1500,elevata (100-150 cm),elevata (100-150 cm),https://inspire.ec.europa.eu/registry/status/valid
+9999,it,profondita,9999,molto elevata (>150 cm),molto elevata (>150 cm),https://inspire.ec.europa.eu/registry/status/valid
+0250,en,profondita,0250,very shallow ,very shallow ,https://inspire.ec.europa.eu/registry/status/valid
+0500,en,profondita,0500,shallow 25-50 cm,shallow 25-50 cm,https://inspire.ec.europa.eu/registry/status/valid
+1000,en,profondita,1000,moderately deep 50-100 cm,moderately deep 50-100 cm,https://inspire.ec.europa.eu/registry/status/valid
+1500,en,profondita,1500,deep 100-150 cm,deep 100-150 cm,https://inspire.ec.europa.eu/registry/status/valid
+9999,en,profondita,9999,very deep >150 cm,very deep >150 cm,https://inspire.ec.europa.eu/registry/status/valid

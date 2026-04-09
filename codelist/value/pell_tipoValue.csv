@@ -1,0 +1,15 @@
+localid,Language,collection,label,description ,definition,status
+1,it,pell_tipo,1,argilla,argilla,https://inspire.ec.europa.eu/registry/status/valid
+2,it,pell_tipo,2,sabbia o limo,sabbia o limo,https://inspire.ec.europa.eu/registry/status/valid
+3,it,pell_tipo,3,sostanza organica,sostanza organica,https://inspire.ec.europa.eu/registry/status/valid
+4,it,pell_tipo,4,ferro e argilla,ferro e argilla,https://inspire.ec.europa.eu/registry/status/valid
+5,it,pell_tipo,5,ferromanganese,ferromanganese,https://inspire.ec.europa.eu/registry/status/valid
+6,it,pell_tipo,6,agricutans,agricutans,https://inspire.ec.europa.eu/registry/status/valid
+7,it,pell_tipo,7,altro,altro,https://inspire.ec.europa.eu/registry/status/valid
+1,en,pell_tipo,1,clay,clay,https://inspire.ec.europa.eu/registry/status/valid
+2,en,pell_tipo,2,sand or silt,sand or silt,https://inspire.ec.europa.eu/registry/status/valid
+3,en,pell_tipo,3,organic matter,organic matter,https://inspire.ec.europa.eu/registry/status/valid
+4,en,pell_tipo,4,iron and clay,iron and clay,https://inspire.ec.europa.eu/registry/status/valid
+5,en,pell_tipo,5,iron-manganese,iron-manganese,https://inspire.ec.europa.eu/registry/status/valid
+6,en,pell_tipo,6,agricutans,agricutans,https://inspire.ec.europa.eu/registry/status/valid
+7,en,pell_tipo,7,undefined,undefined,https://inspire.ec.europa.eu/registry/status/valid

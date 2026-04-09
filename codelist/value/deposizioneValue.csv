@@ -1,0 +1,9 @@
+localid,Language,collection,label,description ,definition,status
+0,it,deposizione,0,assenza di deposizione,assenza di deposizione,https://inspire.ec.europa.eu/registry/status/valid
+1,it,deposizione,1,deposizione idrica,deposizione idrica,https://inspire.ec.europa.eu/registry/status/valid
+2,it,deposizione,2,deposizione eolica,deposizione eolica,https://inspire.ec.europa.eu/registry/status/valid
+3,it,deposizione,3,deposizione gravitazionale,deposizione gravitazionale,https://inspire.ec.europa.eu/registry/status/valid
+0,en,deposizione,0,deposition: absent,deposition: absent,https://inspire.ec.europa.eu/registry/status/valid
+1,en,deposizione,1,deposition: hydric,deposition: hydric,https://inspire.ec.europa.eu/registry/status/valid
+2,en,deposizione,2,deposition:eolian,deposition:eolian,https://inspire.ec.europa.eu/registry/status/valid
+3,en,deposizione,3,deposition: gravitational,deposition: gravitational,https://inspire.ec.europa.eu/registry/status/valid

@@ -1,0 +1,21 @@
+localid,Language,collection,label,description ,definition,status
+20,it,conc_dim,20,estremamente piccole (,estremamente piccole (,https://inspire.ec.europa.eu/registry/status/valid
+50,it,conc_dim,50,molto piccole (3-5 mm),molto piccole (3-5 mm),https://inspire.ec.europa.eu/registry/status/valid
+200,it,conc_dim,200,piccole (6-20 mm),piccole (6-20 mm),https://inspire.ec.europa.eu/registry/status/valid
+760,it,conc_dim,760,medie (21-76 mm),medie (21-76 mm),https://inspire.ec.europa.eu/registry/status/valid
+9999,it,conc_dim,9999,grandi (>76 mm),grandi (>76 mm),https://inspire.ec.europa.eu/registry/status/valid
+20,en,conc_dim,20,extremely small (,extremely small (,https://inspire.ec.europa.eu/registry/status/valid
+50,en,conc_dim,50,very small (3-5 mm),very small (3-5 mm),https://inspire.ec.europa.eu/registry/status/valid
+200,en,conc_dim,200,small (6-20 mm),small (6-20 mm),https://inspire.ec.europa.eu/registry/status/valid
+760,en,conc_dim,760,medium (21-76 mm),medium (21-76 mm),https://inspire.ec.europa.eu/registry/status/valid
+9999,en,conc_dim,9999,coarse (>76 mm),coarse (>76 mm),https://inspire.ec.europa.eu/registry/status/valid
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,
+,,,,,,

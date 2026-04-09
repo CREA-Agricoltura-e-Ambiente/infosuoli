@@ -1,0 +1,31 @@
+localid,Language,collection,label,description ,definition,status
+D,it,elem_morf,D,depressione,depressione,https://inspire.ec.europa.eu/registry/status/valid
+DA,it,elem_morf,DA,depressione aperta,depressione aperta,https://inspire.ec.europa.eu/registry/status/valid
+DC,it,elem_morf,DC,depressione chiusa,depressione chiusa,https://inspire.ec.europa.eu/registry/status/valid
+P,it,elem_morf,P,piano,piano,https://inspire.ec.europa.eu/registry/status/valid
+PP,it,elem_morf,PP,pianura,pianura,https://inspire.ec.europa.eu/registry/status/valid
+PR,it,elem_morf,PR,ripiano,ripiano,https://inspire.ec.europa.eu/registry/status/valid
+S,it,elem_morf,S,sommità,sommità,https://inspire.ec.europa.eu/registry/status/valid
+SC,it,elem_morf,SC,cresta,cresta,https://inspire.ec.europa.eu/registry/status/valid
+SS,it,elem_morf,SS,sella,sella,https://inspire.ec.europa.eu/registry/status/valid
+SU,it,elem_morf,SU,culmine,culmine,https://inspire.ec.europa.eu/registry/status/valid
+V,it,elem_morf,V,versante,versante,https://inspire.ec.europa.eu/registry/status/valid
+VA,it,elem_morf,VA,parte alta del versante,parte alta del versante,https://inspire.ec.europa.eu/registry/status/valid
+VB,it,elem_morf,VB,parte bassa del versante,parte bassa del versante,https://inspire.ec.europa.eu/registry/status/valid
+VM,it,elem_morf,VM,parte media del versante,parte media del versante,https://inspire.ec.europa.eu/registry/status/valid
+VS,it,elem_morf,VS,versante semplice,versante semplice,https://inspire.ec.europa.eu/registry/status/valid
+D,en,elem_morf,D,depression,depression,https://inspire.ec.europa.eu/registry/status/valid
+DA,en,elem_morf,DA,open depression,open depression,https://inspire.ec.europa.eu/registry/status/valid
+DC,en,elem_morf,DC,closed depression,closed depression,https://inspire.ec.europa.eu/registry/status/valid
+P,en,elem_morf,P,plane,plane,https://inspire.ec.europa.eu/registry/status/valid
+PP,en,elem_morf,PP,plane,plane,https://inspire.ec.europa.eu/registry/status/valid
+PR,en,elem_morf,PR,tread,tread,https://inspire.ec.europa.eu/registry/status/valid
+S,en,elem_morf,S,summit,summit,https://inspire.ec.europa.eu/registry/status/valid
+SC,en,elem_morf,SC,ridge,ridge,https://inspire.ec.europa.eu/registry/status/valid
+SS,en,elem_morf,SS,saddle,saddle,https://inspire.ec.europa.eu/registry/status/valid
+SU,en,elem_morf,SU,summit,summit,https://inspire.ec.europa.eu/registry/status/valid
+V,en,elem_morf,V,slope,slope,https://inspire.ec.europa.eu/registry/status/valid
+VA,en,elem_morf,VA,head slope,head slope,https://inspire.ec.europa.eu/registry/status/valid
+VB,en,elem_morf,VB,foot slope,foot slope,https://inspire.ec.europa.eu/registry/status/valid
+VM,en,elem_morf,VM,back slope,back slope,https://inspire.ec.europa.eu/registry/status/valid
+VS,en,elem_morf,VS,simple slope,simple slope,https://inspire.ec.europa.eu/registry/status/valid

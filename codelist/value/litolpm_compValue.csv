@@ -1,0 +1,83 @@
+localid,Language,collection,label,description ,definition,status
+A,it,litolpm_comp,A,argilloso,argilloso,https://inspire.ec.europa.eu/registry/status/valid
+ACC,it,litolpm_comp,ACC,argilloso ciottoloso,argilloso ciottoloso,https://inspire.ec.europa.eu/registry/status/valid
+AEC,it,litolpm_comp,AEC,argilloso estremamente ciottoloso,argilloso estremamente ciottoloso,https://inspire.ec.europa.eu/registry/status/valid
+AEG,it,litolpm_comp,AEG,argilloso estremamente ghiaioso,argilloso estremamente ghiaioso,https://inspire.ec.europa.eu/registry/status/valid
+AEP,it,litolpm_comp,AEP,argilloso estremamente pietroso,argilloso estremamente pietroso,https://inspire.ec.europa.eu/registry/status/valid
+AGG,it,litolpm_comp,AGG,argilloso ghiaioso,argilloso ghiaioso,https://inspire.ec.europa.eu/registry/status/valid
+AMC,it,litolpm_comp,AMC,argilloso molto ciottoloso,argilloso molto ciottoloso,https://inspire.ec.europa.eu/registry/status/valid
+AMG,it,litolpm_comp,AMG,argilloso molto ghiaioso,argilloso molto ghiaioso,https://inspire.ec.europa.eu/registry/status/valid
+AMP,it,litolpm_comp,AMP,argilloso molto pietroso,argilloso molto pietroso,https://inspire.ec.europa.eu/registry/status/valid
+APP,it,litolpm_comp,APP,argilloso pietroso,argilloso pietroso,https://inspire.ec.europa.eu/registry/status/valid
+FC,it,litolpm_comp,FC,frammentale ciottoloso,frammentale ciottoloso,https://inspire.ec.europa.eu/registry/status/valid
+FG,it,litolpm_comp,FG,frammentale ghiaioso,frammentale ghiaioso,https://inspire.ec.europa.eu/registry/status/valid
+FP,it,litolpm_comp,FP,frammentale pietroso,frammentale pietroso,https://inspire.ec.europa.eu/registry/status/valid
+M,it,litolpm_comp,M,limoso o franco,limoso o franco,https://inspire.ec.europa.eu/registry/status/valid
+MCC,it,litolpm_comp,MCC,"limoso o franco, ciottoloso","limoso o franco, ciottoloso",https://inspire.ec.europa.eu/registry/status/valid
+MEC,it,litolpm_comp,MEC,"limoso o franco, estremamente ciottoloso","limoso o franco, estremamente ciottoloso",https://inspire.ec.europa.eu/registry/status/valid
+MEG,it,litolpm_comp,MEG,"limoso o franco, estremamente ghiaioso","limoso o franco, estremamente ghiaioso",https://inspire.ec.europa.eu/registry/status/valid
+MEP,it,litolpm_comp,MEP,"limoso o franco, estremamente pietroso","limoso o franco, estremamente pietroso",https://inspire.ec.europa.eu/registry/status/valid
+MGG,it,litolpm_comp,MGG,"limoso o franco, ghiaioso","limoso o franco, ghiaioso",https://inspire.ec.europa.eu/registry/status/valid
+MMC,it,litolpm_comp,MMC,"limoso o franco, molto ciottoloso","limoso o franco, molto ciottoloso",https://inspire.ec.europa.eu/registry/status/valid
+MMG,it,litolpm_comp,MMG,"limoso o franco, molto ghiaioso","limoso o franco, molto ghiaioso",https://inspire.ec.europa.eu/registry/status/valid
+MMP,it,litolpm_comp,MMP,"limoso o franco, molto pietroso","limoso o franco, molto pietroso",https://inspire.ec.europa.eu/registry/status/valid
+MPP,it,litolpm_comp,MPP,"limoso o franco, pietroso","limoso o franco, pietroso",https://inspire.ec.europa.eu/registry/status/valid
+O,it,litolpm_comp,O,materiale organico,materiale organico,https://inspire.ec.europa.eu/registry/status/valid
+S,it,litolpm_comp,S,sabbioso,sabbioso,https://inspire.ec.europa.eu/registry/status/valid
+SCC,it,litolpm_comp,SCC,sabbioso ciottoloso,sabbioso ciottoloso,https://inspire.ec.europa.eu/registry/status/valid
+SEC,it,litolpm_comp,SEC,sabbioso estremamente ciottoloso,sabbioso estremamente ciottoloso,https://inspire.ec.europa.eu/registry/status/valid
+SEG,it,litolpm_comp,SEG,sabbioso estremamente ghiaioso,sabbioso estremamente ghiaioso,https://inspire.ec.europa.eu/registry/status/valid
+SEP,it,litolpm_comp,SEP,sabbioso estremamente pietroso,sabbioso estremamente pietroso,https://inspire.ec.europa.eu/registry/status/valid
+SGG,it,litolpm_comp,SGG,sabbioso ghiaioso,sabbioso ghiaioso,https://inspire.ec.europa.eu/registry/status/valid
+SMC,it,litolpm_comp,SMC,sabbioso molto ciottoloso,sabbioso molto ciottoloso,https://inspire.ec.europa.eu/registry/status/valid
+SMG,it,litolpm_comp,SMG,sabbioso molto ghiaioso,sabbioso molto ghiaioso,https://inspire.ec.europa.eu/registry/status/valid
+SMP,it,litolpm_comp,SMP,sabbioso molto pietroso,sabbioso molto pietroso,https://inspire.ec.europa.eu/registry/status/valid
+SPP,it,litolpm_comp,SPP,sabbioso pietroso,sabbioso pietroso,https://inspire.ec.europa.eu/registry/status/valid
+TB,it,litolpm_comp,TB,bombe,bombe,https://inspire.ec.europa.eu/registry/status/valid
+TC,it,litolpm_comp,TC,cenere,cenere,https://inspire.ec.europa.eu/registry/status/valid
+TCB,it,litolpm_comp,TCB,ceneri con bombe,ceneri con bombe,https://inspire.ec.europa.eu/registry/status/valid
+TCP,it,litolpm_comp,TCP,cenere con pomici,cenere con pomici,https://inspire.ec.europa.eu/registry/status/valid
+TCS,it,litolpm_comp,TCS,ceneri con scorie,ceneri con scorie,https://inspire.ec.europa.eu/registry/status/valid
+TP,it,litolpm_comp,TP,pomici,pomici,https://inspire.ec.europa.eu/registry/status/valid
+TS,it,litolpm_comp,TS,scorie,scorie,https://inspire.ec.europa.eu/registry/status/valid
+A,en,litolpm_comp,A,clay,clay,https://inspire.ec.europa.eu/registry/status/valid
+ACC,en,litolpm_comp,ACC,cobbly clay,cobbly clay,https://inspire.ec.europa.eu/registry/status/valid
+AEC,en,litolpm_comp,AEC,extremely cobbly clay,extremely cobbly clay,https://inspire.ec.europa.eu/registry/status/valid
+AEG,en,litolpm_comp,AEG,extremely gravelly clay,extremely gravelly clay,https://inspire.ec.europa.eu/registry/status/valid
+AEP,en,litolpm_comp,AEP,extremely stony clay,extremely stony clay,https://inspire.ec.europa.eu/registry/status/valid
+AGG,en,litolpm_comp,AGG,gravelly clay,gravelly clay,https://inspire.ec.europa.eu/registry/status/valid
+AMC,en,litolpm_comp,AMC,very cobbly clay,very cobbly clay,https://inspire.ec.europa.eu/registry/status/valid
+AMG,en,litolpm_comp,AMG,very gravelly clay,very gravelly clay,https://inspire.ec.europa.eu/registry/status/valid
+AMP,en,litolpm_comp,AMP,very stony clay,very stony clay,https://inspire.ec.europa.eu/registry/status/valid
+APP,en,litolpm_comp,APP,stony clay,stony clay,https://inspire.ec.europa.eu/registry/status/valid
+FC,en,litolpm_comp,FC,cobbly fragmentale,cobbly fragmentale,https://inspire.ec.europa.eu/registry/status/valid
+FG,en,litolpm_comp,FG,gravelly fragmentale,gravelly fragmentale,https://inspire.ec.europa.eu/registry/status/valid
+FP,en,litolpm_comp,FP,stony fragmentale,stony fragmentale,https://inspire.ec.europa.eu/registry/status/valid
+M,en,litolpm_comp,M,silty or loamy,silty or loamy,https://inspire.ec.europa.eu/registry/status/valid
+MCC,en,litolpm_comp,MCC,silty or loamy cobbly,silty or loamy cobbly,https://inspire.ec.europa.eu/registry/status/valid
+MEC,en,litolpm_comp,MEC,silty or loamy extremely cobbly,silty or loamy extremely cobbly,https://inspire.ec.europa.eu/registry/status/valid
+MEG,en,litolpm_comp,MEG,silty or loamy extremely gravelly,silty or loamy extremely gravelly,https://inspire.ec.europa.eu/registry/status/valid
+MEP,en,litolpm_comp,MEP,silty or loamy extremely stony,silty or loamy extremely stony,https://inspire.ec.europa.eu/registry/status/valid
+MGG,en,litolpm_comp,MGG,silty or loamy gravelly,silty or loamy gravelly,https://inspire.ec.europa.eu/registry/status/valid
+MMC,en,litolpm_comp,MMC,silty or loamy very cobbly,silty or loamy very cobbly,https://inspire.ec.europa.eu/registry/status/valid
+MMG,en,litolpm_comp,MMG,silty or loamy very gravelly,silty or loamy very gravelly,https://inspire.ec.europa.eu/registry/status/valid
+MMP,en,litolpm_comp,MMP,silty or loamy very stony,silty or loamy very stony,https://inspire.ec.europa.eu/registry/status/valid
+MPP,en,litolpm_comp,MPP,silty or loamy stony,silty or loamy stony,https://inspire.ec.europa.eu/registry/status/valid
+O,en,litolpm_comp,O,organic material,organic material,https://inspire.ec.europa.eu/registry/status/valid
+S,en,litolpm_comp,S,sandy,sandy,https://inspire.ec.europa.eu/registry/status/valid
+SCC,en,litolpm_comp,SCC,sandy cobbly,sandy cobbly,https://inspire.ec.europa.eu/registry/status/valid
+SEC,en,litolpm_comp,SEC,sandy estremely cobbly,sandy estremely cobbly,https://inspire.ec.europa.eu/registry/status/valid
+SEG,en,litolpm_comp,SEG,sandy estremely gravelly,sandy estremely gravelly,https://inspire.ec.europa.eu/registry/status/valid
+SEP,en,litolpm_comp,SEP,sandy estremely stony,sandy estremely stony,https://inspire.ec.europa.eu/registry/status/valid
+SGG,en,litolpm_comp,SGG,sandy gravelly,sandy gravelly,https://inspire.ec.europa.eu/registry/status/valid
+SMC,en,litolpm_comp,SMC,sandy very to cobbly,sandy very to cobbly,https://inspire.ec.europa.eu/registry/status/valid
+SMG,en,litolpm_comp,SMG,sandy very gravelly,sandy very gravelly,https://inspire.ec.europa.eu/registry/status/valid
+SMP,en,litolpm_comp,SMP,sandy very stony,sandy very stony,https://inspire.ec.europa.eu/registry/status/valid
+SPP,en,litolpm_comp,SPP,sandy stony,sandy stony,https://inspire.ec.europa.eu/registry/status/valid
+TB,en,litolpm_comp,TB,bombs,bombs,https://inspire.ec.europa.eu/registry/status/valid
+TC,en,litolpm_comp,TC,ash,ash,https://inspire.ec.europa.eu/registry/status/valid
+TCB,en,litolpm_comp,TCB,ash with bombs,ash with bombs,https://inspire.ec.europa.eu/registry/status/valid
+TCP,en,litolpm_comp,TCP,ash with pumices,ash with pumices,https://inspire.ec.europa.eu/registry/status/valid
+TCS,en,litolpm_comp,TCS,ash with scoriae,ash with scoriae,https://inspire.ec.europa.eu/registry/status/valid
+TP,en,litolpm_comp,TP,pumices,pumices,https://inspire.ec.europa.eu/registry/status/valid
+TS,en,litolpm_comp,TS,scoriae,scoriae,https://inspire.ec.europa.eu/registry/status/valid
