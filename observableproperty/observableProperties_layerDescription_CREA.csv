@@ -1,0 +1,113 @@
+﻿fid,uom,code,qudt_unit,label,procedure,glosis,definition
+279,codelist,,,"adesivita - Adesività",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.adesivita
+280,string,,,"annotazioni - Note",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.annotazioni
+281,codelist,,,"attivita_biologica_q - Quantità di attività biologica",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.attivita_biologica_q
+282,codelist,,,"attivita_biologica_t - Tipo di attività biologica",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.attivita_biologica_t
+283,codelist,,,"cod_orizz_funzion - Codice dell'orizzonte funzionale",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.cod_orizz_funzion
+284,codelist,,,"codice_orizzonte - Descrizione dell'orizzonte",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.codice_orizzonte
+285,codelist,,,"colore_chr_screziature_p - Colore (chroma) da processi ossido riduttivi (principali)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_chr_screziature_p
+286,codelist,,,"colore_chr_screziature_s - Colore (chroma) da processi ossido riduttivi (secondari)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_chr_screziature_s
+287,codelist,,,"colore_chroma - Colore principale della matrice (chroma)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_chroma
+288,codelist,,,"colore_chroma_s - Colore secondario della matrice (chroma)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_chroma_s
+289,codelist,,,"colore_detrm - Modalità di determinazione",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_detrm
+290,codelist,,,"colore_hue - Colore principale della matrice (hue)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_hue
+291,codelist,,,"colore_hue_s - Colore secondario della matrice (hue)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_hue_s
+292,codelist,,,"colore_hue_screziature_p - Colore (hue) da processi ossido riduttivi (principali)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_hue_screziature_p
+293,codelist,,,"colore_hue_screziature_s - Colore (hue) da processi ossido riduttivi (secondari)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_hue_screziature_s
+294,codelist,,,"colore_val_screziature_p - Colore (value) da processi ossido riduttivi (principali)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_val_screziature_p
+295,codelist,,,"colore_val_screziature_s - Colore (value) da processi ossido riduttivi (secondari)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_val_screziature_s
+296,codelist,,,"colore_value - Colore principale della matrice (value)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_value
+297,codelist,,,"colore_value_s - Colore secondario della matrice (value)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.colore_value_s
+298,codelist,,,"conc_p_comp - Composizione delle concentrazioni principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.conc_p_comp
+299,codelist,,,"conc_p_dimensioni - Dimensioni delle concentrazioni principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.conc_p_dimensioni
+300,%a,dm2/m2,,"conc_p_quantita - Abbondanza delle concentrazioni principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.conc_p_quantita
+301,codelist,,,"conc_s_comp - Composizione delle concentrazioni secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.conc_s_comp
+302,codelist,,,"conc_s_dimensioni - Dimensioni delle concentrazioni secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.conc_s_dimensioni
+303,%a,dm2/m2,,"conc_s_quantita - Abbondanza delle concentrazioni secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.conc_s_quantita
+304,codelist,,,"cons_cement - Grado di cementazione",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.cons_cement
+305,codelist,,,"cons_modalità - Modalità di rottura",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.cons_modalita
+306,codelist,,,"cons_resisten - Resistenza alla rottura",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.cons_resisten
+307,g/cm3,g/cm3,GM-PER-CentiM3,"dens_app_stima - Stima della densità apparente g/cm3",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.dens_app_stima
+308,%a,dm2/m2,,"schel_tot - scheletro totale %",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.schel_tot
+309,codelist,,,"scheletro_alterazione_p - Alterazione dello scheletro principale",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_alterazione_p
+310,codelist,,,"scheletro_alterazione_s - Alterazione dello scheletro secondario",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_alterazione_s
+311,codelist,,,"scheletro_alterazione_t - Alterazione dello scheletro ""altro""",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_alterazione_t
+312,mm,mm,MilliM,"scheletro_dimensioni_p - Dimensioni dello scheletro principale",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_dimensioni_p
+313,mm,mm,MilliM,"scheletro_dimensioni_s - Dimensioni dello scheletro secondario",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_dimensioni_s
+314,mm,mm,MilliM,"scheletro_dimensioni_t - Dimensioni dello scheletro ""altro""",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_dimensioni_t
+315,codelist,,,"scheletro_forma_p - Forma dello scheletro principale",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_forma_p
+316,codelist,,,"scheletro_forma_s - Forma dello scheletro secondario",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_forma_s
+317,codelist,,,"scheletro_forma_t - Forma dello scheletro ""altro""",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_forma_t
+318,codelist,,,"scheletro_litologia_p - Litotipo dello scheletro principale",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_litologia_p
+319,codelist,,,"scheletro_litologia_s - Litotipo dello scheletro secondario",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_litologia_s
+320,codelist,,,"scheletro_litologia_t - Litotipo dello scheletro ""altro""",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_litologia_t
+321,%a,dm2/m2,,"scheletro_quantita_p - Abbondanza relativa dello scheletro principale in decimi",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_quantita_p
+322,%a,dm2/m2,,"scheletro_quantita_s - Abbondanza relativa dello scheletro secondario in decimi",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_quantita_s
+323,%a,dm2/m2,,"scheletro_quantita_t - Abbondanza relativa dello scheletro ""altro"" in decimi",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.scheletro_quantita_t
+324,codelist,,,"effervescenza - Grado di effervescenza all'Hcl",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.effervescenza
+325,codelist,,,"evid_screziature_p - Evidenza dei processi ossidoriduttivi principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.evid_screziature_p
+326,codelist,,,"evid_screziature_s - Evidenza dei processi ossidoriduttivi secondari",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.evid_screziature_s
+327,%a,dm2/m2,,"facce_q - Facce di pressione e scorrimento (quantità)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.facce_q
+328,codelist,,,"facce_tipo - Facce di pressione e scorrimento (tipo)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.facce_tipo
+329,codelist,,,"fessure_dim - Dimensioni delle fessure",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.fessure_dim
+330,n/dm2,Count,COUNT,"fessure_q - Quantità delle fessure",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.fessure_q
+332,μm/s,μm/s,MicroM-PER-SEC,"id - contatore utile in fase di gestione dbms",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.ksat_stima
+333,codelist,,,"ksat_stima - Conducibilità idraulica satura stimata con metodo mcKeague (1982)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.layer
+334,codelist,,,"layer - Tipo di raggruppamento di orizzonti (vedi decodifica A, B, C, R)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.layer_s
+335,codelist,,,"layer_s - sottocategoria (a o b) di layer che identifica l'orizzonte più rappresentativo o diagnostico per la classificazione",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_andamento
+336,codelist,cm,CentiM,"limite_andamento - Andamento del limite degli orizzonti",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_inferiore
+338,codelist,cm,CentiM,"limite_inferiore - Limite inferiore minimo in cm.",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_inferiore_max
+339,codelist,cm,CentiM,"limite_inferiore_max - Limite inferiore massimo in cm.",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_inferiore_medio
+340,codelist,cm,CentiM,"limite_inferiore_medio - Limite inferiore medio in cm.",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_inferiore_min
+341,codelist,cm,CentiM,"limite_inferiore_min - Limite inferiore minimo in cm.",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_spess_max
+342,codelist,cm,CentiM,"limite_spess_max - Spessore dell'orizzonte massimo",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_spess_med
+343,codelist,cm,CentiM,"limite_spess_med - Spessore dell'orizzonte medio",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_spess_min
+344,codelist,,,"limite_spess_min - Spessore dell'orizzonte minimo",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.limite_tipo
+345,codelist,,,"limite_tipo - Tipo di limite tra gli orizzonti",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.local_efferv
+346,codelist,,,"local_efferv - Localizzazione dell'effervescenza all'Hcl",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.local_screziature_p
+347,codelist,,,"local_screziature_p - Localizzazione dei processi ossidoriduttivi principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.local_screziature_s
+348,mm,mm,MilliM,"local_screziature_s - Localizzazione dei processi ossidoriduttivi secondari",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.mm_screziature_p
+349,mm,mm,MilliM,"mm_screziature_p - Dimensione dei processi ossidoriduttivi principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.mm_screziature_s
+350,count,Count,COUNT,"mm_screziature_s - Dimensione dei processi ossidoriduttivi secondari",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.num_ori
+352,%a,dm2/m2,,"num_ori - Numero dell'orizzonte (progressivo all'interno del profilo)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.oriz_perc
+353,codelist,,,"numero orizzonte - Numero dell'orizzonte (progressivo all'interno del profilo)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.orizz_dia_usda
+354,codelist,,,"oriz_perc - percentuale dell'orizzonte principale in caso di orizzonti sovrapposti (es Bw/R)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.orizz_dia_wrb
+355,codelist,,,"orizz_dia_usda - Orizzonte diagnostico secondo USDA",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pellicole_p_local
+356,%a,dm2/m2,,"orizz_dia_wrb - Orizzonte diagnostico secondo WRB",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pellicole_p_quantita
+357,mm,mm,MilliM,"pellicole_p_local - Localizzazione delle pellicole principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pellicole_p_spess
+358,codelist,,,"pellicole_p_quantita - Abbondanza di pellicole principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pellicole_p_tipo
+359,codelist,,,"pellicole_p_spess - Spessore delle pellicole principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pellicole_s_local
+360,%a,dm2/m2,,"pellicole_p_tipo - Tipo di pellicole principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pellicole_s_quantita
+361,mm,mm,MilliM,"pellicole_s_local - Localizzazione delle pellicole secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pellicole_s_spess
+362,codelist,,,"pellicole_s_quantita - Abbondanza di pellicole secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pellicole_s_tipo
+363,%a,dm2/m2,,"pellicole_s_spess - Spessore delle pellicole secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.perc_screziature_p
+364,%a,dm2/m2,,"pellicole_s_tipo - Tipo di pellicole secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.perc_screziature_s
+365,codelist,,,"perc_screziature_p - Abbondanza dei processi ossidoriduttivi principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.permeabilit
+366,pH,[pH],PH,"perc_screziature_s - Abbondanza dei processi ossidoriduttivi secondari",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.ph
+367,pH,[pH],PH,"permeabilit - Conducibilità idraulica satura",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.ph_naf
+368,codelist,,,"ph - pH effettuato in campo",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.plasticita
+369,mm,mm,MilliM,"ph_naf - test positività presenza allophane ( pH in NAF effettuato in campo)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pori_dimensioni_p
+370,mm,mm,MilliM,"plasticita - Plasticità",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pori_dimensioni_s
+371,%a,dm2/m2,,"pori_dimensioni_p - Dimensione dei pori principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pori_perc_p
+372,%a,dm2/m2,,"pori_dimensioni_s - Dimensione dei pori secondari",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.pori_perc_s
+373,codelist,,,"pori_perc_p - Abbondanza dei pori principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.radici_andamento_p
+374,codelist,,,"pori_perc_s - Abbondanza dei pori secondari",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.radici_andamento_s
+375,mm,mm,MilliM,"radici_andamento_p - Andamento delle radici principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.radici_dimensioni_p
+376,mm,mm,MilliM,"radici_andamento_s - Dimensione delle radici secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.radici_dimensioni_s
+377,n/100cmq,Count,COUNT,"radici_dimensioni_p - Dimensione delle radici principali",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.radici_quantita_p
+378,n/100cmq,Count,COUNT,"radici_dimensioni_s - Dimensione delle radici secondarie",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.radici_quantita_s
+379,codelist,,,"radici_quantita_p - Quantità delle radici principali ( n /100 cmq )",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.rel_strutture
+380,codelist,,,"radici_quantita_s - Quantità delle radici secondarie ( n /100 cmq )",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.stab_aggreg_stimata
+381,codelist,,,"rel_strutture - Relazione tra struttura primaria e secondaria",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.struttura_dim_p
+382,codelist,,,"stab_aggreg_stimata - stima della stabilità degli aggregati",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.struttura_dim_s
+383,codelist,,,"struttura_dim_p - Dimensioni della struttura primaria",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.struttura_forma_p
+384,codelist,,,"struttura_dim_s - Dimensioni della struttura secondaria",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.struttura_forma_s
+385,codelist,,,"struttura_forma_p - Forma della struttura primaria",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.struttura_grado_p
+386,codelist,,,"struttura_forma_s - Forma della struttura secondaria",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.struttura_grado_s
+387,%,dag/kg,,"struttura_grado_p - Grado di aggregazione della struttura primaria",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.tess_argilla
+388,codelist,,,"struttura_grado_s - Grado di aggregazione della struttura secondaria",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.tess_classe_granulometrica
+389,codelist,,,"tess_argilla - % argilla fine stimata dal rilevatore sul volume totale della terra fine_ISSDS",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.tess_classe_stima
+390,%,dag/kg,,"tess_classe_granulometrica - classe granulometrica stimata direttamente dal rilevatore (particle-size class, ST1996)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.tess_sabbia_mf
+391,%,dag/kg,,"tess_classe_stima - classe tessiturale stimata direttamente dal rilevatore (textural class, SSM1993)",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.tess_sabbia_totale
+392,%,dag/kg,,"tess_sabbia_mf - % sabbia molto fine stimata dal rilevatore sul volume totale della terra fine_ISSDS",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.tess_scheletro_75
+393,codelist,,,"tess_sabbia_totale - % sabbia totale stimata dal rilevatore sul volume totale della terra fine_ISSDS",https://zenodo.org/records/7589089,,https://zenodo.org/records/7589089#orizzonti.umidita
