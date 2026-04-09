@@ -1,7 +1,0 @@
-localid,Language,collection,label,description ,definition,status
-0100,it,fessur_q,0100,scarse ,scarse ,https://inspire.ec.europa.eu/registry/status/valid
-0250,it,fessur_q,0250,comuni 10-25 (n/dmq),comuni 10-25 (n/dmq),https://inspire.ec.europa.eu/registry/status/valid
-9999,it,fessur_q,9999,abbondanti >25 (n/dmq),abbondanti >25 (n/dmq),https://inspire.ec.europa.eu/registry/status/valid
-0100,en,fessur_q,0100,scarce ,scarce ,https://inspire.ec.europa.eu/registry/status/valid
-0250,en,fessur_q,0250,common 10-25 (n/dmq),common 10-25 (n/dmq),https://inspire.ec.europa.eu/registry/status/valid
-9999,en,fessur_q,9999,abundant >25 (n/dmq),abundant >25 (n/dmq),https://inspire.ec.europa.eu/registry/status/valid

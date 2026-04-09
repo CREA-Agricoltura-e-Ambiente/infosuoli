@@ -1,0 +1,15 @@
+localid,Language,collection,label,description ,definition,status
+1,it,dren_int,1,eccessivamente drenato,eccessivamente drenato,https://inspire.ec.europa.eu/registry/status/valid
+2,it,dren_int,2,piuttosto ecc. drenato,piuttosto ecc. drenato,https://inspire.ec.europa.eu/registry/status/valid
+3,it,dren_int,3,ben drenato,ben drenato,https://inspire.ec.europa.eu/registry/status/valid
+4,it,dren_int,4,mod. ben drenato,mod. ben drenato,https://inspire.ec.europa.eu/registry/status/valid
+5,it,dren_int,5,piuttosto mal drenato,piuttosto mal drenato,https://inspire.ec.europa.eu/registry/status/valid
+6,it,dren_int,6,mal drenato,mal drenato,https://inspire.ec.europa.eu/registry/status/valid
+7,it,dren_int,7,molto mal drenato,molto mal drenato,https://inspire.ec.europa.eu/registry/status/valid
+1,en,dren_int,1,excessively drained,excessively drained,https://inspire.ec.europa.eu/registry/status/valid
+2,en,dren_int,2,somewhat excessively drained,somewhat excessively drained,https://inspire.ec.europa.eu/registry/status/valid
+3,en,dren_int,3,well drained,well drained,https://inspire.ec.europa.eu/registry/status/valid
+4,en,dren_int,4,moderately well drained,moderately well drained,https://inspire.ec.europa.eu/registry/status/valid
+5,en,dren_int,5,somewhat poorly drained,somewhat poorly drained,https://inspire.ec.europa.eu/registry/status/valid
+6,en,dren_int,6,poorly drained,poorly drained,https://inspire.ec.europa.eu/registry/status/valid
+7,en,dren_int,7,very poorly drained,very poorly drained,https://inspire.ec.europa.eu/registry/status/valid

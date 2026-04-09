@@ -1,9 +1,0 @@
-localid,Language,collection,label,description ,definition,status
-41,it,cons_plast,41,non plastico,non plastico,https://inspire.ec.europa.eu/registry/status/valid
-42,it,cons_plast,42,debolmente plastico,debolmente plastico,https://inspire.ec.europa.eu/registry/status/valid
-43,it,cons_plast,43,plastico,plastico,https://inspire.ec.europa.eu/registry/status/valid
-44,it,cons_plast,44,molto plastico,molto plastico,https://inspire.ec.europa.eu/registry/status/valid
-41,en,cons_plast,41,not plastic,not plastic,https://inspire.ec.europa.eu/registry/status/valid
-42,en,cons_plast,42,weakly plastic,weakly plastic,https://inspire.ec.europa.eu/registry/status/valid
-43,en,cons_plast,43,plastic,plastic,https://inspire.ec.europa.eu/registry/status/valid
-44,en,cons_plast,44,very plastic,very plastic,https://inspire.ec.europa.eu/registry/status/valid

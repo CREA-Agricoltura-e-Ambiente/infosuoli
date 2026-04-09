@@ -1,9 +1,0 @@
-localid,Language,collection,label,description ,definition,status
-M,it,falda_alim,M,mista,mista,https://inspire.ec.europa.eu/registry/status/valid
-P,it,falda_alim,P,profonda,profonda,https://inspire.ec.europa.eu/registry/status/valid
-S,it,falda_alim,S,superficiale,superficiale,https://inspire.ec.europa.eu/registry/status/valid
-W,it,falda_alim,W,"non rilevante, non pertinente","non rilevante, non pertinente",https://inspire.ec.europa.eu/registry/status/valid
-M,en,falda_alim,M,mixed,mixed,https://inspire.ec.europa.eu/registry/status/valid
-P,en,falda_alim,P,deep,deep,https://inspire.ec.europa.eu/registry/status/valid
-S,en,falda_alim,S,superficial,superficial,https://inspire.ec.europa.eu/registry/status/valid
-W,en,falda_alim,W,not rilevant,not rilevant,https://inspire.ec.europa.eu/registry/status/valid

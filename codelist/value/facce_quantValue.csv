@@ -1,0 +1,9 @@
+localid,Language,collection,label,description ,definition,status
+0005,it,facce_quant,0005,scarse (<10%),scarse (<10%),https://inspire.ec.europa.eu/registry/status/valid
+0100,it,facce_quant,0100,scarse (<10%),scarse (<10%),https://inspire.ec.europa.eu/registry/status/valid
+0500,it,facce_quant,0500,comuni (11-50%),comuni (11-50%),https://inspire.ec.europa.eu/registry/status/valid
+1000,it,facce_quant,1000,abbondanti (>50%),abbondanti (>50%),https://inspire.ec.europa.eu/registry/status/valid
+0005,en,facce_quant,0005,scarse (<10%),scarse (<10%),https://inspire.ec.europa.eu/registry/status/valid
+0100,en,facce_quant,0100,few(<10%),few(<10%),https://inspire.ec.europa.eu/registry/status/valid
+0500,en,facce_quant,0500,common (11-50%),common (11-50%),https://inspire.ec.europa.eu/registry/status/valid
+1000,en,facce_quant,1000,many (>50%),many (>50%),https://inspire.ec.europa.eu/registry/status/valid

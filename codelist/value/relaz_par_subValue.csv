@@ -1,0 +1,7 @@
+localid,Language,collection,label,description ,definition,status
+1,it,relaz_par_sub,1,assente,assente,https://inspire.ec.europa.eu/registry/status/valid
+2,it,relaz_par_sub,2,imperfetto,imperfetto,https://inspire.ec.europa.eu/registry/status/valid
+3,it,relaz_par_sub,3,stretto,stretto,https://inspire.ec.europa.eu/registry/status/valid
+1,en,relaz_par_sub,1,absent,absent,https://inspire.ec.europa.eu/registry/status/valid
+2,en,relaz_par_sub,2,imperfect,imperfect,https://inspire.ec.europa.eu/registry/status/valid
+3,en,relaz_par_sub,3,strict,strict,https://inspire.ec.europa.eu/registry/status/valid

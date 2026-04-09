@@ -1,7 +1,0 @@
-localid,Language,collection,label,description ,definition,status
-1,it,pell_spess,1,sottili (,sottili (,https://inspire.ec.europa.eu/registry/status/valid
-2,it,pell_spess,2,"medie (0,2-0,5 mm)","medie (0,2-0,5 mm)",https://inspire.ec.europa.eu/registry/status/valid
-3,it,pell_spess,3,"spesse (>0,5 mm)","spesse (>0,5 mm)",https://inspire.ec.europa.eu/registry/status/valid
-1,en,pell_spess,1,thin ,thin ,https://inspire.ec.europa.eu/registry/status/valid
-2,en,pell_spess,2,medium 0.2-0.5 mm,medium 0.2-0.5 mm,https://inspire.ec.europa.eu/registry/status/valid
-3,en,pell_spess,3,thick >0.5 mm,thick >0.5 mm,https://inspire.ec.europa.eu/registry/status/valid

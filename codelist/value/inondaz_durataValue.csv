@@ -1,0 +1,13 @@
+localid,Language,collection,label,description ,definition,status
+1,it,inondaz_durata,1,estremamente breve (,estremamente breve (,https://inspire.ec.europa.eu/registry/status/valid
+2,it,inondaz_durata,2,molto breve (4-48 h),molto breve (4-48 h),https://inspire.ec.europa.eu/registry/status/valid
+3,it,inondaz_durata,3,breve (2-7 g),breve (2-7 g),https://inspire.ec.europa.eu/registry/status/valid
+4,it,inondaz_durata,4,lunga (7-30 g),lunga (7-30 g),https://inspire.ec.europa.eu/registry/status/valid
+5,it,inondaz_durata,5,molto lunga (> 30 g),molto lunga (> 30 g),https://inspire.ec.europa.eu/registry/status/valid
+6,it,inondaz_durata,6,non determinata,non determinata,https://inspire.ec.europa.eu/registry/status/valid
+1,en,inondaz_durata,1,extremely brief (,extremely brief (,https://inspire.ec.europa.eu/registry/status/valid
+2,en,inondaz_durata,2,very brief (4-48 h),very brief (4-48 h),https://inspire.ec.europa.eu/registry/status/valid
+3,en,inondaz_durata,3,brief (2-7 g),brief (2-7 g),https://inspire.ec.europa.eu/registry/status/valid
+4,en,inondaz_durata,4,long (7-30 g),long (7-30 g),https://inspire.ec.europa.eu/registry/status/valid
+5,en,inondaz_durata,5,very long (> 30 g),very long (> 30 g),https://inspire.ec.europa.eu/registry/status/valid
+6,en,inondaz_durata,6,undefined,undefined,https://inspire.ec.europa.eu/registry/status/valid

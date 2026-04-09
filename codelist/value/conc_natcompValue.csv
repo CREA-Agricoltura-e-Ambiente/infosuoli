@@ -1,0 +1,77 @@
+localid,Language,collection,label,description ,definition,status
+1,it,conc_natcomp,1,cristalli di comp. non identificata,cristalli di comp. non identificata,https://inspire.ec.europa.eu/registry/status/valid
+11,it,conc_natcomp,11,cristalli di carbonato di calcio,cristalli di carbonato di calcio,https://inspire.ec.europa.eu/registry/status/valid
+12,it,conc_natcomp,12,noduli di carbonato di calcio,noduli di carbonato di calcio,https://inspire.ec.europa.eu/registry/status/valid
+13,it,conc_natcomp,13,concrezioni di carbonato di calcio,concrezioni di carbonato di calcio,https://inspire.ec.europa.eu/registry/status/valid
+14,it,conc_natcomp,14,concentrazioni soffici di carbonato di calcio,concentrazioni soffici di carbonato di calcio,https://inspire.ec.europa.eu/registry/status/valid
+15,it,conc_natcomp,15,pendenti di carbonato di calcio,pendenti di carbonato di calcio,https://inspire.ec.europa.eu/registry/status/valid
+16,it,conc_natcomp,16,croste di carbonato di calcio,croste di carbonato di calcio,https://inspire.ec.europa.eu/registry/status/valid
+17,it,conc_natcomp,17,geodi di carbonato di calcio,geodi di carbonato di calcio,https://inspire.ec.europa.eu/registry/status/valid
+2,it,conc_natcomp,2,noduli di composizione non identificata,noduli di composizione non identificata,https://inspire.ec.europa.eu/registry/status/valid
+21,it,conc_natcomp,21,cristalli gessosi,cristalli gessosi,https://inspire.ec.europa.eu/registry/status/valid
+22,it,conc_natcomp,22,noduli gessosi,noduli gessosi,https://inspire.ec.europa.eu/registry/status/valid
+23,it,conc_natcomp,23,concrezioni gessose,concrezioni gessose,https://inspire.ec.europa.eu/registry/status/valid
+24,it,conc_natcomp,24,concentrazioni soffici gessose,concentrazioni soffici gessose,https://inspire.ec.europa.eu/registry/status/valid
+3,it,conc_natcomp,3,concrezioni di composizione non identificata,concrezioni di composizione non identificata,https://inspire.ec.europa.eu/registry/status/valid
+32,it,conc_natcomp,32,noduli ferrosi,noduli ferrosi,https://inspire.ec.europa.eu/registry/status/valid
+33,it,conc_natcomp,33,concrezioni ferrose,concrezioni ferrose,https://inspire.ec.europa.eu/registry/status/valid
+34,it,conc_natcomp,34,concentrazioni soffici ferrose,concentrazioni soffici ferrose,https://inspire.ec.europa.eu/registry/status/valid
+36,it,conc_natcomp,36,croste ferrose,croste ferrose,https://inspire.ec.europa.eu/registry/status/valid
+37,it,conc_natcomp,37,geoidi ferrosi,geoidi ferrosi,https://inspire.ec.europa.eu/registry/status/valid
+4,it,conc_natcomp,4,concentrazioni soffici di composizione non identificata,concentrazioni soffici di composizione non identificata,https://inspire.ec.europa.eu/registry/status/valid
+42,it,conc_natcomp,42,noduli ferro-manganesiferi,noduli ferro-manganesiferi,https://inspire.ec.europa.eu/registry/status/valid
+43,it,conc_natcomp,43,concrezioni ferro-manganesifere,concrezioni ferro-manganesifere,https://inspire.ec.europa.eu/registry/status/valid
+44,it,conc_natcomp,44,concentrazioni soffici ferro-manganesifere,concentrazioni soffici ferro-manganesifere,https://inspire.ec.europa.eu/registry/status/valid
+46,it,conc_natcomp,46,croste ferro-manganesifere,croste ferro-manganesifere,https://inspire.ec.europa.eu/registry/status/valid
+5,it,conc_natcomp,5,pendenti di composizione non identificata,pendenti di composizione non identificata,https://inspire.ec.europa.eu/registry/status/valid
+51,it,conc_natcomp,51,cristalli di cloruro di sodio,cristalli di cloruro di sodio,https://inspire.ec.europa.eu/registry/status/valid
+52,it,conc_natcomp,52,noduli di cloruro di sodio,noduli di cloruro di sodio,https://inspire.ec.europa.eu/registry/status/valid
+53,it,conc_natcomp,53,concrezioni di cloruro di sodio,concrezioni di cloruro di sodio,https://inspire.ec.europa.eu/registry/status/valid
+54,it,conc_natcomp,54,concentrazioni soffici di cloruro di sodio,concentrazioni soffici di cloruro di sodio,https://inspire.ec.europa.eu/registry/status/valid
+6,it,conc_natcomp,6,croste di comp. non identificata,croste di comp. non identificata,https://inspire.ec.europa.eu/registry/status/valid
+62,it,conc_natcomp,62,noduli di altri ossidi e idrossidi,noduli di altri ossidi e idrossidi,https://inspire.ec.europa.eu/registry/status/valid
+63,it,conc_natcomp,63,concrezioni di altri ossidi e idrossidi,concrezioni di altri ossidi e idrossidi,https://inspire.ec.europa.eu/registry/status/valid
+64,it,conc_natcomp,64,concentrazioni soffici di altri ossidi e idrossidi,concentrazioni soffici di altri ossidi e idrossidi,https://inspire.ec.europa.eu/registry/status/valid
+66,it,conc_natcomp,66,croste di altri ossidi e idrossidi,croste di altri ossidi e idrossidi,https://inspire.ec.europa.eu/registry/status/valid
+74,it,conc_natcomp,74,concentrazioni soffici di sostanza organica ferro e alluminio,concentrazioni soffici di sostanza organica ferro e alluminio,https://inspire.ec.europa.eu/registry/status/valid
+82,it,conc_natcomp,82,noduli di silice,noduli di silice,https://inspire.ec.europa.eu/registry/status/valid
+83,it,conc_natcomp,83,concrezioni di silice,concrezioni di silice,https://inspire.ec.europa.eu/registry/status/valid
+87,it,conc_natcomp,87,geoidi silicei,geoidi silicei,https://inspire.ec.europa.eu/registry/status/valid
+1,en,conc_natcomp,1,crystals of undefined composition,crystals of undefined composition,https://inspire.ec.europa.eu/registry/status/valid
+11,en,conc_natcomp,11,crystals of calcium carbonate,crystals of calcium carbonate,https://inspire.ec.europa.eu/registry/status/valid
+12,en,conc_natcomp,12,nodules of calcium carbonate,nodules of calcium carbonate,https://inspire.ec.europa.eu/registry/status/valid
+13,en,conc_natcomp,13,concretions of calcium carbonate,concretions of calcium carbonate,https://inspire.ec.europa.eu/registry/status/valid
+14,en,conc_natcomp,14,masses of calcium carbonate,masses of calcium carbonate,https://inspire.ec.europa.eu/registry/status/valid
+15,en,conc_natcomp,15,pendents of calcium carbonate,pendents of calcium carbonate,https://inspire.ec.europa.eu/registry/status/valid
+16,en,conc_natcomp,16,crusts of calcium carbonate,crusts of calcium carbonate,https://inspire.ec.europa.eu/registry/status/valid
+17,en,conc_natcomp,17,geodes of calcium carbonate,geodes of calcium carbonate,https://inspire.ec.europa.eu/registry/status/valid
+2,en,conc_natcomp,2,nodules of undefined composition,nodules of undefined composition,https://inspire.ec.europa.eu/registry/status/valid
+21,en,conc_natcomp,21,crystals of gypsum,crystals of gypsum,https://inspire.ec.europa.eu/registry/status/valid
+22,en,conc_natcomp,22,nodules of gypsum,nodules of gypsum,https://inspire.ec.europa.eu/registry/status/valid
+23,en,conc_natcomp,23,concretions of gypsum,concretions of gypsum,https://inspire.ec.europa.eu/registry/status/valid
+24,en,conc_natcomp,24,masses of gypsum,masses of gypsum,https://inspire.ec.europa.eu/registry/status/valid
+3,en,conc_natcomp,3,concretions of undefined composition,concretions of undefined composition,https://inspire.ec.europa.eu/registry/status/valid
+32,en,conc_natcomp,32,nodules of Fe,nodules of Fe,https://inspire.ec.europa.eu/registry/status/valid
+33,en,conc_natcomp,33,concretions of Fe,concretions of Fe,https://inspire.ec.europa.eu/registry/status/valid
+34,en,conc_natcomp,34,masses of Fe,masses of Fe,https://inspire.ec.europa.eu/registry/status/valid
+36,en,conc_natcomp,36,crusts of Fe,crusts of Fe,https://inspire.ec.europa.eu/registry/status/valid
+37,en,conc_natcomp,37,geodes of Fe,geodes of Fe,https://inspire.ec.europa.eu/registry/status/valid
+4,en,conc_natcomp,4,masses of undefined composition,masses of undefined composition,https://inspire.ec.europa.eu/registry/status/valid
+42,en,conc_natcomp,42,nodules of Fe-Mn,nodules of Fe-Mn,https://inspire.ec.europa.eu/registry/status/valid
+43,en,conc_natcomp,43,concretions of Fe-Mn,concretions of Fe-Mn,https://inspire.ec.europa.eu/registry/status/valid
+44,en,conc_natcomp,44,masses of Fe-Mn,masses of Fe-Mn,https://inspire.ec.europa.eu/registry/status/valid
+46,en,conc_natcomp,46,crusts of Fe-Mn,crusts of Fe-Mn,https://inspire.ec.europa.eu/registry/status/valid
+5,en,conc_natcomp,5,"pendents, undefined composition","pendents, undefined composition",https://inspire.ec.europa.eu/registry/status/valid
+51,en,conc_natcomp,51,crystals of NaCl,crystals of NaCl,https://inspire.ec.europa.eu/registry/status/valid
+52,en,conc_natcomp,52,nodules of NaCl,nodules of NaCl,https://inspire.ec.europa.eu/registry/status/valid
+53,en,conc_natcomp,53,concretions of NaCl,concretions of NaCl,https://inspire.ec.europa.eu/registry/status/valid
+54,en,conc_natcomp,54,masses of NaCl,masses of NaCl,https://inspire.ec.europa.eu/registry/status/valid
+6,en,conc_natcomp,6,crusts of undefined composition,crusts of undefined composition,https://inspire.ec.europa.eu/registry/status/valid
+62,en,conc_natcomp,62,nodules of other oxide-hydroxide,nodules of other oxide-hydroxide,https://inspire.ec.europa.eu/registry/status/valid
+63,en,conc_natcomp,63,concretions of other oxide-hydroxide,concretions of other oxide-hydroxide,https://inspire.ec.europa.eu/registry/status/valid
+64,en,conc_natcomp,64,masses of other oxide-hydroxide,masses of other oxide-hydroxide,https://inspire.ec.europa.eu/registry/status/valid
+66,en,conc_natcomp,66,crusts of other oxide-hydroxide,crusts of other oxide-hydroxide,https://inspire.ec.europa.eu/registry/status/valid
+74,en,conc_natcomp,74,masses of organic matter Fe and Al,masses of organic matter Fe and Al,https://inspire.ec.europa.eu/registry/status/valid
+82,en,conc_natcomp,82,nodules of silica,nodules of silica,https://inspire.ec.europa.eu/registry/status/valid
+83,en,conc_natcomp,83,concretions of silica,concretions of silica,https://inspire.ec.europa.eu/registry/status/valid
+87,en,conc_natcomp,87,geodes of silica,geodes of silica,https://inspire.ec.europa.eu/registry/status/valid

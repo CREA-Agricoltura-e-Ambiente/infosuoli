@@ -1,7 +1,0 @@
-localid,Language,collection,label,description ,definition,status
-1,it,facce_tipo,1,facce di pressione,facce di pressione,https://inspire.ec.europa.eu/registry/status/valid
-2,it,facce_tipo,2,facce di pressione e scorrimento (slickensides),facce di pressione e scorrimento (slickensides),https://inspire.ec.europa.eu/registry/status/valid
-3,it,facce_tipo,3,Facce di pressione e scorrimento (slickensides) angolate abbastanza da individuare piani intersecatisi,Facce di pressione e scorrimento (slickensides) angolate abbastanza da individuare piani intersecatisi,https://inspire.ec.europa.eu/registry/status/valid
-1,en,facce_tipo,1,pressure faces,pressure faces,https://inspire.ec.europa.eu/registry/status/valid
-2,en,facce_tipo,2,pressure faces and slickensides,pressure faces and slickensides,https://inspire.ec.europa.eu/registry/status/valid
-3,en,facce_tipo,3,slickensides indentifying intersecting planes,slickensides indentifying intersecting planes,https://inspire.ec.europa.eu/registry/status/valid

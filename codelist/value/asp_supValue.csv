@@ -1,0 +1,23 @@
+localid,Language,collection,label,description ,definition,status
+AL,en,asp_sup,AL,others,others,https://inspire.ec.europa.eu/registry/status/valid
+AS,en,asp_sup,AS,mounds from burrowing animals,mounds from burrowing animals,https://inspire.ec.europa.eu/registry/status/valid
+CD,en,asp_sup,CD,sedimentary crusts,sedimentary crusts,https://inspire.ec.europa.eu/registry/status/valid
+CS,en,asp_sup,CS,structural crusts,structural crusts,https://inspire.ec.europa.eu/registry/status/valid
+ES,en,asp_sup,ES,saline efflorescence,saline efflorescence,https://inspire.ec.europa.eu/registry/status/valid
+GI,en,asp_sup,GI,gilgai (microreliefs from expansive clays),gilgai (microreliefs from expansive clays),https://inspire.ec.europa.eu/registry/status/valid
+GL,en,asp_sup,GL,soil-snow interface burrows,soil-snow interface burrows,https://inspire.ec.europa.eu/registry/status/valid
+RI,en,asp_sup,RI,mammal burrowing,mammal burrowing,https://inspire.ec.europa.eu/registry/status/valid
+SM,en,asp_sup,SM,self-mulching,self-mulching,https://inspire.ec.europa.eu/registry/status/valid
+TL,en,asp_sup,TL,worm casts,worm casts,https://inspire.ec.europa.eu/registry/status/valid
+US,en,asp_sup,US,dispersed organo-sodic complex,dispersed organo-sodic complex,https://inspire.ec.europa.eu/registry/status/valid
+AL,it,asp_sup,AL,altro,altro,https://inspire.ec.europa.eu/registry/status/valid
+AS,it,asp_sup,AS,cumuli da animali scavatori,cumuli da animali scavatori,https://inspire.ec.europa.eu/registry/status/valid
+CD,it,asp_sup,CD,croste sedimentarie,croste sedimentarie,https://inspire.ec.europa.eu/registry/status/valid
+CS,it,asp_sup,CS,croste strutturali,croste strutturali,https://inspire.ec.europa.eu/registry/status/valid
+ES,it,asp_sup,ES,efflorescenze saline,efflorescenze saline,https://inspire.ec.europa.eu/registry/status/valid
+GI,it,asp_sup,GI,gilgai (microrilievi da argille espandibili),gilgai (microrilievi da argille espandibili),https://inspire.ec.europa.eu/registry/status/valid
+GL,it,asp_sup,GL,gallerie interfaccia suolo-neve,gallerie interfaccia suolo-neve,https://inspire.ec.europa.eu/registry/status/valid
+RI,it,asp_sup,RI,rimescolamento da mammiferi,rimescolamento da mammiferi,https://inspire.ec.europa.eu/registry/status/valid
+SM,it,asp_sup,SM,self-mulching,self-mulching,https://inspire.ec.europa.eu/registry/status/valid
+TL,it,asp_sup,TL,turricole da lombrichi,turricole da lombrichi,https://inspire.ec.europa.eu/registry/status/valid
+US,it,asp_sup,US,complesso organo-sodici dispersi,complesso organo-sodici dispersi,https://inspire.ec.europa.eu/registry/status/valid

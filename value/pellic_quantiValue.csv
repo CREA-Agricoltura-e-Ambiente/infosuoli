@@ -1,9 +1,0 @@
-localid,Language,collection,label,description ,definition,status
-0099,it,pellic_quanti,0099,scarse (<10%),scarse (<10%),https://inspire.ec.europa.eu/registry/status/valid
-0100,it,pellic_quanti,0100,comuni (10-50%),comuni (10-50%),https://inspire.ec.europa.eu/registry/status/valid
-0500,it,pellic_quanti,0500,comuni (10-50%),comuni (10-50%),https://inspire.ec.europa.eu/registry/status/valid
-1000,it,pellic_quanti,1000,abbondanti (>50%),abbondanti (>50%),https://inspire.ec.europa.eu/registry/status/valid
-0099,en,pellic_quanti,0099,scarce (<10%),scarce (<10%),https://inspire.ec.europa.eu/registry/status/valid
-0100,en,pellic_quanti,0100,scarce (<10%),scarce (<10%),https://inspire.ec.europa.eu/registry/status/valid
-0500,en,pellic_quanti,0500,common (11-50%),common (11-50%),https://inspire.ec.europa.eu/registry/status/valid
-1000,en,pellic_quanti,1000,abundant (>50%),abundant (>50%),https://inspire.ec.europa.eu/registry/status/valid

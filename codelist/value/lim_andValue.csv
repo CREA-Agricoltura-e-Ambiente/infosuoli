@@ -1,0 +1,11 @@
+localid,Language,collection,label,description ,definition,status
+1,it,lim_and,1,lineare,lineare,https://inspire.ec.europa.eu/registry/status/valid
+2,it,lim_and,2,ondulato,ondulato,https://inspire.ec.europa.eu/registry/status/valid
+3,it,lim_and,3,irregolare,irregolare,https://inspire.ec.europa.eu/registry/status/valid
+4,it,lim_and,4,discontinuo,discontinuo,https://inspire.ec.europa.eu/registry/status/valid
+5,it,lim_and,5,a glosse,a glosse,https://inspire.ec.europa.eu/registry/status/valid
+1,en,lim_and,1,smooth,smooth,https://inspire.ec.europa.eu/registry/status/valid
+2,en,lim_and,2,wavy,wavy,https://inspire.ec.europa.eu/registry/status/valid
+3,en,lim_and,3,irregular,irregular,https://inspire.ec.europa.eu/registry/status/valid
+4,en,lim_and,4,broken,broken,https://inspire.ec.europa.eu/registry/status/valid
+5,en,lim_and,5,tonguing,tonguing,https://inspire.ec.europa.eu/registry/status/valid
