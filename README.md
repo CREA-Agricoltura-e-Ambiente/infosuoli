@@ -57,7 +57,8 @@ en Deposition Erosion and Deposition. Deposition Type Coding 4.3.1 Erosion and D
 it Drenaggio esterno Scorrimento superficiale (RUN OFF) 4.5.3 Scorrimento superficiale (runoff) - Tabella 4.90, p. 224 https://lod.nal.usda.gov/nalt/5471 
 en Runoff Surface Runoff 4.5.3 Surface Runoff - Table 4.90, p. 224 
 # dren_int 
-it Drenaggio interno Drenaggio interno 4.5.8 Drenaggio interno - Tabella 4.97, p. 228 " https://lod.nal.usda.gov/nalt/52082" en Infiltration Infiltration rate - class 4.5.8 Internal Drainage - Table 4.97, p. 228 # effervescenza 
+it Drenaggio interno Drenaggio interno 4.5.8 Drenaggio interno - Tabella 4.97, p. 228 " https://lod.nal.usda.gov/nalt/52082" en Infiltration Infiltration rate - class 4.5.8 Internal Drainage - Table 4.97, p. 228 
+# effervescenza 
 it Effervescenza, grado Grado di effervescenza all'acido cloridriclo 4.4.18 Effervescenza all’HCl, Grado - Tabella 4.80, p. 217 http://w3id.org/glosis/model/codelists/CarbonatesContentValueCode 
 en Effervescence, Degree Degree of Effervescence with Hydrochloric Acid 4.4.18 Effervescence with HCl, Degree - Table 4.80, p. 217 
 # elem_morf 
@@ -142,7 +143,10 @@ it Pellicole, tipo Tipo di pellicole 4.4.14 Pellicole, Tipo - Tabella 4.69, p. 2
 en Coatings Nature Coatings - classification of their nature 4.4.14 Films, Type - Table 4.69, p. 212 
 # pellic_quanti 
 it Pellicole, abbondanza Abbondanza di pellicole 4.4.14 Pellicole, Abbondanza - Tabella 4.70, p. 212 http://w3id.org/glosis/model/codelists/CoatingAbundanceValueCode 
-en Coatings Abundance Coatings Abundance 4.4.14 Films, Abundance - Table 4.70, p. 212 permeab it Permeabilità Conducibilità idraulica satura (Ksat) 4.4.11 Permeabilità - Tabella 4.61, p. 207 https://lod.nal.usda.gov/nalt/52082 en Hydraulic conductivity Hydraulic conductivity -saturated 4.4.11 Permeability - Table 4.61, p. 207 
+en Coatings Abundance Coatings Abundance 4.4.14 Films, Abundance - Table 4.70, p. 212 
+# permeab 
+it Permeabilità Conducibilità idraulica satura (Ksat) 4.4.11 Permeabilità - Tabella 4.61, p. 207 https://lod.nal.usda.gov/nalt/52082 
+en Hydraulic conductivity Hydraulic conductivity -saturated 4.4.11 Permeability - Table 4.61, p. 207 
 # pori_dimens 
 it Pori, dimensioni Pori, dimensioni 4.4.13 Vuoti, Pori, Dimensioni - Tabella 4.66, p. 211 
 en Pores, Size Voids, Pores, Size 4.4.13 Voids, Pores, Size - Table 4.66, p. 211 
@@ -151,11 +155,16 @@ it Pori, abbondanza Pori, abbondanza 4.4.13 Vuoti, Pori, Abbondanza - Tabella 4.
 en Pores, Abundance Voids, Pores, Abundance 4.4.13 Voids, Pores, Abundance - Table 4.65, p. 211 
 # prof_ut_lim 
 it Radici, Limitazione Limitazione all'approfondimento radicale 4.5.5 Limitazioni ed impedimenti all’approfondimento delle radici - Tabella 4.93, p. 225 
-en Root, Limitation Root Penetration Limitation 4.5.5 Limitations and Obstacles to Root Penetration - Table 4.93, p. 225 profondita it Profondità utile Profondità utile alle radici 4.5.4 Profondità utile alle radici - Tabella 4.92, p. 225 https://agroportal.lirmm.fr/ontologies/AWS/root_depth en Root-Accessible Depth Root-Accessible Depth 4.5.4 Root-Accessible Depth - Table 4.92, p. 225 
+en Root, Limitation Root Penetration Limitation 4.5.5 Limitations and Obstacles to Root Penetration - Table 4.93, p. 225 
+# profondita 
+it Profondità utile Profondità utile alle radici 4.5.4 Profondità utile alle radici - Tabella 4.92, p. 225 https://agroportal.lirmm.fr/ontologies/AWS/root_depth 
+en Root-Accessible Depth Root-Accessible Depth 4.5.4 Root-Accessible Depth - Table 4.92, p. 225 
 # radici_andamento 
 it Radici, andamento Andamento delle radici 4.4.16 Radici. Andamento - Tabella 4.77, p. 214 
 en Roots, Pattern Root Pattern 4.4.16 Roots, Pattern - Table 4.77, p. 214 
-radici_dim it Radici, dimensioni Dimensione delle radici 4.4.16 Radici. Classi dimensionali delle radici - Tabella 4.75, p. 214 en Roots, Size Roots, Root Size 4.4.16 Roots, Root Size Classes - Table 4.75, p. 214 
+# radici_dim 
+it Radici, dimensioni Dimensione delle radici 4.4.16 Radici. Classi dimensionali delle radici - Tabella 4.75, p. 214 
+en Roots, Size Roots, Root Size 4.4.16 Roots, Root Size Classes - Table 4.75, p. 214 
 # radici_fini_quant 
 it Radici fini, quantità Radici. Quantità delle radici fini e molto fini 4.4.16 Radici. Quantità delle radici fini e molto fini - Tabella 4.76, p. 214 http://w3id.org/glosis/model/codelists/RootsAbundanceValueCode 
 en Fine Roots Quantity Roots, Quantity of Fine to Very Fine Roots 4.4.16 Roots, Quantity of Fine to Very Fine Roots - Table 4.76, p. 214 
@@ -170,7 +179,10 @@ it Materiale genitore, Relazioni Descrizione del parent material (materiale geni
 en Parent Material, Relations Relations between Parent Material and Substrate 4.3.2 Parent Material Description, Relations between Parent Material and Substrate - Table 4.24, p. 172 
 # roccia_prof 
 it Profondità della roccia Profondità della roccia 4.5.6 Profondità della roccia - Tabella 4.94, p. 226 https://lod.nal.usda.gov/nalt/63373 
-en Bedrock Depth Bedrock Depth 4.5.6 Bedrock Depth - Table 4.94, p. 226 rocciosita it Rocciosità Caratteri di superficie, Rocciosità 4.3.4 Caratteri di superficie, Rocciosità - Tabella 4.29, p. 180 http://w3id.org/glosis/model/codelists/RockOutcropsCoverValueCode en Rockiness Surface Features, Rockiness 4.3.4 Surface Features, Rockiness - Table 4.29, p. 180 
+en Bedrock Depth Bedrock Depth 4.5.6 Bedrock Depth - Table 4.94, p. 226 
+# rocciosita 
+it Rocciosità Caratteri di superficie, Rocciosità 4.3.4 Caratteri di superficie, Rocciosità - Tabella 4.29, p. 180 http://w3id.org/glosis/model/codelists/RockOutcropsCoverValueCode 
+en Rockiness Surface Features, Rockiness 4.3.4 Surface Features, Rockiness - Table 4.29, p. 180 
 # schel_alt 
 it Scheletro, alterazione Frammenti grossolani, Stato di alterazione 4.4.7 Frammenti grossolani, Stato di alterazione - Tabella 4.52, p. 197 " https://lod.nal.usda.gov/nalt/51645" 
 en Coarse Fragments, Weathering State Coarse Fragments, Weathering State 4.4.7 Coarse Fragments, Weathering State - Table 4.52, p. 197 
