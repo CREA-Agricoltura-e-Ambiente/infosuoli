@@ -6,8 +6,6 @@ Codelists are listed as "Collection" & "Value".
 A collection aggregates valid entries for a single observable property. The collection is exposed by: localid, Language, collection, label, description, definition, status, isEquivalentTo.
 a value is the valid entry for a particular occurrence of a single observable property. The value is exposed by: localid, Language, collection, label, description, definition, status, isEquivalentTo.
 
-localid Language label description definition. https://doi.org/10.5281/zenodo.7589089 isEquivalentTo Language label description definition 
-
 # asp_sup 
 it Aspetti superficiali Aspetti superficiali pedologici e biologici 4.3.4 Caratteri di superficie. Aspetti superficiali, Pedologici e biologici - Tabella 4.28, p. 179 
 en pedobiological Surface Features Surface Pedological and Biological Features 4.3.4 Surface Features, Surface Pedological and Biological Aspects - Table 4.28, p. 179 
