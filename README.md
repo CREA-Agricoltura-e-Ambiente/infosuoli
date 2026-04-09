@@ -7,8 +7,8 @@ A collection aggregates valid entries for a single observable property. The coll
 a value is the valid entry for a particular occurrence of a single observable property. The value is exposed by: localid, Language, collection, label, description, definition, status, isEquivalentTo.
 
 # asp_sup 
-it Aspetti superficiali Aspetti superficiali pedologici e biologici 4.3.4 Caratteri di superficie. Aspetti superficiali, Pedologici e biologici - Tabella 4.28, p. 179 
-en pedobiological Surface Features Surface Pedological and Biological Features 4.3.4 Surface Features, Surface Pedological and Biological Aspects - Table 4.28, p. 179 
+<p>it Aspetti superficiali Aspetti superficiali pedologici e biologici 4.3.4 Caratteri di superficie. Aspetti superficiali, Pedologici e biologici - Tabella 4.28, p. 179 
+<p>en pedobiological Surface Features Surface Pedological and Biological Features 4.3.4 Surface Features, Surface Pedological and Biological Aspects - Table 4.28, p. 179 
 # aspet_antrop 
 it Aspetti antropici Aspetti superficiali antropogenici 4.3.4 Caratteri di superficie. Aspetti superficiali, antropogenici - Tabella 4.28, p. 179 http://w3id.org/glosis/model/codelists/HumanInfluenceClassValueCode 
 en antropic Surface Features Human influence - class 4.3.4 Surface Features, Surface Anthropogenic Aspects - Table 4.28, p. 179 
