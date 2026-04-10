@@ -1,9 +1,15 @@
 # infosuoli
 infosuoli.crea.gov.it  - Database e cartografia digitale del suolo
 
-The CREA Soil database (https://zenodo.org/records/7589089), is getting compliancy with INSPIRE (https://knowledge-base.inspire.ec.europa.eu/publications/inspire-data-specification-soil-technical-guidelines_en) thanks to EJP-Soil & SoilWise Projects (https://ejpsoil.eu/; https://soilwise-he.eu/). This repository is aimed to publish the CREA soil database codelists, as csv & json files. CSVs expose both the italian & english definitions while json expose just the english definitions.
+This repository documents CREA codelist adopted in
+Costantini E. A. C., R. Barbetti, M. Fantappiè, G. L'Abate, S. Magini, M. Paolanti, & R. Rivieccio. (2008). Linee guida dei metodi di rilevamento e informatizzazione dei dati pedologici (edizione web (2011), pag. XV, 280) [Computer software]. Edizioni SELCA. https://doi.org/10.5281/zenodo.7589089
+Both Italian & English labelling is included
+
+The [Computer software] was a Soil database (https://zenodo.org/records/7589089) based on MS Access. Its compliance with INSPIRE (https://knowledge-base.inspire.ec.europa.eu/publications/inspire-data-specification-soil-technical-guidelines_en) was studied and improved thanks to EJP-Soil & SoilWise Projects (https://ejpsoil.eu/; https://soilwise-he.eu/). 
+
+The repository publish the CREA soil database codelists, as csv & json files. CSVs expose both the italian & english definitions while json expose just the english definitions.
 Codelists are listed as "Collection" & "Value".
-A collection aggregates valid entries for a single observable property. The collection is exposed by: localid, Language, collection, label, description, definition, status, isEquivalentTo.
+A collection or Codespace, aggregates valid entries for a single observable property. The collection is exposed by: localid, Language, collection, label, description, definition, status, isEquivalentTo.
 a value is the valid entry for a particular occurrence of a single observable property. The value is exposed by: localid, Language, collection, label, description, definition, status, isEquivalentTo.
 
 # asp_sup 
