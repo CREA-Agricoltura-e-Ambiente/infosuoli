@@ -14644,6 +14644,16 @@
           "parent": "EY"
         },
         {
+          "localid": "F00",
+          "Language": "en",
+          "collection": "fisiogr_forma",
+          "label": "F00",
+          "description": "fluvial origin between mountain ridge landforms",
+          "definition": "https://zenodo.org/records/7589089#tbl-4.9",
+          "status": "https://inspire.ec.europa.eu/registry/status/valid",
+          "parent": ""
+        },
+        {
           "localid": "FA",
           "Language": "en",
           "collection": "fisiogr_forma",
@@ -15303,6 +15313,16 @@
           "status": "https://inspire.ec.europa.eu/registry/status/valid",
           "parent": "M"
         },
+         {
+          "localid": "MPA",
+          "Language": "en",
+          "collection": "fisiogr_forma",
+          "label": "MPA",
+          "description": "Tidal flat",
+          "definition": "https://zenodo.org/records/7589089#tbl-4.9",
+          "status": "https://inspire.ec.europa.eu/registry/status/valid",
+          "parent": "MP"
+        },
         {
           "localid": "MPC",
           "Language": "en",
@@ -15639,6 +15659,16 @@
           "collection": "fisiogr_forma",
           "label": "PCV",
           "description": "crevasses splay or channel",
+          "definition": "https://zenodo.org/records/7589089#tbl-4.9",
+          "status": "https://inspire.ec.europa.eu/registry/status/valid",
+          "parent": "PC"
+        },
+        {
+          "localid": "PCW",
+          "Language": "en",
+          "collection": "fisiogr_forma",
+          "label": "PCW",
+          "description": "Interlaced channel paleochannel",
           "definition": "https://zenodo.org/records/7589089#tbl-4.9",
           "status": "https://inspire.ec.europa.eu/registry/status/valid",
           "parent": "PC"
@@ -16124,6 +16154,16 @@
           "parent": "V"
         },
         {
+          "localid": "VC",
+          "Language": "en",
+          "collection": "fisiogr_forma",
+          "label": "VC",
+          "description": "vulcanic cone",
+          "definition": "https://zenodo.org/records/7589089#tbl-4.9",
+          "status": "https://inspire.ec.europa.eu/registry/status/valid",
+          "parent": "V00"
+        },
+        {
           "localid": "VCC",
           "Language": "en",
           "collection": "fisiogr_forma",
@@ -16194,6 +16234,16 @@
           "parent": "V"
         },
         {
+          "localid": "VR",
+          "Language": "en",
+          "collection": "fisiogr_forma",
+          "label": "VR",
+          "description": "Crater",
+          "definition": "https://zenodo.org/records/7589089#tbl-4.9",
+          "status": "https://inspire.ec.europa.eu/registry/status/valid",
+          "parent": "V00"
+        },
+        {
           "localid": "VRM",
           "Language": "en",
           "collection": "fisiogr_forma",
@@ -16224,6 +16274,16 @@
           "parent": null
         },
         {
+          "localid": "WA",
+          "Language": "en",
+          "collection": "fisiogr_forma",
+          "label": "WA",
+          "description": "Aeolian accumulation area",
+          "definition": "https://zenodo.org/records/7589089#tbl-4.9",
+          "status": "https://inspire.ec.europa.eu/registry/status/valid",
+          "parent": "W00"
+        },
+        {
           "localid": "WE",
           "Language": "en",
           "collection": "fisiogr_forma",
@@ -16242,6 +16302,16 @@
           "definition": "https://zenodo.org/records/7589089#tbl-4.9",
           "status": "https://inspire.ec.europa.eu/registry/status/valid",
           "parent": "W"
+        },
+        {
+          "localid": "WDA",
+          "Language": "en",
+          "collection": "fisiogr_forma",
+          "label": "WDA",
+          "description": "Back-dune",
+          "definition": "https://zenodo.org/records/7589089#tbl-4.9",
+          "status": "https://inspire.ec.europa.eu/registry/status/valid",
+          "parent": "WD"
         },
         {
           "localid": "WDP",
