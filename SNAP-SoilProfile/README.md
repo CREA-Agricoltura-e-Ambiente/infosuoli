@@ -4,7 +4,7 @@ Derived from `opengisch/qfield-snap` (GPL-2.0); everything here is under the sam
 
 ## Files
 - `snap-media-plugin.zip` – QField plugin (`main.qml` + `metadata.txt`)
-- `make_media_gpkg.py` – creates `media.gpkg`, registers photo/audio/raster files from a folder
+- `media.gpkg` – registers photo/audio/raster files from a folder
 - `classify_media.py` – labels photos as `soilprofile` / `soilsite` with CLIP
 
 ## media.gpkg (table `media`, points, EPSG:4326)
