@@ -31,6 +31,8 @@ Identifier columns follow the SoilWise GeoPackage for INSPIRE Soil
    - `notes`: text edit (Vocal QField dictation goes here)
 3. Save the project next to `media.gpkg`, package with QFieldSync / QFieldCloud.
 4. Install `snap-media-plugin.zip` in QField (settings → plugin manager).
+   <img width="2048" height="2048" alt="KXqDQ5" src="https://github.com/user-attachments/assets/ee9cad31-13e0-4063-a4f5-ccd45a4e75fe" />
+
 
 ## In the field
 - On project start a dialog asks for the **INSPIRE namespace** (max 20 chars: letters, digits `.` `_` `-`).
